@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My experiment</title>
+        <script src="jspsych-6.0.2/jspsych.js"></script>
+        <script src="jspsych-6.0.2/plugins/jspsych-fullscreen.js"></script>
+        <script src="jspsych-6.0.2/plugins/jspsych-video.js"></script>
+        <script src="jspsych-6.0.2/plugins/jspsych-survey-text.js"></script>
+        <script src="jspsych-6.0.2/plugins/jspsych-survey-likert.js"></script>
+        <script src="jspsych-6.0.2/plugins/jspsych-html-keyboard-response.js"></script>
+        <script src="jspsych-6.0.2/plugins/jspsych-image-keyboard-response.js"></script>
+        <link href="jspsych-6.0.2/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+    </head>
+    <body></body>
+    <script>
+
+    var timeline = [];
+
+    timeline.push({
+        type: 'fullscreen',
+        fullscreen_mode: true
+    });
+
+    var welcome = {
+        type: "html-keyboard-response",
+        stimulus: "Welcome to the experiment. Press any key to begin."
+    };
+    timeline.push(welcome);
+
+    /* define instructions trial */
+    var instructions = {
+        type: "html-keyboard-response",
+        stimulus: "<p>During this experiment you will be shown 10 short videos.</p>" +
+        "<p> After each video you will be asked some questions about what you have watched.<p/>" +
+        "<p>Press any key to begin.</p>",
+        post_trial_gap: 2000
+    };
+    timeline.push(instructions);
+
+    /* test trials */
+
+    var stimuli = [
+        { stimulus: "clips/2017-05-18-152118060656-independentdistress.mp4" },
+        { stimulus: "clips/raw-2017-05-18-152118060656-independentdistress.mp4" }
+    ];
+
+    var video_stimulus = {
+        type: "video",
+        width: 700,
+        height: 500,
+        prompt: "<p>(sound has been suppressed)</p>",
+        sources: [jsPsych.timelineVariable('stimulus')],
+    };
+
+    var free_text = {
+        type: 'survey-text',
+        questions: [{prompt: "Describe what you have just seen (you must write at least 20 characters).",
+                     rows: 5, columns: 40}],
+    };
+
+
+
+    var scale_yes_no = ["Yes", "Not sure", "No"];
+    var scale_1 = ["Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree"];
+
+    var likert_page = {
+        type: 'survey-likert',
+        questions: [{prompt: "Are these characters getting along well?", labels: scale_yes_no},
+                    {prompt: "I like holidays.", labels: scale_1}]
+    };
+
+    var test_procedure = {
+        timeline: [video_stimulus, likert_page, free_text],
+        timeline_variables: stimuli,
+        repetitions: 10,
+        randomize_order: true
+    }
+    timeline.push(test_procedure);
+
+    /* define debrief */
+
+    var debrief_block = {
+        type: "html-keyboard-response",
+        stimulus: function() {
+
+            var trials = jsPsych.data.get().filter({test_part: 'test'});
+            var correct_trials = trials.filter({correct: true});
+            var accuracy = Math.round(correct_trials.count() / trials.count() * 100);
+            var rt = Math.round(correct_trials.select('rt').mean());
+
+            return "<p>You responded correctly on "+accuracy+"% of the trials.</p>"+
+                "<p>Your average response time was "+rt+"ms.</p>"+
+                "<p>Press any key to complete the experiment. Thank you!</p>";
+
+        }
+    };
+    timeline.push(debrief_block);
+
+    /* start the experiment */
+    jsPsych.init({
+        timeline: timeline,
+        show_progress_bar: true,
+        on_finish: function() {
+            jsPsych.data.displayData();
+        }
+    });
+    </script>
+</html>
