@@ -14,95 +14,230 @@
     <body></body>
     <script>
 
-    var timeline = [];
+    // generate a random subject ID
+    var subject_id = Math.floor(Math.random()*10000);
 
+    jsPsych.data.addProperties({
+      subject: subject_id,
+    });
+
+//Open full screen window
+    var timeline = [];
     timeline.push({
         type: 'fullscreen',
         fullscreen_mode: true
     });
 
+//Welcome page
     var welcome = {
         type: "html-keyboard-response",
         stimulus: "Welcome to the experiment. Press any key to begin."
     };
     timeline.push(welcome);
 
-    /* define instructions trial */
+//Instructions page
     var instructions = {
         type: "html-keyboard-response",
-        stimulus: "<p>During this experiment you will be shown 10 short videos.</p>" +
+        stimulus: "<p>During this experiment you will be shown 4 short videos.</p>" +
         "<p> After each video you will be asked some questions about what you have watched.<p/>" +
         "<p>Press any key to begin.</p>",
-        post_trial_gap: 2000
+        post_trial_gap: 1500
     };
     timeline.push(instructions);
 
-    /* test trials */
-
-    var stimuli = [
+//stimulus lists for trials in skeleton video condition
+    var skel_trials = [
         { stimulus: "clips/2017-05-18-152118060656-independentdistress.mp4" },
-        { stimulus: "clips/raw-2017-05-18-152118060656-independentdistress.mp4" }
+        { stimulus: "clips/2017-06-01-102743523980-jointtask.mp4" },
+        { stimulus: "clips/2017-06-06-145135235899-independent.mp4" },
+        { stimulus: "clips/2017-06-06-150808383862-fight.mp4" },
+        { stimulus: "clips/2017-06-13-110008089945-fight.mp4" },
+        { stimulus: "clips/2017-06-13-140354392253-laugh.mp4" },
+        { stimulus: "clips/2017-06-16-110134843091-turntaking.mp4" },
+        { stimulus: "clips/2017-06-20-105505400084-showing.mp4" },
+        { stimulus: "clips/2017-06-20-140956193720-showingfight.mp4" },
+        { stimulus: "clips/2017-06-22-101045562870-playing.mp4" },
+        { stimulus: "clips/2017-06-22-111246014789-jointtask.mp4" },
+        { stimulus: "clips/2017-06-23-104918496756-independent.mp4" },
+        { stimulus: "clips/2017-06-26-112331105839-1task1watch.mp4" },
+        { stimulus: "clips/2017-06-27-105946305604-laughing.mp4" },
+        { stimulus: "clips/2017-06-27-143652394670-turntaking.mp4" },
+        { stimulus: "clips/2017-06-29-105524492596-1task1watch.mp4" },
+        { stimulus: "clips/2017-07-05-102437565816-gestures.mp4" },
+        { stimulus: "clips/2017-07-06-093740908665-demonstratemanhandle.mp4" },
+        { stimulus: "clips/2017-07-06-101405806926-adjusting.mp4" },
+        { stimulus: "clips/2017-07-06-110834943320-thinking.mp4" }
     ];
+//selection of four random videos from above list to use in trials
+    var skel_videos = jsPsych.randomization.sampleWithoutReplacement(skel_trials, 4);
 
+//stimulus lists for trials in original video condition
+    var orig_trials = [
+        { stimulus: "clips/raw-2017-05-18-152118060656-independentdistress.mp4" },
+        { stimulus: "clips/raw-2017-06-01-102743523980-jointtask.mp4" },
+        { stimulus: "clips/raw-2017-06-06-145135235899-independent.mp4" },
+        { stimulus: "clips/raw-2017-06-06-150808383862-fight.mp4" },
+        { stimulus: "clips/raw-2017-06-13-110008089945-fight.mp4" },
+        { stimulus: "clips/raw-2017-06-13-140354392253-laugh.mp4" },
+        { stimulus: "clips/raw-2017-06-16-110134843091-turntaking.mp4" },
+        { stimulus: "clips/raw-2017-06-20-105505400084-showing.mp4" },
+        { stimulus: "clips/raw-2017-06-20-140956193720-showingfight.mp4" },
+        { stimulus: "clips/raw-2017-06-22-101045562870-playing.mp4" },
+        { stimulus: "clips/raw-2017-06-22-111246014789-jointtask.mp4" },
+        { stimulus: "clips/raw-2017-06-23-104918496756-independent.mp4" },
+        { stimulus: "clips/raw-2017-06-26-112331105839-1task1watch.mp4" },
+        { stimulus: "clips/raw-2017-06-27-105946305604-laughing.mp4" },
+        { stimulus: "clips/raw-2017-06-27-143652394670-turntaking.mp4" },
+        { stimulus: "clips/raw-2017-06-29-105524492596-1task1watch.mp4" },
+        { stimulus: "clips/raw-2017-07-05-102437565816-gestures.mp4" },
+        { stimulus: "clips/raw-2017-07-06-093740908665-demonstratemanhandle.mp4" },
+        { stimulus: "clips/raw-2017-07-06-101405806926-adjusting.mp4" },
+        { stimulus: "clips/raw-2017-07-06-110834943320-thinking.mp4" }
+    ];
+//selection of four random videos from above list to use in trials
+    var orig_videos = jsPsych.randomization.sampleWithoutReplacement(orig_trials, 4);
+
+//video display
     var video_stimulus = {
         type: "video",
         width: 700,
         height: 500,
-        prompt: "<p>(sound has been suppressed)</p>",
+        prompt: "<p>(this video has no sound)</p>",
         sources: [jsPsych.timelineVariable('stimulus')],
     };
 
-    var free_text = {
+//open-ended questions
+    var free_text1 = {
         type: 'survey-text',
         questions: [{prompt: "Describe what you have just seen (you must write at least 20 characters).",
                      rows: 5, columns: 40}],
     };
+    var free_text2 = {
+        type: 'survey-text',
+        questions: [{prompt: "How old do you think these characters are?",
+                     rows: 5, columns: 40}],
+    };
 
-
-
+//scales for specific questions
     var scale_yes_no = ["Yes", "Not sure", "No"];
-    var scale_1 = ["Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree"];
+    var scale_relationship = ["Friends", "Neutral", "Not Friends"];
+    var options_1 = ["Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree"];
+    var options_2 = ["Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree"];
 
-    var likert_page = {
-        type: 'survey-likert',
-        questions: [{prompt: "Are these characters getting along well?", labels: scale_yes_no},
-                    {prompt: "I like holidays.", labels: scale_1}]
+//specific questions
+    var likert_page3 = {
+      type: 'survey-likert',
+      questions: [{prompt:"Are these characters getting along well?", labels: scale_yes_no}]
+    };
+    var likert_page4 = {
+      type: 'survey-likert',
+      questions: [{prompt:"What is the relationship between these characters?", labels: scale_relationship}]
+    };
+    var likert_page5 = {
+      type: 'survey-likert',
+      questions: [{prompt:"Are these characters working together?", labels: scale_yes_no}]
+    };
+    var multi_page6 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was dominant", labels: options_1}, {prompt:"The character on my right was dominant", labels: options_2}]
+    };
+    var multi_page7 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was cooperative", labels: options_1}, {prompt:"The character on my right was cooperative", labels: options_2}]
+    };
+    var multi_page8 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was competitive", labels: options_1}, {prompt:"The character on my right was competitive", labels: options_2}]
+    };
+    var multi_page9 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was friendly", labels: options_1}, {prompt:"The character on my right was friendly", labels: options_2}]
+    };
+    var multi_page10 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was aggressive", labels: options_1}, {prompt:"The character on my right was aggressive", labels: options_2}]
+    };
+    var multi_page11 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was engaged with the task", labels: options_1}, {prompt:"The character on my right was engaged with the task", labels: options_2}]
+    };
+    var multi_page12 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was feeling fearful", labels: options_1}, {prompt:"The character on my right was feeling fearful", labels: options_2}]
+    };
+    var multi_page13 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was feeling sad", labels: options_1}, {prompt:"The character on my right was feeling sad", labels: options_2}]
+    };
+    var multi_page14 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was feeling amused", labels: options_1}, {prompt:"The character on my right was feeling amused", labels: options_2}]
+    };
+    var multi_page15 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was feeling angry", labels: options_1}, {prompt:"The character on my right was feeling angry", labels: options_2}]
+    };
+    var multi_page16 = {
+      type: 'survey-likert',
+      questions: [{prompt:"The character on my left was feeling content", labels: options_1}, {prompt:"The character on my right was feeling content", labels: options_2}]
     };
 
-    var test_procedure = {
-        timeline: [video_stimulus, likert_page, free_text],
-        timeline_variables: stimuli,
-        repetitions: 10,
+//conditions
+    var condition1 = {
+        timeline: [video_stimulus, free_text1],
+        timeline_variables: skel_videos,
         randomize_order: true
-    }
-    timeline.push(test_procedure);
-
-    /* define debrief */
-
-    var debrief_block = {
-        type: "html-keyboard-response",
-        stimulus: function() {
-
-            var trials = jsPsych.data.get().filter({test_part: 'test'});
-            var correct_trials = trials.filter({correct: true});
-            var accuracy = Math.round(correct_trials.count() / trials.count() * 100);
-            var rt = Math.round(correct_trials.select('rt').mean());
-
-            return "<p>You responded correctly on "+accuracy+"% of the trials.</p>"+
-                "<p>Your average response time was "+rt+"ms.</p>"+
-                "<p>Press any key to complete the experiment. Thank you!</p>";
-
-        }
     };
-    timeline.push(debrief_block);
+
+    var condition2 = {
+        timeline: [video_stimulus, free_text1, free_text2, likert_page3, likert_page4, likert_page5, multi_page6, multi_page7, multi_page8, multi_page9, multi_page10, multi_page11, multi_page12, multi_page13, multi_page14, multi_page15, multi_page16],
+        timeline_variables: skel_videos,
+        randomize_order: true
+    };
+    var condition3 = {
+        timeline: [video_stimulus, free_text1],
+        timeline_variables: orig_videos,
+        randomize_order: true
+    };
+
+    var condition4 = {
+        timeline: [video_stimulus, free_text1, free_text2, likert_page3, likert_page4, likert_page5, multi_page6, multi_page7, multi_page8, multi_page9, multi_page10, multi_page11, multi_page12, multi_page13, multi_page14, multi_page15, multi_page16],
+        timeline_variables: orig_videos,
+        randomize_order: true
+    };
+
+    var thankyou = {
+    type: "html-keyboard-response",
+    stimulus: "<p>You have reached the end of the experiment.<br /> Thank you very much for participating!<br /> Press any key to save data file, then press ESC to exit.</p>"
+  };
+
+//condition assignment according to randomly generated participant number
+    var timelineAssigned = [];
+
+    if(subject_id%4 == 0){
+      timelineAssigned = timeline.concat(condition1, thankyou);
+    } else if (subject_id%4 == 1){
+      timelineAssigned = timeline.concat(condition2, thankyou);
+    } else if (subject_id%4 == 2){
+      timelineAssigned = timeline.concat(condition3, thankyou);
+    } else if (subject_id%4 == 3){
+      timelineAssigned = timeline.concat(condition4, thankyou);
+    };
+
+//display condition number in data file
+    jsPsych.data.addProperties({
+      condition: (subject_id%4)+1,
+    });
+
 
     /* start the experiment */
-    jsPsych.init({
-        timeline: timeline,
-        show_progress_bar: true,
+
+      jsPsych.init({
+        timeline: timelineAssigned,
         on_finish: function() {
-            jsPsych.data.displayData();
+          console.log(jsPsych.data.get().csv());
+    	    jsPsych.data.get().localSave('csv','mydata.csv');
         }
-    });
+      });
     </script>
 </html>
