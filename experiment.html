@@ -38,14 +38,14 @@
 //Welcome page
     var welcome = {
         type: "html-keyboard-response",
-        stimulus: "Welcome to the experiment. Press any key to begin."
+        stimulus: "<h2>Welcome!</h2><p>Press any key to begin.</p>"
     };
     timeline.push(welcome);
 
     // declare the block.
     var consent_trial = {
       type: 'html-button-response',
-      stimulus: '<p> Consent Form. <p>' + '<p> In this experiment you will watch videos of children interacting.<p>' + '<p> You will be asked questions about each video that you watch. <p>' + '<p> Your responses will be anonymised and saved at the end of the experiment. You will have the option to not save your responses at this time. <p>' + '<p> You can withdraw from the experiment any time by pressing the ESC button during the experiment. <p>' + '<p> If you have any questions or would like to withdraw your data from the study after completing the experiment please contact XX at XX@xx.com <p>' + '<p> <p>' + '<p> Please indicate below if you consent to participate in this study. (If you choose not to consent, press ESC to leave the experiment window.) <p>',
+      stimulus: '<h2>First, we need your consent</h2>' + '<p> In this experiment you will watch videos of children interacting.</p>' + '<p> You will be asked questions about each video that you watch. </p>' + '<p> Your responses will be anonymised and saved at the end of the experiment. You will have the option to not save your responses at this time. </p>' + '<p> You can withdraw from the experiment any time by pressing the ESC button during the experiment. </p>' + '<p> If you have any questions or would like to withdraw your data from the study after completing the experiment please contact XX at XX@xx.com </p>' + '<p style="margin-top:50px;font-style:italic"> Please indicate below if you consent to participate in this study. (If you choose not to consent, press ESC to leave the experiment window.) <p>',
       choices: ['I consent','I do not consent'],
       on_finish: function(data){
         if(data.button_pressed == 1){
@@ -61,7 +61,7 @@
         stimulus: "<p>During this experiment you will be shown 4 short videos of children interacting.</p>" +
         "<p> Pay particular attention to the way the children interact. </p>"+
         "<p> After each video you will be asked some questions about what you have watched. <p/>" +
-        "<p>Press any key to begin.</p>",
+        "<p style='margin-top:50px;font-style:italic'>Press any key to begin.</p>",
         post_trial_gap: 1500
     };
     timeline.push(instructions);
