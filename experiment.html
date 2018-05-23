@@ -3,6 +3,7 @@
 <html>
     <head>
         <title>My experiment</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
         <script src="jspsych-6.0.2/jspsych.js"></script>
         <script src="jspsych-6.0.2/plugins/jspsych-fullscreen.js"></script>
         <script src="jspsych-6.0.2/plugins/jspsych-html-button-response.js"></script>
@@ -17,15 +18,15 @@
         <script>
 
       // generate a random subject ID
-    var subject_id = Math.floor(Math.random()*10000);
-    //var mturkID = jsPsych.data.getURLVariable('mturkID');
-    //var workerID = jsPsych.data.getURLVariable('workerID');
-    //var hitID = jsPsych.data.getURLVariable('hitID');
-    //var turkInfo = jsPsych.getTurkInfo();
+    var participant = Math.floor(Math.random()*10000);
+    var survey_code = Math.floor(Math.random()*10000000);
+    var pstring = participant.toString();
+    var sstring = survey_code.toString();
+    var subject_id = pstring + sstring;
 
     jsPsych.data.addProperties({
-      subject: subject_id,
-      //turkDetails: turkInfo,
+      subject: participant,
+      surveyCode: survey_code,
     });
 
 //Open full screen window
@@ -38,33 +39,80 @@
 //Welcome page
     var welcome = {
         type: "html-keyboard-response",
-        stimulus: "<h2>Welcome!</h2><p>Press any key to begin.</p>"
+        stimulus: "Welcome to the experiment. Press any key to begin."
     };
     timeline.push(welcome);
 
-    // declare the block.
-    var consent_trial = {
-      type: 'html-button-response',
-      stimulus: '<h2>First, we need your consent</h2>' + '<p> In this experiment you will watch videos of children interacting.</p>' + '<p> You will be asked questions about each video that you watch. </p>' + '<p> Your responses will be anonymised and saved at the end of the experiment. You will have the option to not save your responses at this time. </p>' + '<p> You can withdraw from the experiment any time by pressing the ESC button during the experiment. </p>' + '<p> If you have any questions or would like to withdraw your data from the study after completing the experiment please contact XX at XX@xx.com </p>' + '<p style="margin-top:50px;font-style:italic"> Please indicate below if you consent to participate in this study. (If you choose not to consent, press ESC to leave the experiment window.) <p>',
-      choices: ['I consent','I do not consent'],
-      on_finish: function(data){
-        if(data.button_pressed == 1){
-          jsPsych.endExperiment();
-    }
-  }
-}
-    timeline.push(consent_trial);
+//MTurk ID
+  var mturkID = {
+      type: 'survey-text',
+      questions: [{prompt: "Please enter your MTurk Worker ID: ",
+                  rows: 1, columns: 70}],
+  };
+     timeline.push(mturkID);
+
+     jsPsych.data.addProperties({
+       mturkID: mturkID,
+     });
+
+     // declare the block.
+     var consent_trial = {
+       type: 'html-button-response',
+       stimulus: '<p> Consent Form. <p>' + '<p> In this experiment you will watch videos of children interacting.<p>' + '<p> You will be asked questions about each video that you watch. <p>' + '<p> Your responses will be anonymised and saved at the end of the experiment.<p>' + '<p> You can withdraw from the experiment any time without penalty or loss of benefits to which you are otherwise entitled. You can withdraw by pressing the ESC button during the experiment, or by contacting the researchers after completing the experiment. <p>' + '<p> If you have any questions please contact Severin Lemaignan at severin.lemaignan@uwe.ac.uk <p>' + '<p> <p>' + '<p> Please indicate below if you consent to participate in this study. (If you choose not to consent, press ESC to leave the experiment window.) <p>',
+       choices: ['I consent','I do not consent'],
+       on_finish: function(data){
+         if(data.button_pressed == 1){
+           jsPsych.endExperiment();
+         if(data.button_pressed == 0){
+           jsPsych.data.addProperties({
+             consent: "consent given"
+           });
+       }
+     }
+   }
+ }
+     timeline.push(consent_trial);
 
 //Instructions page
-    var instructions = {
+  var instructionsskel = {
+      type: "html-keyboard-response",
+      stimulus: "<p>During this experiment you will be shown 4 short videos of skeletal figures representing children interacting.</p>" +
+      "<p> Pay particular attention to the way the children interact. </p>"+
+      "<p> After each video you will be asked some questions about what you have watched. <p/>" +
+      "<p>Press any key to begin.</p>",
+      post_trial_gap: 1500
+    };
+
+    var instructionsorig = {
         type: "html-keyboard-response",
         stimulus: "<p>During this experiment you will be shown 4 short videos of children interacting.</p>" +
         "<p> Pay particular attention to the way the children interact. </p>"+
         "<p> After each video you will be asked some questions about what you have watched. <p/>" +
-        "<p style='margin-top:50px;font-style:italic'>Press any key to begin.</p>",
+        "<p>Press any key to begin.</p>",
         post_trial_gap: 1500
     };
-    timeline.push(instructions);
+
+    //Demographics
+      var demographics1 = {
+          type: 'survey-text',
+          questions: [{prompt: "How old are you?"}, {prompt: "What is your nationality?"}, {prompt: "What is your first language?"}, {prompt: "What is your highest educational qualification?"}],
+      };
+
+         jsPsych.data.addProperties({
+           Demographics: demographics1,
+         });
+
+      var scale_gender = ["Male", "Female", "Prefer not to say"];
+
+     //Demographics
+       var demographics2 = {
+           type: 'survey-likert',
+           questions: [{prompt:"What is your gender?", labels: scale_gender}]
+       };
+
+          jsPsych.data.addProperties({
+            Demographics: demographics2,
+          });
 
 //stimulus lists for trials in skeleton video condition
     var skel_trials = [
@@ -192,7 +240,7 @@
     };
     var multi_page14 = {
       type: 'survey-likert',
-      questions: [{prompt:"The character on my left was feeling amused", labels: options_1}, {prompt:"The character on my right was feeling amused", labels: options_2}]
+      questions: [{prompt:"The character on my left was feeling content", labels: options_1}, {prompt:"The character on my right was feeling content", labels: options_2}]
     };
     var multi_page15 = {
       type: 'survey-likert',
@@ -200,7 +248,7 @@
     };
     var multi_page16 = {
       type: 'survey-likert',
-      questions: [{prompt:"The character on my left was feeling content", labels: options_1}, {prompt:"The character on my right was feeling content", labels: options_2}]
+      questions: [{prompt:"The character on my left was feeling amused", labels: options_1}, {prompt:"The character on my right was feeling amused", labels: options_2}]
     };
 
 //conditions
@@ -227,38 +275,57 @@
         randomize_order: true
     };
 
+    var debriefskel = {
+      type: "html-keyboard-response",
+      stimulus: "<p>Debrief.<br /> This study examines what types of information humans can gain from observing people's movements in a social interaction. <br /> We showed you skeleton versions of videos of social interactions showing stick-men figures. <br /> Other participants will have watched the original videos of real people. <br /> We want to know what people can work out about the interaction from watching the stick figures (movement only) compared to the original videos. <br /> If you have any questions please contact Severin Lemaignan at severin.lemaignan@uwe.ac.uk <br /> Press any key to continue. </p>"
+    };
+
+    var debrieforig = {
+      type: "html-keyboard-response",
+      stimulus: "<p>Debrief.<br /> This study examines what types of information humans can gain from observing people's movements in a social interaction. <br /> We showed you the original versions of videos of social interactions showing real people. <br /> Other participants will have watched skeleton versions showing stick-figures. <br /> We want to know what people can work out about the interaction from watching the stick figures (movement only) compared to the original videos. <br /> If you have any questions please contact Severin Lemaignan at severin.lemaignan@uwe.ac.uk <br /> Press any key to continue. </p>"
+    };
+
     var thankyou = {
     type: "html-keyboard-response",
-    stimulus: "<p>You have reached the end of the experiment.<br /> Thank you very much for participating!<br /> Press any key to save data file, then press ESC to exit.</p>"
+    choices: [13],
+    stimulus: "This is your Survey Completion Code. Please note this down and submit it to MTurk: " + survey_code + "<p>You have reached the end of the experiment.<br /> Thank you very much for participating!<br /> Press ESC to leave the experiment window.</p>"
   };
 
 //condition assignment according to randomly generated participant number
     var timelineAssigned = [];
 
-    if(subject_id%4 == 0){
-      timelineAssigned = timeline.concat(condition1, thankyou);
-    } else if (subject_id%4 == 1){
-      timelineAssigned = timeline.concat(condition2, thankyou);
-    } else if (subject_id%4 == 2){
-      timelineAssigned = timeline.concat(condition3, thankyou);
-    } else if (subject_id%4 == 3){
-      timelineAssigned = timeline.concat(condition4, thankyou);
+    if(participant%4 == 0){
+      timelineAssigned = timeline.concat(demographics1, demographics2, instructionsskel, condition1, debriefskel, thankyou);
+    } else if (participant%4 == 1){
+      timelineAssigned = timeline.concat(demographics1, demographics2, instructionsskel, condition2, debriekskel, thankyou);
+    } else if (participant%4 == 2){
+      timelineAssigned = timeline.concat(demographics1, demographics2, instructionsorig, condition3, debrieforig, thankyou);
+    } else if (participant%4 == 3){
+      timelineAssigned = timeline.concat(demographics1, demographics2, instructionsorig, condition4, debrieforig, thankyou);
     };
 
 //display condition number in data file
     jsPsych.data.addProperties({
-      condition: (subject_id%4)+1,
+      condition: (participant%4)+1,
     });
 
+    function saveData(filename, filedata){
+       $.ajax({
+          type:'post',
+          cache: false,
+          url: 'write_data.php',
+          data: {filename: filename, filedata: filedata}
+       });
+    }
 
     /* start the experiment */
 
-      jsPsych.init({
-        timeline: timelineAssigned,
-        on_finish: function() {
-          console.log(jsPsych.data.get().csv());
-    	    jsPsych.data.get().localSave('csv', subject_id+'Data.csv');
-        }
-      });
+    jsPsych.init({
+      timeline: timelineAssigned,
+      on_trial_finish: function(){
+        saveData(subject_id+"_data.csv", jsPsych.data.get().csv());
+      }
+    });
+
     </script>
 </html>
