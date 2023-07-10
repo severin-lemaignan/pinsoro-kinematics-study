@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My experiment</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/jquery-ui.min.js"></script>
+        <script src="jspsych-6.0.5/jspsych.js"></script>
+        <script src="jspsych-6.0.5/plugins/jspsych-fullscreen.js"></script>
+        <script src="jspsych-6.0.5/plugins/jspsych-html-button-response.js"></script>
+        <script src="jspsych-6.0.5/plugins/jspsych-video.js"></script>
+        <script src="jspsych-6.0.5/plugins/jspsych-survey-text.js"></script>
+        <script src="jspsych-6.0.5/plugins/jspsych-survey-multi-choice.js"></script>
+        <script src="jspsych-6.0.5/plugins/jspsych-survey-likert.js"></script>
+        <script src="jspsych-6.0.5/plugins/jspsych-html-keyboard-response.js"></script>
+        <script src="jspsych-6.0.5/plugins/jspsych-image-keyboard-response.js"></script>
+        <link rel="stylesheet" href="js/jquery-ui.css"></link>
+        <link href="jspsych-6.0.5/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+    </head>
+    <body>
+    </body>
+    <p id="question1"></p>
+    <p id="question2"></p>
+    <p id="question3"></p>
+    <p id="question4"></p>
+    <p id="question5"></p>
+    <p id="question6"></p>
+    <p id="question7"></p>
+    <p id="question8"></p>
+    <p id="question9"></p>
+    <p id="question10"></p>
+    <p id="question11"></p>
+    <p id="question12"></p>
+    <p id="question13"></p>
+    <p id="question14"></p>
+    <p id="question15"></p>
+    <p id="question16"></p>
+    <p id="question17"></p>
+    <p id="question18"></p>
+    <p id="question19"></p>
+    <p id="question20"></p>
+    <p id="question21"></p>
+    <p id="question22"></p>
+    <p id="question23"></p>
+    <p id="question24"></p>
+    <p id="question25"></p>
+    <p id="question26"></p>
+    <p id="question27"></p>
+    <p id="question28"></p>
+    <p id="question29"></p>
+    <p id="question30"></p>
+        <script>
+// Generate a random subject ID
+    var participant = Math.floor(Math.random()*100);
+    var survey_code = 'kin' + jsPsych.randomization.randomID(9);
+    var pstring = participant.toString();
+    var sstring = survey_code.toString();
+    var subject_id = pstring + sstring;
+    jsPsych.data.addProperties({
+      subject: participant,
+      surveyCode: survey_code,
+      condition: "2",
+    });
+//Open full screen window
+    var timeline = [];
+    timeline.push({
+      type: 'fullscreen',
+      fullscreen_mode: true
+    });
+//Welcome page
+    var welcome = {
+      type: "html-keyboard-response",
+      stimulus: "Welcome to the experiment. Press any key to begin."
+    };
+    timeline.push(welcome);
+//MTurk ID
+  var mturkID = {
+    type: 'survey-text',
+    questions: [{prompt: "Please enter your MTurk Worker ID: ",
+    rows: 1, columns: 70}],
+  };
+  timeline.push(mturkID);
+  jsPsych.data.addProperties({
+    mturkID: mturkID,
+  });
+// Consent.
+     var consent_trial = {
+       type: 'html-button-response',
+       stimulus: '<p> Consent Form. <p>' + '<p> In this experiment you will watch videos of children interacting.<p>' +
+       '<p> You will be asked questions about each video that you watch. <p>' +
+       '<p> Your responses will be anonymised and saved at the end of the experiment.<p>' +
+       '<p> You can withdraw from the experiment any time. You can withdraw by pressing the ESC button during the experiment, or by contacting the researchers after completing the experiment. <p>' +
+       '<p><strong> Please note: In order to receive payment for this study, you must complete the experiment properly. </strong></p>' +
+       '<p><strong> Your responses will be checked to ensure that you are not giving the same response on every question or answering randomly. </strong></p>' +
+       '<p><strong> If you have not responded properly we reserve the right to deny payment. </strong></p>' +
+       '<p> If you have any questions please contact Dr. Severin Lemaignan at severin.lemaignan@uwe.ac.uk or Madeleine Bartlett at madeleine.bartlett@plymouth.ac.uk <p>' +
+       '<p> <p>' + '<p> Please indicate below if you consent to participate in this study. (If you choose not to consent, press ESC to leave the experiment window.) <p>',
+       choices: ['I consent','I do not consent'],
+       on_finish: function(data){
+         if(data.button_pressed == 1){
+           jsPsych.endExperiment();
+           if(data.button_pressed == 0){
+             jsPsych.data.addProperties({
+               consent: "consent given"
+             });
+           }
+         }
+       }
+     }
+     timeline.push(consent_trial);
+//Demographics
+    var options_nation = ["American", "Indian", "British", "Other"];
+    var options_lang = ["English", "Tamil", "Malayalam", "Hindi", "Spanish", "Other"];
+    var options_gender = ["Male", "Female", "Prefer not to say"];
+    var demographics1 = {
+      type: 'survey-multi-choice',
+      questions: [{prompt: "What is your nationality?", options: options_nation, required: true, horizontal: true,}, {prompt: "What is your first language?", options: options_lang, required: true, horizontal: true,}, {prompt: "What is your gender?", options: options_gender, required: true, horizontal: true}],
+      preamble: "<p><strong>If you select 'Other' please enter your nationality and/or first language on the following page.</strong></p>"
+    };
+  var demographics2 = {
+    type: 'survey-text',
+    questions: [
+      {prompt: "What is your age?", rows: 1, columns: 3},
+      {prompt: "<p><strong>If you selected 'Other':</strong></p>" + "<p> What is your nationality</p>"},
+      {prompt: "<p> What is your first language?</p>"}],
+    };
+//Instructions page
+  var instructions1 = {
+      type: "html-keyboard-response",
+      stimulus: "<p>During this experiment you will be shown 4 30-second clips of children interacting.</p>" +
+      "<p> The children are sat either side of a touch-sceen table-top on which they can play a game. </p>" +
+      "<p><strong> Pay particular attention to the way the children interact. </strong></p>"+
+      "<p> After each video you will be asked some questions about what you have watched. <p/>",
+      choices: jsPsych.NO_KEYS,
+      trial_duration: 3500,
+    };
+    var instructions2 = {
+      type: "html-keyboard-response",
+      stimulus: "<p>During this experiment you will be shown 4 30-second clips of children interacting.</p>" +
+      "<p> The children are sat either side of a touch-sceen table-top on which they can play a game. </p>" +
+      "<p><strong> Pay particular attention to the way the children interact. </strong></p>"+
+      "<p> After each video you will be asked some questions about what you have watched. <p/>" +
+      "<p> Press any key to continue.</p>",
+    };
+    //Pretrial
+    var pretrial = {
+      type: "html-keyboard-response",
+      stimulus: "You are about to watch the next clip. Press any key to begin."
+    };
+    //Stimulus List
+    var video_stim = [
+      { stimulus: "clips/clip_01.mp4" },
+      { stimulus: "clips/clip_02.mp4" },
+      { stimulus: "clips/clip_03.mp4" },
+      { stimulus: "clips/clip_04.mp4" },
+      { stimulus: "clips/clip_05.mp4" },
+      { stimulus: "clips/clip_06.mp4" },
+      { stimulus: "clips/clip_07.mp4" },
+      { stimulus: "clips/clip_08.mp4" },
+      { stimulus: "clips/clip_09.mp4" },
+      { stimulus: "clips/clip_10.mp4" },
+      { stimulus: "clips/clip_11.mp4" },
+      { stimulus: "clips/clip_12.mp4" },
+      { stimulus: "clips/clip_13.mp4" },
+      { stimulus: "clips/clip_14.mp4" },
+      { stimulus: "clips/clip_15.mp4" },
+      { stimulus: "clips/clip_16.mp4" },
+      { stimulus: "clips/clip_17.mp4" },
+      { stimulus: "clips/clip_18.mp4" },
+      { stimulus: "clips/clip_19.mp4" },
+      { stimulus: "clips/clip_20.mp4" }
+    ];
+//Selection of four random videos from above list to use in trials
+  var vid_trials = jsPsych.randomization.sampleWithoutReplacement(video_stim, 4);
+//Video display
+  var video_stimulus = {
+      type: "video",
+      width: 700,
+      height: 500,
+      prompt: "<p>(This video has no sound)</p>",
+      sources: [jsPsych.timelineVariable('stimulus')],
+  };
+//Open-ended Question
+    var open_question = {
+      type: 'survey-text',
+      questions: [{prompt: "What did you notice about the children and their interaction? (min 10 words)",
+                   rows: 10,
+                   columns: 70
+                  }],
+        preamble: "<span></span>"
+    };
+
+    var compete =["The children were competing with one another."
+  ];
+    var coop =["The children were cooperating with one another."
+  ];
+    var sep =["The children were playing separately."
+  ];
+    var tog =["The children were playing together."
+  ];
+    var pair1 =["The child on the left was sad.",
+    "The child on the right was sad."
+  ];
+    var pair2 =["The child on the left was happy.",
+    "The child on the right was happy."
+  ];
+    var pair3 =["The child on the left was angry.",
+    "The child on the right was angry."
+  ];
+    var pair4 =["The child on the left was excited.",
+    "The child on the right was excited."
+  ];
+    var pair5 =["The child on the left was calm.",
+    "The child on the right was calm."
+  ];
+    var pair6 =["The child on the left was friendly.",
+    "The child on the right was friendly."
+  ];
+    var pair7 =["The child on the left was aggressive.",
+    "The child on the right was aggressive."
+  ];
+    var pair8 =["The child on the left was engaged with what they were doing on the table.",
+    "The child on the right was engaged with what they were doing on the table."
+  ];
+    var pair9 =["The child on the left was distracted from the table.",
+    "The child on the right was distracted from the table."
+  ];
+    var pair10 =["The child on the left was bored.",
+    "The child on the right was bored."
+  ];
+    var pair11 =["The child on the left was frustrated.",
+    "The child on the right was frustrated."
+  ];
+    var pair12 =["The child on the left was dominant.",
+    "The child on the right was dominant."
+  ];
+    var pair13 =["The child on the left was submissive.",
+    "The child on the right was submissive."
+  ];
+    var questions = [compete, coop, sep, tog, pair1, pair2, pair3, pair4, pair5,
+    pair6, pair7, pair8, pair9, pair10, pair11, pair12, pair13];
+    var questions1 = jsPsych.randomization.shuffle(questions);
+    questionorder = [];
+    questionorder = questionorder.concat(questions1[0], questions1[1], questions1[2], questions1[3], questions1[4],
+    questions1[5], questions1[6], questions1[7], questions1[8], questions1[9], questions1[10], questions1[11], questions1[12],
+    questions1[13], questions1[14], questions1[15], questions1[16], questions1[17]);
+//Scales for likert questions
+    var options_1 = ["Strongly Disagree", "Disagree", "Not Sure", "Agree", "Strongly Agree"];
+    var options_2 = ["Strongly Disagree", "Children", "Not Sure", "Adults", "Strongly Agree"];
+    var options_3 = ["Playing on Table", "Disagree", "Petting a Dog", "Agree", "Strongly Agree"];
+//Likert Questions
+    var qs_1to8 = {
+      type: 'survey-likert',
+      questions: [{prompt: document.getElementById("question1").innerHTML=questionorder[0], labels: options_1, required: true},
+      {prompt: document.getElementById("question2").innerHTML=questionorder[1], labels: options_1, required: true},
+      {prompt: document.getElementById("question3").innerHTML=questionorder[2], labels: options_1, required: true},
+      {prompt: document.getElementById("question4").innerHTML=questionorder[3], labels: options_1, required: true},
+      {prompt: document.getElementById("question5").innerHTML=questionorder[4], labels: options_1, required: true},
+      {prompt: document.getElementById("question6").innerHTML=questionorder[5], labels: options_1, required: true},
+      {prompt: document.getElementById("question7").innerHTML=questionorder[6], labels: options_1, required: true},
+      {prompt: document.getElementById("question8").innerHTML=questionorder[7], labels: options_1, required: true}],
+      preamble: "<p><strong>Page 1 of 4.</strong></p>" +
+                "<p><strong>How much do you agree with the following statements?</strong></p>"
+    };
+    var qs_9to16 = {
+      type: 'survey-likert',
+      questions: [{prompt: document.getElementById("question9").innerHTML=questionorder[8], labels: options_1, required: true},
+      {prompt: document.getElementById("question10").innerHTML=questionorder[9], labels: options_1, required: true},
+      {prompt: document.getElementById("question11").innerHTML=questionorder[10], labels: options_1, required: true},
+      {prompt: document.getElementById("question12").innerHTML=questionorder[11], labels: options_1, required: true},
+      {prompt: document.getElementById("question13").innerHTML=questionorder[12], labels: options_1, required: true},
+      {prompt: document.getElementById("question14").innerHTML=questionorder[13], labels: options_1, required: true},
+      {prompt: document.getElementById("question15").innerHTML=questionorder[14], labels: options_1, required: true},
+      {prompt: document.getElementById("question16").innerHTML=questionorder[15], labels: options_1, required: true},],
+      preamble: "<p><strong>Page 2 of 4.</strong></p>" + "<p><strong>How much do you agree with the following statements?</strong></p>"
+    };
+    var qs_17to24 = {
+      type: 'survey-likert',
+      questions: [{prompt: document.getElementById("question17").innerHTML=questionorder[16], labels: options_1, required: true},
+      {prompt: document.getElementById("question18").innerHTML=questionorder[17], labels: options_1, required: true},
+      {prompt: document.getElementById("question19").innerHTML=questionorder[18], labels: options_1, required: true},
+      {prompt: document.getElementById("question20").innerHTML=questionorder[19], labels: options_1, required: true},
+      {prompt: document.getElementById("question21").innerHTML=questionorder[20], labels: options_1, required: true},
+      {prompt: document.getElementById("question22").innerHTML=questionorder[21], labels: options_1, required: true},
+      {prompt: document.getElementById("question23").innerHTML=questionorder[22], labels: options_1, required: true},
+      {prompt: document.getElementById("question24").innerHTML=questionorder[23], labels: options_1, required: true}],
+      preamble: "<p><strong>Page 3 of 4.</strong></p>" + "<p><strong>How much do you agree with the following statements?</strong></p>"
+    };
+    var qs_25to32 = {
+      type: 'survey-likert',
+      questions: [{prompt: document.getElementById("question25").innerHTML=questionorder[24], labels: options_1, required: true},
+      {prompt: document.getElementById("question26").innerHTML=questionorder[25], labels: options_1, required: true},
+      {prompt: document.getElementById("question27").innerHTML=questionorder[26], labels: options_1, required: true},
+      {prompt: document.getElementById("question28").innerHTML=questionorder[27], labels: options_1, required: true},
+      {prompt: document.getElementById("question29").innerHTML=questionorder[28], labels: options_1, required: true},
+      {prompt: document.getElementById("question30").innerHTML=questionorder[29], labels: options_1, required: true}],
+      preamble: "<p><strong>Page 4 of 4.</strong></p>" + "<p><strong>How much do you agree with the following statements?</strong></p>"
+    };
+    var qs_attention_check = {
+      type: 'survey-likert',
+      questions: [
+      {prompt: "Were the people in the video children or adults?", labels: options_2, required: true},
+      {prompt: "What were the people in the video doing?", labels: options_3, required: true}],
+      preamble: "<p><strong>How much do you agree with the following statements?</strong></p>"
+    };
+//Trial Sequence
+    var trial_seq = {
+        timeline: [pretrial, video_stimulus, open_question, qs_1to8, qs_9to16, qs_17to24, qs_25to32],
+        timeline_variables: vid_trials,
+        randomize_order: true
+    };
+//Debrief and Thankyou
+    var debrief = {
+      type: "html-keyboard-response",
+      stimulus: "<p>Debrief.<br /> This study examines what types of information humans can gain from observing people's movements in a social interaction. <br /> We showed you the original versions of videos of social interactions between children. <br /> Other participants will have watched versions showing stick-figures. <br /> We want to know what people can work out about the interaction from watching the stick-figures (movement only) compared to the original videos. <br /> The last two questions we asked you were to check how much attention you were paying to the videos and question text. We will use your responses to these questions, as well as the rest of the survey, to assess whether you completed this experiment properly. <br /> If you have any questions please contact <strong>Dr. Severin Lemaignan at severin.lemaignan@uwe.ac.uk or Madeleine Bartlett at madeleine.bartlett@plymouth.ac.uk </strong><br /> Press any key to continue. </p>"
+    };
+    var thankyou = {
+    type: "html-keyboard-response",
+    choices: [13],
+    stimulus: "This is your Survey Completion Code. Please note this down and submit it to MTurk: " + survey_code + "<p>You have reached the end of the experiment.<br /> Thank you very much for participating!<br /> Press ESC to leave the experiment window.</p>"
+  };
+//Timeline
+  var timelineAssigned = [];
+  timelineAssigned = timeline.concat(demographics1, demographics2, instructions1, instructions2, trial_seq, qs_attention_check, debrief, thankyou);
+//Save Data
+  function saveData(filename, filedata){
+    $.ajax({
+      type:'post',
+      cache: false,
+      url: 'write_data.php',
+      data: {filename: filename, filedata: filedata}
+    });
+  }
+/* start the experiment */
+  jsPsych.init({
+    timeline: timelineAssigned
+    //on_trial_finish: function(){
+    //  saveData(subject_id+"_data.csv", jsPsych.data.get().csv());
+    //}
+  });
+</script>
+</html>

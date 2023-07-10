@@ -1,0 +1,804 @@
+pptID,condition,age,gender,nationality,firstLang,trial,clipId,freetext,q01,q02,q03,q04,q05,q06,q07,q08,q09,q10,q11,q12,q13,q14,q15,q16,q17,q18,q19,q20,q21,q22,q23,q24,q25,q26,q27,q28,q29,q30
+432,2,30,Female,Indian,Tamil,1,4,PLAY TOGETHER THE CARD GAME TO ENJOY THEM . INDOOR GAME TO PLAY. TO SIT AND PLAY.,3,4,2,4,1,1,4,4,2,1,4,3,2,2,3,4,2,2,3,4,2,2,1,2,1,2,2,2,2,2
+432,2,30,Female,Indian,Tamil,2,9,PLAYING TOGETHER FOR TWO CHILDREN . TO PLAY CARD GAME . ARE VERY INTERESTING TO PLAY.,4,2,2,3,3,4,2,2,3,3,3,3,3,4,2,2,3,4,2,3,3,4,3,3,3,4,3,4,3,3
+432,2,30,Female,Indian,Tamil,3,16,PLAYING TOGETHER THE GAME. PLAY TO LEARNING THE GAME.,3,2,2,4,3,4,2,2,2,2,3,3,3,4,2,2,3,3,3,3,3,4,3,3,3,3,3,4,3,3
+432,2,30,Female,Indian,Tamil,4,2,PLAYING TO LEARNING TOGETHER. TO PLAY INTERESTING FOR GAME.,2,3,2,3,3,3,2,3,2,3,3,3,2,2,2,2,3,3,3,3,3,4,3,3,2,2,3,3,3,3
+549,1,23,Male,American,English,1,15,I notice that they slow down towards the end most likely because they are trying to find the best option.,3,3,0,4,1,1,3,3,1,1,2,2,2,2,1,1,3,3,3,3,1,1,2,1,1,2,2,2,2,2
+549,1,23,Male,American,English,2,2,"The child on the right seems to be taking over, while the one on the left is participating as well.",3,2,0,3,1,1,2,2,1,3,1,3,3,1,3,1,1,3,3,3,1,0,1,1,1,3,4,1,3,0
+549,1,23,Male,American,English,3,8,"Both seem pretty calm, but the child on the left does not seem to be interested.",1,2,3,1,2,1,2,2,1,1,1,2,2,3,1,3,1,0,1,3,4,1,4,1,2,1,1,2,3,2
+549,1,23,Male,American,English,4,11,These children seem to be working together pretty well and communicating about something.,1,3,0,4,1,1,3,3,1,1,3,3,2,2,3,3,1,1,3,4,1,1,1,1,1,1,2,2,1,1
+455,2,28,Male,American,English,1,12,"They got along quite well and helped each other accomplish their task. The girl on the right is much more serious, but they work well together.",1,0,1,0,0,2,1,1,4,3,0,2,1,1,0,4,2,2,4,1,0,4,3,2,2,4,2,2,4,2
+455,2,28,Male,American,English,2,7,"They played separately largely. They were fine with one another's presence, but largely ignored one another.",4,3,2,1,0,3,0,0,3,0,4,0,0,4,4,2,4,1,0,1,3,0,4,1,3,4,3,3,0,2
+455,2,28,Male,American,English,3,5,The one on the right was much more interested in playing than the other.,1,2,4,1,3,0,4,2,2,0,4,0,3,1,1,3,2,1,0,0,0,4,4,1,3,4,4,4,1,2
+455,2,28,Male,American,English,4,6,"The one on the left is not very interested, the one on the right is into it.",4,0,3,2,0,3,4,4,3,2,3,0,4,0,1,0,1,0,2,1,2,4,2,0,4,4,1,2,1,3
+385,2,29,Female,American,English,1,6,They were working together peacefully with no problems. They seemed to get along well and they were focused on the activity.,2,4,1,3,0,0,3,3,0,0,2,2,4,4,3,3,0,0,4,4,0,0,0,0,0,0,1,1,0,0
+385,2,29,Female,American,English,2,16,The child in pink was frustrated and kept pushing the other child's hand away and they didn't seem to get along. The child in yellow seemed a bit bossy.,2,1,4,1,1,3,1,1,1,3,2,2,2,1,1,1,3,2,2,3,0,0,0,0,2,3,3,1,1,1
+385,2,29,Female,American,English,3,15,The child on the left was distracted by his paper and seemed fine mostly watching the other child play. The Child on the left was doing most of the activity on his own.,0,2,1,3,0,0,4,4,0,0,2,2,2,3,4,3,0,0,1,4,3,0,0,0,0,0,1,2,3,0
+385,2,29,Female,American,English,4,14,The child on the left was a little bit aggressive and wanted to distract the other child instead of working together.,2,1,2,2,0,2,3,2,0,0,2,1,0,4,3,3,3,0,2,4,3,0,0,0,0,3,4,0,0,3
+868,2,31,Male,American,English,1,12,The children seemed to be playing and having fun. They looked like they were enjoying themselves. The children seemed to be cooperating and getting along well.,1,3,1,3,0,0,4,3,0,1,3,2,2,3,4,3,2,1,4,3,0,1,0,1,0,1,3,1,0,2
+868,2,31,Male,American,English,2,19,The children both seemed calm and content. They were interacting with each other and exchanging information that they used to play with the board. They seemed relaxed and cooperative. It looks like maybe they know each other.,1,4,0,4,0,0,3,2,0,0,1,2,3,3,3,3,1,1,3,3,0,1,1,1,1,1,1,1,2,2
+868,2,31,Male,American,English,3,20,"the children seemed to be having fun. The right child was more excited, while the left child was slightly more active and dominant in the activity. They seemed to be getting along and cooperating though sometimes playing separately.",1,3,2,3,1,0,2,3,0,0,1,3,3,1,2,4,3,1,4,3,0,1,0,1,1,1,3,1,0,2
+868,2,31,Male,American,English,4,9,The children seemed cooperative and chatty. The right child seemed slightly more in control and assertive. The right child also seemed slightly more distracted from the table at times. ,2,2,0,4,1,1,3,2,1,1,2,3,2,1,3,2,2,3,3,2,1,3,1,0,1,3,1,3,2,1
+900,1,39,Female,American,English,1,18,They were playing together and the one on the left stopped,2,3,1,3,1,1,2,4,1,2,0,4,2,1,3,2,1,1,1,4,4,0,3,0,1,3,0,4,3,0
+900,1,39,Female,American,English,2,19,It seems like they were showing each other how to play,0,4,0,4,0,0,3,3,0,0,2,2,4,4,4,4,0,0,4,4,0,0,0,0,0,0,0,0,0,0
+900,1,39,Female,American,English,3,10,The child on the right messed up and got frustrated a little bit,1,2,3,1,0,2,2,2,0,0,1,1,2,3,1,3,3,0,2,4,3,0,2,0,1,3,3,1,0,3
+900,1,39,Female,American,English,4,4,I saw they were playing together and learning from each other,0,4,0,4,0,0,3,3,0,0,2,3,4,4,4,4,0,0,4,4,0,0,0,0,0,0,0,0,1,1
+834,2,25,Female,American,English,1,15,"They were entirely focused on the tablet ? Or whatever screen is on the table. They seem to be having fun, however but aren't really talking with each other. ",2,3,3,1,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,0,0,3,0,0,0,0,4,4,0
+834,2,25,Female,American,English,2,8,They weren't interacting with each other and the one on the right was entirely engaged.,0,1,4,2,0,0,0,4,0,0,0,4,4,4,3,3,0,0,0,4,4,0,4,0,3,0,0,4,4,0
+834,2,25,Female,American,English,3,6,,0,4,0,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,0,0,0,0,0,0,4,4,0,0
+834,2,25,Female,American,English,4,10,They were both taking turns and playing together. There was no competitiveness. ,0,4,0,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,0,0,0,0,0,0,1,1,0,0
+240,2,24,Male,Other,English,1,7,They seem to get along well.,0,1,2,2,3,0,0,1,1,0,0,0,0,1,0,4,2,0,0,0,0,1,2,1,4,3,2,3,4,0
+240,2,24,Male,Other,English,2,13,They seem to be a bit upset.,0,1,0,2,1,4,3,0,4,4,0,3,0,0,1,1,2,2,4,4,2,4,4,2,4,1,4,1,1,3
+240,2,24,Male,Other,English,3,3,They seem to be quite excited.,1,4,4,2,4,3,3,1,0,1,1,0,3,1,3,3,0,2,1,0,3,3,1,3,4,2,3,2,1,0
+240,2,24,Male,Other,English,4,9,They seem quite bored.,1,1,2,0,1,0,0,3,2,1,4,1,3,4,2,4,3,3,4,2,2,0,1,2,1,3,3,2,1,4
+546,2,37,Male,American,English,1,5,They both seem to be interacting with the screen independently of each other,0,0,4,0,2,0,1,4,2,0,1,4,3,1,1,3,2,1,1,4,1,0,3,0,2,0,1,1,1,1
+546,2,37,Male,American,English,2,6,they seem to be playing together and enjoying their time,2,3,0,3,0,0,3,3,0,0,2,3,3,2,3,3,0,0,3,3,0,0,1,1,0,0,1,1,1,1
+546,2,37,Male,American,English,3,3,they are playing together and very excited and probably competing in a game,3,2,0,4,0,0,4,4,0,0,4,4,1,1,4,4,2,2,4,4,0,0,0,0,0,0,2,2,1,1
+546,2,37,Male,American,English,4,1,they seem to be having fun and probably playing a game where they compete with each other,4,2,0,4,0,0,4,4,0,0,4,4,1,1,3,3,0,0,4,4,0,0,0,0,0,0,1,1,1,1
+125,1,34,Male,Indian,Hindi,1,6,they are playing with there hands ,3,3,3,4,2,1,3,3,2,1,1,3,3,1,4,1,1,3,1,3,2,2,2,1,2,1,1,3,2,3
+125,1,34,Male,Indian,Hindi,2,16,The left child is giving something to a right child and right child is taking that thing and putting on the table,2,3,1,4,1,1,3,2,1,1,3,1,1,3,3,3,3,1,1,3,1,1,1,1,1,1,3,1,2,2
+125,1,34,Male,Indian,Hindi,3,19,Both children talking to each other and putting something on table ,3,4,2,3,1,1,3,3,1,1,3,3,3,3,3,3,3,3,4,4,1,1,1,1,1,1,3,3,3,3
+125,1,34,Male,Indian,Hindi,4,7,Right child is giving instruction to left child ,3,4,1,3,1,1,3,3,1,1,2,3,3,1,3,3,1,3,3,3,1,1,1,1,1,1,1,4,2,2
+872,1,30,Female,American,English,1,4,"The children are struggling to move close to each other. Also, they are trying to communicate.",4,3,1,3,1,1,4,3,1,1,3,2,3,1,3,3,3,3,3,3,3,1,1,3,0,3,0,0,3,3
+872,1,30,Female,American,English,2,7,The children was communicating to each other . The child on the right was like explaining something to the child on the left.,3,4,0,3,1,1,3,3,0,0,3,3,3,3,4,4,4,4,4,4,1,1,0,0,1,1,0,0,4,4
+872,1,30,Female,American,English,3,5,The children were playing but playing separately. The child on the left was less concerned with what the child on the right was doing.,3,0,4,1,3,1,1,3,3,1,1,3,2,3,1,3,3,3,4,4,1,3,3,1,3,1,1,2,3,3
+872,1,30,Female,American,English,4,17,Th children were playing together but the child on the right was dominant he never wanted the other child to play.,1,1,1,3,3,1,1,3,3,1,0,3,3,1,3,0,3,1,1,3,4,1,3,1,3,1,0,4,3,2
+680,1,59,Female,American,English,1,4,It seems like they were playing a game together but not really interacting.,3,1,3,1,0,1,1,3,2,3,1,3,1,1,3,0,1,3,4,4,2,1,3,1,1,3,1,4,1,3
+680,1,59,Female,American,English,2,20,The children were playing well together. They seemed to have alot of interaction between them.,1,4,1,4,2,2,3,3,1,1,3,3,1,1,3,3,1,1,4,4,1,1,1,1,3,3,2,1,2,2
+680,1,59,Female,American,English,3,11,I noticed that the children were angry with each other.,4,0,3,1,3,4,1,1,3,4,3,4,1,0,1,0,1,3,3,4,0,1,2,2,3,4,1,4,3,1
+680,1,59,Female,American,English,4,2,The children seemed to enjoy playing together.,1,3,0,4,1,1,3,4,1,2,3,4,1,3,3,4,1,3,3,4,1,1,1,1,1,2,1,3,2,1
+305,2,34,Male,Indian,Tamil,1,2,They were playing with board ,3,3,3,3,1,1,3,3,1,1,3,3,1,2,3,3,1,1,3,3,3,3,1,1,1,2,2,2,1,2
+305,2,34,Male,Indian,Tamil,2,16,They are playing without co-operation,1,1,1,1,3,1,1,3,3,1,1,1,3,1,2,3,1,3,2,2,1,3,3,1,3,2,2,3,2,2
+305,2,34,Male,Indian,Tamil,3,1,"they are playing with friendly and both are interaction
+",3,2,1,3,2,1,3,3,2,1,1,3,3,1,3,3,1,3,2,3,3,3,1,1,2,2,1,1,2,2
+305,2,34,Male,Indian,Tamil,4,20,they are playing with friendly and both are interacting on board,4,3,1,4,0,0,3,3,0,0,2,3,1,3,4,4,1,1,4,3,1,3,0,0,0,0,2,2,3,1
+792,2,30,Female,Indian,Tamil,1,16,PLAYING TOGETHER THE GAME. TO VERY INTERESTING TO PLAY.,3,3,2,4,2,2,2,2,3,4,3,4,2,2,2,2,3,4,3,4,3,4,3,4,3,4,3,4,2,3
+792,2,30,Female,Indian,Tamil,2,14,PLAYING TOGETHER GAME . TO INDIMATE THE MAP GAME.,3,3,2,3,2,2,3,4,2,2,3,4,2,2,3,3,3,4,3,4,3,4,2,2,3,4,3,4,3,4
+792,2,30,Female,Indian,Tamil,3,5,TO PLAYING TOGETHER GAME TO VERY INTERESTING TO PLAY.,3,3,2,3,3,2,2,3,4,2,3,4,4,2,2,3,3,4,3,4,3,4,3,2,3,4,3,3,3,4
+792,2,30,Female,Indian,Tamil,4,10,TOCHING GAME TO VERY INTERESTING TO PLAY,2,3,2,4,2,2,2,3,3,2,3,2,2,3,3,4,3,3,3,3,2,3,2,2,3,4,3,3,3,2
+642,1,59,Female,American,English,1,9,The child on the left seemed like it was touching the game pieces of the person on the right. The person on the right shooed away the person on the left.,3,1,3,1,1,2,1,3,0,3,4,1,1,3,2,2,3,1,1,3,3,1,3,1,3,3,1,3,1,1
+642,1,59,Female,American,English,2,16,They seemed to be taking turns and interacting.,1,4,1,4,1,1,3,3,0,0,1,1,3,3,3,3,0,0,4,4,0,0,1,1,1,1,0,0,0,0
+642,1,59,Female,American,English,3,10,"The child on the left seems to have moved the pieces of the child on the right, or at least made moves the child on the right did not like. The child on the right was upset by this.",3,1,3,1,0,4,3,0,1,1,3,1,3,1,2,2,4,1,3,3,1,1,3,1,1,4,4,0,1,3
+642,1,59,Female,American,English,4,8,The child on the left is not very engaged in the game and seems restless and bored.,1,1,3,1,3,0,0,3,3,0,3,1,0,3,2,1,0,4,3,4,0,0,4,0,4,1,0,4,3,1
+617,1,28,Female,American,English,1,5,The child on the right was moving more than the child on the left. The child on the left seemed bored.,1,1,1,3,3,1,1,3,1,1,1,3,3,1,1,3,1,1,1,3,3,1,3,1,1,1,1,2,3,1
+617,1,28,Female,American,English,2,4,They were both active in interacting with each other.,2,3,1,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+617,1,28,Female,American,English,3,15,The child on the left reached to do something but the child on the right stopped them.,1,1,1,1,3,1,1,3,1,1,3,3,2,2,3,1,1,3,3,3,1,1,1,1,3,1,1,3,3,1
+617,1,28,Female,American,English,4,7,The child on the right was telling the one on the left what to do.,1,1,3,1,1,1,3,2,1,3,1,3,3,1,3,1,1,3,3,3,1,1,1,1,1,3,1,3,1,1
+802,1,34,Male,American,English,1,4,It seems like the one on the right is teaching the one on the left.,2,3,0,3,1,1,2,3,1,1,0,3,3,3,2,3,0,3,1,4,3,0,3,0,1,3,0,4,3,0
+802,1,34,Male,American,English,2,15,"Once again the child on the right was dominant and the one on the left seemed less interested, possibly distracted.",3,2,1,3,3,0,1,3,3,1,0,3,3,1,3,1,0,3,0,3,3,0,3,0,3,0,0,4,3,0
+802,1,34,Male,American,English,3,13,"These two seem to be having fun together, they are both interacting a lot with the table and the game.",3,4,0,4,0,0,4,4,0,0,3,3,0,0,3,3,3,3,4,4,0,0,0,0,0,0,0,0,0,0
+802,1,34,Male,American,English,4,10,"The child on the right appeared dominant at first, but he looks to have been just showing the one on the left how to play. It became cooperative and fun towards the end.",0,4,0,4,0,0,3,3,0,0,3,4,3,1,3,3,0,0,3,3,0,0,0,0,0,0,0,1,0,0
+650,2,30,Male,American,English,1,5,One seemed enthusiastic and the other seemed pretty bored the whole time.,1,1,3,1,1,1,1,3,1,1,1,3,1,3,2,3,1,1,1,3,2,3,3,1,3,1,1,1,1,1
+650,2,30,Male,American,English,2,3,Both children were enthusiastic and happy while playing with each other.,3,3,1,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+650,2,30,Male,American,English,3,12,two little girls helping and playing with one another in front of a table.,3,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+650,2,30,Male,American,English,4,2,two little boys not wanting to share space while working on the same table.,3,1,3,1,1,1,1,3,3,1,1,3,1,1,1,2,3,1,3,3,1,1,2,1,3,3,3,3,1,1
+798,1,44,Female,Other,English,1,2,I think one child had something that the other chid wanted and they were having a spat over it. I think the child was trying to take the item from the child on the left. ,4,1,1,3,3,1,1,1,1,3,3,3,3,0,2,1,1,4,4,1,3,1,1,3,4,4,0,4,1,0
+798,1,44,Female,Other,English,2,7,They seemed to be cooperating and communicating. ,0,4,1,4,1,1,4,4,1,1,3,3,3,3,3,3,1,1,4,4,1,1,1,1,1,1,1,1,2,2
+798,1,44,Female,Other,English,3,9,They seemd to be having a conversation but were disagreeing about something. ,3,0,1,3,3,1,1,1,3,3,1,1,3,1,2,1,1,3,3,3,3,3,1,3,3,3,1,3,3,1
+798,1,44,Female,Other,English,4,4,They are definitely playing together and having fun,1,4,0,4,0,0,4,4,0,0,3,3,3,3,4,4,1,1,4,4,0,0,0,0,1,1,1,1,1,1
+294,2,31,Male,American,English,1,16,that they are interacting well together looks like they are learning and having fun,1,3,1,3,1,1,3,3,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,1,1,2,2,2,2
+294,2,31,Male,American,English,2,20,looks like the two kids are playing on the table in a messy kind of way,2,2,2,2,1,1,2,2,2,1,2,2,1,3,2,3,2,1,2,2,2,1,3,2,2,2,2,2,1,2
+294,2,31,Male,American,English,3,2,they child in yellow seems to be not as interested as the other child,2,1,2,2,2,1,2,3,2,1,2,3,1,3,2,3,3,1,1,3,2,1,3,1,2,1,3,1,1,2
+294,2,31,Male,American,English,4,12,they seemed to be having a good time both girls playing together,2,2,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,2,2
+756,1,39,Female,American,English,1,17,The child on the right kept pushing the other child away as if they didn't want the other child playing with them. The child on the left was upset by this but kept trying.,2,0,1,1,3,1,0,0,3,4,2,3,1,0,2,1,1,3,2,3,1,0,1,0,3,4,1,3,3,0
+756,1,39,Female,American,English,2,8,The child on the right was engaged in the game and seemed to want the child on the left to join them but the child on the left was distracted and maybe confused.,1,2,2,2,2,1,1,3,0,0,0,3,3,3,2,3,0,0,0,3,4,1,3,1,1,2,1,2,2,1
+756,1,39,Female,American,English,3,20,"The children were both engaged in the game and either cmpeting or taking turns, and the child on the right seemed to be laughing.",3,1,1,3,0,0,2,3,0,1,4,4,1,1,2,2,3,2,4,4,1,1,0,0,0,1,3,1,1,1
+756,1,39,Female,American,English,4,18,The child on the left kept trying to play but the child on the right kept pushing them away. At the end of the video the child on the left was getting up to leave.,1,0,3,0,3,1,0,1,3,3,1,3,1,0,2,1,1,4,2,4,3,1,2,0,4,3,1,4,3,0
+597,2,43,Male,American,English,1,19,The child in the purple vast is kind of running the show and leading the way.  He might be a few months older and is guiding the child in yellow to some extent.,2,1,1,3,1,2,3,1,1,3,3,1,1,1,3,1,0,3,3,3,1,1,1,2,2,3,0,4,4,0
+597,2,43,Male,American,English,2,15,It seems like they are competing but not in a hateful or aggressive way.  It looks like they are both (especially the boy on the left) having fun.,3,1,0,3,0,1,3,3,0,1,3,2,1,2,3,3,0,1,4,3,0,1,0,1,1,1,1,2,1,1
+597,2,43,Male,American,English,3,9,It looks as if they are competing and neither one seems very happy.  The one on the right also appears to be somewhat preoccupied.,3,0,1,1,1,2,0,0,4,3,2,2,0,1,0,0,3,3,3,2,0,3,1,3,4,3,3,2,0,0
+597,2,43,Male,American,English,4,5,The one on the left is bored / sad and I think they are playing separately.  They are interacting minimally as I don't think they're competing.,1,2,3,1,3,0,0,4,3,0,0,4,2,1,1,4,2,0,0,4,4,0,3,0,3,1,1,2,2,1
+722,2,26,Male,American,English,1,10,they are playing with what ever is on the table. they are playing nice. ,2,2,2,3,1,1,2,2,2,2,3,3,3,3,2,2,1,1,2,2,2,2,2,2,1,1,2,2,2,2
+722,2,26,Male,American,English,2,11,they are having fun playing with what ever is on the table. ,2,3,3,3,2,4,2,2,2,2,3,2,2,1,1,2,2,3,1,1,3,2,3,1,1,2,3,2,1,3
+722,2,26,Male,American,English,3,4,the kids look like they are having a lot of fun playing with what ever is on the table. ,1,1,1,2,2,4,3,1,2,3,2,2,3,1,3,1,1,1,2,1,3,1,3,3,1,3,3,3,1,1
+722,2,26,Male,American,English,4,18,they look like they are having some fun playing together with what ever is on the table.,2,4,2,2,2,3,1,3,1,2,2,1,1,3,1,1,2,1,2,1,3,2,3,1,2,3,3,2,1,4
+678,1,40,Male,Indian,Tamil,1,5,"Both the children's are playing a game on a laptop, both are arguing about the play the game. ",3,2,0,4,2,2,2,2,1,2,2,3,3,1,3,2,2,3,3,3,2,2,2,1,2,1,1,3,1,1
+678,1,40,Male,Indian,Tamil,2,8,Both are interacting about an particular thing. Seems to be the right guy is explaining about that particular thing to the left one.,1,3,0,3,1,1,2,2,1,2,2,2,3,2,3,3,2,3,3,4,1,1,1,1,1,1,1,3,1,1
+678,1,40,Male,Indian,Tamil,3,11,Both are discussing aggressively about the game.  ,3,1,0,2,1,1,2,2,2,2,2,2,1,1,1,1,3,3,3,3,2,1,1,1,2,1,3,3,1,1
+678,1,40,Male,Indian,Tamil,4,9,Both the children's are playing friendly and actively and interestingly communicating each other.,1,4,0,4,1,1,3,3,1,1,3,3,1,1,3,3,3,3,4,4,1,1,0,0,1,1,2,2,1,1
+769,1,70,Female,American,English,1,16,I notice that the children seemed to be getting along with each other.,1,3,1,3,1,1,3,3,1,1,1,1,3,3,3,3,1,1,3,3,1,1,1,1,1,1,2,1,1,2
+769,1,70,Female,American,English,2,4,The one on the right seemed much more active and/or aggressive than the one on the left.,2,2,1,3,1,1,2,2,1,2,1,3,3,1,3,2,1,4,2,3,1,1,1,1,1,3,1,4,3,1
+769,1,70,Female,American,English,3,15,The children -- both of them -- seemed to play well together in a cooperative way.,1,4,1,3,1,1,3,3,1,1,1,1,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+769,1,70,Female,American,English,4,20,Both of the children seemed to be working or playing in tandem with the other.,1,3,1,3,1,1,3,3,1,1,1,1,3,3,3,3,2,2,3,3,1,1,1,1,1,1,1,1,1,1
+944,1,26,Male,American,English,1,3,"They are trying to touch each other's hands,i noticed movements on their bodies too.",4,4,0,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,0,0,0,0,0,0,2,2,4,4
+944,1,26,Male,American,English,2,19,"They were playing a game together,this time their hands were off the table and the legs were more active.",4,4,0,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,0,0,0,0,0,0,2,2,4,4
+944,1,26,Male,American,English,3,16,they are playing a game together on the table.,4,4,0,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,0,0,0,0,0,0,2,2,4,4
+944,1,26,Male,American,English,4,4,they are playing together but child on the right seems aggressive.,4,4,0,4,4,4,1,1,0,4,0,0,4,0,4,0,0,4,4,4,0,0,0,0,4,4,2,2,4,0
+239,2,47,Female,American,English,1,17,They were laughing and playing around with each other as they were drawing.,3,3,1,4,1,1,2,2,1,1,3,2,1,1,3,3,1,3,3,3,1,1,1,1,1,1,2,2,2,2
+239,2,47,Female,American,English,2,11,They seemed to be playing nicely and were going along with each other nicely.,1,3,1,3,1,1,3,3,1,1,3,2,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,2,2
+239,2,47,Female,American,English,3,16,The child on the right seemed to want things his way each time while the other child was just trying to play with him.,3,1,3,1,2,1,2,2,2,2,3,2,2,1,3,1,2,3,3,4,1,1,2,1,2,3,1,3,2,2
+239,2,47,Female,American,English,4,5,They seemed to not want to play together. They were bored with each other or at least with what they were doing.,3,1,3,1,2,1,1,3,2,1,1,3,2,1,1,2,3,1,3,3,2,1,4,2,3,2,1,3,2,2
+623,1,36,Female,American,English,1,4,I noticed that the child on the left seems to be picking up objects and giving to or showing the child on the left and that they are communicating. ,1,3,1,3,2,2,2,2,2,2,2,2,3,3,3,3,1,1,3,3,1,1,1,1,2,2,1,3,1,1
+623,1,36,Female,American,English,2,19,The children in the video are interacting. They appear to be looking at something and sharing it. The child on the left had something in his hand he was showing the child on the right.,1,3,1,3,1,1,2,2,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,2,2,3,1,1,1
+623,1,36,Female,American,English,3,20,They were interacting in that they appeared to be sharing something. They were passing something back and forth.,1,3,1,3,1,1,2,2,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,2,2,1,1,1,1
+623,1,36,Female,American,English,4,17,It appears they were both looking at something on a solid surface. The child on the right was interacting with it more then the child on the left. ,2,2,1,3,2,2,2,2,2,2,2,2,2,2,2,2,1,3,3,3,1,1,1,1,2,2,1,3,2,1
+787,1,26,Male,Indian,Tamil,1,3,They are laughing and playing use hands.They very enjoy to do this.,1,1,0,2,0,3,4,1,0,3,3,1,0,4,3,2,2,3,3,2,1,1,0,3,2,3,2,3,1,3
+787,1,26,Male,Indian,Tamil,2,10,They was did not playing with each others but both are happy to do this,1,1,2,1,3,1,1,3,3,2,1,3,1,4,2,3,2,3,2,1,2,2,3,1,3,2,2,3,2,3
+787,1,26,Male,Indian,Tamil,3,11,They each are playing and laughing with each other and they are enjoying,4,4,0,4,1,1,4,4,1,0,4,4,1,0,4,4,1,1,3,1,2,1,1,0,2,1,4,3,3,2
+787,1,26,Male,Indian,Tamil,4,9,Left child was called to play the right children but the right child was did not accept,1,1,3,1,0,3,3,1,1,3,3,1,1,3,4,0,2,1,3,1,1,3,0,3,3,2,4,2,3,1
+816,2,23,Female,American,English,1,11,They seem to enjoy each other's company. Yellow vest seemed slightly more aggressive but they seem to like each other overall.,1,4,1,4,1,1,3,3,1,1,3,3,3,3,3,3,3,1,3,3,3,3,1,1,1,1,3,1,1,2
+816,2,23,Female,American,English,2,12,They are both very into whatever they are doing on the table.,1,2,2,2,1,1,3,3,1,1,1,1,3,3,3,3,1,1,4,4,4,4,1,1,2,2,1,1,1,1
+816,2,23,Female,American,English,3,10,They appear to be enjoying themselves and playing together. They are laughing,1,4,1,4,0,0,4,4,1,1,4,4,3,3,4,4,1,1,4,4,3,3,0,0,0,0,1,1,1,1
+816,2,23,Female,American,English,4,4,They look like they are having a good time together with interesting conversation.,1,4,1,4,1,1,3,3,0,0,3,3,3,3,4,4,0,0,3,4,3,3,0,0,0,0,1,1,1,1
+887,1,30,Female,American,English,1,20,YES VERY GOOD ALL,4,4,4,2,1,0,4,4,4,3,3,4,4,3,4,3,2,3,3,1,4,3,2,3,3,4,2,2,3,2
+887,1,30,Female,American,English,2,4,YES VERY HAPPY ALL,4,2,2,2,3,2,4,3,3,2,3,2,3,2,2,2,3,2,3,2,3,2,2,3,3,2,2,3,4,3
+887,1,30,Female,American,English,3,11,YES VERY GOOD ALL,2,3,2,3,3,2,2,3,3,3,2,3,2,3,3,2,3,2,3,2,2,3,3,2,2,2,3,2,2,3
+887,1,30,Female,American,English,4,17,THEY ARE CMPARTIENDO VERY CONTENTS,3,2,3,2,2,3,3,2,2,3,3,2,2,3,2,3,2,3,2,3,2,3,2,2,2,3,3,2,2,3
+392,1,45,Male,Other,Other,1,7,The child on the right seems to question the other child move or ask for explainations about it.,3,2,3,2,1,1,1,1,0,2,1,3,3,1,2,1,0,3,2,3,1,1,1,0,1,3,0,3,3,0
+392,1,45,Male,Other,Other,2,12,The children are playing some kind of fast paced game and looks to me they are cooperating. There is a friendly / affectionate touch toward  the final of the video.,1,4,0,4,0,0,2,2,0,0,3,3,1,1,4,3,1,1,4,4,0,0,1,1,1,1,1,1,1,2
+392,1,45,Male,Other,Other,3,1,"The children are competitive, they look to argue about plays and are blocking their opponent hands from doing something.",4,0,1,2,1,1,1,1,2,2,3,3,1,1,1,1,3,3,4,4,0,0,0,0,3,3,3,2,0,1
+392,1,45,Male,Other,Other,4,17,"the child on the right is playing while the other is mostly observing. They seem to have fun, they are animated but I guess they are laughing / making funny comments on the opponent moves.",3,0,4,2,0,1,4,2,1,1,4,3,0,2,3,3,3,1,4,4,0,0,0,0,1,1,3,1,0,2
+458,2,32,Female,American,English,1,10,I noticed that they were talking and laughing and seemed to be working together.,2,3,0,3,2,0,4,4,2,0,3,3,3,2,4,3,0,3,4,4,2,0,0,0,1,2,0,4,3,0
+458,2,32,Female,American,English,2,4,The boys were talking and laughing. They were obviously interacting and having fun.,0,4,0,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,3,3,3,3,0,0,0,0,0,0,0,0
+458,2,32,Female,American,English,3,15,The child on the right took over and they were not interacting anymore. The child on the left was simply observing.,3,0,4,0,3,0,1,3,1,0,0,3,3,3,3,1,0,3,2,4,2,0,4,0,4,0,0,4,4,0
+458,2,32,Female,American,English,4,19,The kids were playing together somewhat but neither seemed to be too involved with whatever game was on the table,0,2,3,2,0,2,2,2,0,0,2,2,4,4,3,3,0,0,2,2,1,3,4,4,0,0,3,0,1,3
+711,1,26,Male,American,English,1,14,I think they are enjoying the game they are playing and there seems to be an aguement among them,3,1,0,3,3,3,1,1,3,1,1,1,1,3,3,1,1,3,3,3,2,2,1,3,3,1,3,1,1,3
+711,1,26,Male,American,English,2,5,THE CHILD ON THE LEFT WAS VERY CALM IN WHAT THEY WERE DOING BUT THE ONE ON THE RIGHT WAS AGGITATIVE ,3,1,1,3,3,3,3,1,1,3,1,1,3,1,4,1,0,4,3,3,2,2,2,2,2,2,1,3,4,1
+711,1,26,Male,American,English,3,15,They were playing together on same table but the one on the left is more self control compare to the other,4,1,0,4,2,3,2,1,1,3,2,1,3,1,4,1,1,3,4,4,1,1,2,2,3,4,1,3,4,1
+711,1,26,Male,American,English,4,3,Both player were actively involve in the game and the are both looking angry and wanting to dominate ,3,1,0,3,2,2,1,1,3,3,1,1,0,0,1,1,3,3,3,3,2,2,2,2,3,3,3,3,1,1
+238,1,41,Female,American,English,1,2,"The children appear to be having fun, playing a game together.",1,4,0,4,0,0,4,4,0,0,3,3,3,3,4,4,0,0,4,4,1,1,0,0,1,1,1,1,1,1
+238,1,41,Female,American,English,2,5,I noticed that the children appear to be playing a game separately.,2,4,4,1,1,1,3,3,0,0,1,3,3,1,3,3,0,1,3,4,0,0,3,0,1,1,1,1,1,1
+238,1,41,Female,American,English,3,18,Two children are excitedly playing a game together. The child on the right seems a bit aggressive.,2,3,0,3,1,1,3,3,1,1,3,3,1,1,3,3,1,3,4,4,1,1,0,0,1,1,1,3,3,1
+238,1,41,Female,American,English,4,17,Two children are playing a game together. Both children appear to be frustrated. ,3,1,1,3,1,1,1,1,3,3,3,3,1,1,1,1,3,3,3,3,1,1,1,1,4,4,1,3,1,1
+843,1,33,Male,American,English,1,8,I think they are playing piano and dancing on music.,1,3,1,4,1,1,3,3,1,1,4,4,1,1,4,4,1,1,3,3,1,1,1,1,1,1,3,3,1,1
+843,1,33,Male,American,English,2,18,Both children's playing any kind of game together or playing piano.,3,3,1,4,1,1,3,3,1,1,4,4,1,1,3,3,1,1,4,4,1,1,1,1,1,1,3,3,1,1
+843,1,33,Male,American,English,3,6,Both children playing together on table.,3,3,1,4,1,1,3,3,1,1,3,3,1,1,3,3,1,1,4,3,1,1,1,1,1,1,3,3,1,1
+843,1,33,Male,American,English,4,11,They both playing together on table and I think also dancing.,1,3,1,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,1,1,1,1,3,3,1,1
+532,2,27,Male,American,English,1,11,"They seemed pretty excited, but not like they haven't seen something like this before.",1,3,3,1,1,1,3,4,1,1,1,3,3,1,3,2,1,1,1,4,3,1,2,1,1,1,1,3,3,1
+532,2,27,Male,American,English,2,13,"I thought the one on the left would get frustrated about right messing everything up with her hands, but she didn't.",1,3,1,3,1,0,3,4,1,1,2,4,3,1,3,2,1,3,3,3,1,1,1,0,1,1,1,4,3,1
+532,2,27,Male,American,English,3,3,The kid on the left was way too hyper.,1,3,1,3,0,1,4,3,1,1,4,2,1,3,2,3,4,1,4,3,1,1,0,1,1,2,4,1,1,3
+532,2,27,Male,American,English,4,7,"The one on the right seems bored after first, but then looks like shes interested.",1,3,2,1,1,2,3,3,1,0,2,1,3,4,2,2,1,0,4,3,0,2,1,2,1,2,1,1,1,1
+553,2,65,Male,American,English,1,2,They are both competing and cooperating at the same time.,3,2,3,3,1,1,2,3,3,1,4,3,2,1,3,3,3,1,3,2,1,2,2,3,1,3,3,1,1,3
+553,2,65,Male,American,English,2,16,They are cooperating and following each other with a lot of interest.,1,4,1,3,1,1,3,3,1,1,1,1,3,2,3,3,2,1,3,3,1,1,1,1,1,1,2,2,2,2
+553,2,65,Male,American,English,3,15,The child on the left was mainly watching and assisting the child on the right.,1,3,0,4,1,1,3,3,1,1,3,2,3,3,3,3,1,3,3,3,2,1,1,1,1,1,1,3,3,1
+553,2,65,Male,American,English,4,4,They seemed to spend most of the time interacting with each other not with the game.,1,3,1,3,1,1,3,3,1,1,3,3,1,1,3,3,3,3,1,1,4,4,1,1,1,2,2,3,1,1
+728,1,26,Male,American,English,1,9,They played with each other. They were hesitant. They were shy.,3,3,1,3,3,2,1,1,1,1,3,3,3,1,3,1,1,3,3,2,3,3,1,2,3,1,1,3,3,1
+728,1,26,Male,American,English,2,2,They were playing together. they were having fun. They were good.,3,1,0,3,1,1,1,1,1,3,1,3,3,1,1,1,1,3,3,3,2,2,1,1,2,2,1,3,3,1
+728,1,26,Male,American,English,3,19,They were having fun together. They were playing games and stuff.,3,2,1,3,1,1,1,1,3,1,3,1,1,3,1,1,3,1,3,3,2,2,1,1,2,2,3,1,1,3
+728,1,26,Male,American,English,4,18,They were playing together. they were having fun and stuff.,3,3,0,3,1,3,1,1,1,3,1,3,3,1,1,1,1,3,3,3,2,2,3,1,1,3,1,3,3,1
+145,1,34,Female,American,English,1,7,They seemed to be showing each other something the observed,2,2,0,3,2,1,2,0,4,1,3,4,2,0,2,1,0,4,2,4,0,0,0,0,0,4,0,4,0,0
+145,1,34,Female,American,English,2,10,The one on the left wasnt really interacting that much as the right one,0,2,0,3,2,2,2,3,0,0,0,4,4,3,2,3,0,0,1,4,4,0,4,0,0,0,0,4,0,4
+145,1,34,Female,American,English,3,20,They both seemed to be having lots of fun with each other ,0,4,0,4,0,0,4,4,0,0,4,4,3,4,4,4,0,0,4,4,0,0,0,0,0,0,2,2,2,2
+145,1,34,Female,American,English,4,15,The one on the right seemed to be having more fun then the one on the left,0,2,1,3,2,0,2,4,0,0,0,3,4,3,3,2,0,0,1,4,3,0,4,0,0,2,0,4,0,4
+712,2,23,Female,American,English,1,13,They didn't seem to be playing very well together but one just seemed to think it was funny,4,1,3,1,0,2,3,1,0,3,3,1,3,1,2,1,1,3,1,3,1,1,2,2,1,3,2,2,1,1
+712,2,23,Female,American,English,2,5,one seemed more involved than the other but they seemed to be getting along,1,3,2,2,1,1,2,3,1,1,1,2,4,3,3,3,0,0,1,3,2,1,4,1,1,1,1,3,3,1
+712,2,23,Female,American,English,3,15,One was dominant and took over but they both seemed happy,2,1,1,2,1,1,3,2,0,0,3,2,3,2,3,1,1,3,3,3,1,1,1,1,1,2,1,3,4,0
+712,2,23,Female,American,English,4,7,They played well together but seemed to be doing things separately.,2,2,3,1,1,1,2,2,1,1,1,3,3,3,2,2,1,1,3,3,1,1,1,2,1,1,1,1,1,1
+488,2,28,Female,Indian,Malayalam,1,3,the childrens are very happy in this video and they are playing in tablet,3,3,3,3,3,3,3,4,4,3,3,4,4,3,4,3,3,2,3,4,4,3,3,4,3,4,3,4,3,4
+488,2,28,Female,Indian,Malayalam,2,6,the childrens has played a game in tablet and grazy childrens happyness ,3,4,4,3,2,3,4,3,2,2,3,4,3,2,3,4,4,3,3,3,3,3,3,4,4,3,3,2,3,4
+488,2,28,Female,Indian,Malayalam,3,19,"the childrens have been playing separately . left side children play the game 
+",4,3,3,3,3,2,3,4,4,3,3,4,4,3,3,4,3,3,4,3,4,3,4,3,3,4,4,3,3,4
+488,2,28,Female,Indian,Malayalam,4,10,the childern played a game into tablet .the right children was very exited,3,3,4,4,3,3,4,3,4,3,4,3,3,3,4,3,4,3,4,3,3,4,3,4,4,4,4,3,3,4
+583,2,44,Male,American,English,1,7,"While both children were engaged with the task, the one on the right did not touch the table and seemed to be allowing the one on the left to run the show.",0,3,0,4,1,2,3,3,1,1,3,2,2,3,2,3,2,1,4,3,1,1,0,2,1,2,4,0,0,4
+583,2,44,Male,American,English,2,13,The one on the right was playing a good deal rougher with the table. Maybe a little frustrated. The one of the left joined it with the new form of 'play'. ,2,1,3,2,1,1,3,1,1,3,2,3,2,0,3,1,1,4,3,3,1,3,1,3,1,3,1,4,3,0
+583,2,44,Male,American,English,3,15,These children appear to be collaborating on a project.,0,4,0,4,2,1,2,3,1,1,2,3,4,3,3,3,1,1,3,3,2,0,2,0,1,1,1,3,3,2
+583,2,44,Male,American,English,4,17,"These two seem to be working on separate parts of the same project. Right is clearly dominant and a little touchy, but Left is happy and a little distracted.",4,2,2,2,0,2,4,2,0,3,4,2,0,0,4,1,2,4,3,3,3,1,0,1,1,2,1,3,3,0
+816,2,39,Female,American,English,1,3,The worked well together although there was a feeling of competition. They were happy and enjoying themselves on what appeared to be something new to them.,3,3,1,3,0,0,3,3,0,0,3,3,1,3,3,3,3,1,3,3,0,0,0,0,0,0,3,1,1,2
+816,2,39,Female,American,English,2,18,The children were having fun on what appeared to be a new toy. The child on the right appeared t take control of the situation.,1,0,3,1,1,1,2,3,0,0,1,3,3,1,4,1,0,4,2,4,2,0,3,0,3,3,0,4,3,0
+816,2,39,Female,American,English,3,12,The two girls were having fun playing together on anew toy. They both seemed to have seperate projects going,2,3,3,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,3,3,1,1
+816,2,39,Female,American,English,4,6,These two children played well together enjoying their task at hand. They both seemed to be very interested in what was happening on the screen,1,4,1,4,1,1,3,3,0,0,2,2,3,3,4,4,1,1,3,3,0,0,1,1,0,0,1,1,1,1
+497,2,24,Male,Indian,Tamil,1,1,two girls playing  game in table,3,3,2,3,2,1,3,2,3,2,2,3,3,2,3,3,2,3,3,2,3,2,2,1,2,3,2,3,3,2
+497,2,24,Male,Indian,Tamil,2,20,two boys are playing game in table,3,2,3,2,1,2,3,3,1,2,3,2,2,3,3,3,2,3,3,2,3,2,2,1,2,1,3,2,3,2
+497,2,24,Male,Indian,Tamil,3,4,two boys are playing ,3,3,2,2,1,2,3,3,3,2,3,2,2,1,3,3,2,3,2,3,3,3,2,1,2,1,3,2,3,2
+497,2,24,Male,Indian,Tamil,4,2,two boys are playing game,3,3,2,3,2,3,3,3,2,3,3,2,2,1,3,3,2,3,3,2,3,2,1,2,2,1,2,1,3,2
+654,1,30,Male,Indian,English,1,14,the left side child was so exited and right side child some what exited and left child was so happy then right side child was not happy,3,3,3,3,1,3,4,0,3,0,4,1,0,4,3,3,3,1,3,1,1,1,0,3,3,1,4,0,3,1
+654,1,30,Male,Indian,English,2,11,the two kids are playing together then they are so happy,4,4,0,4,1,1,4,4,0,0,4,4,1,1,4,4,1,1,1,1,0,0,0,0,1,1,3,1,1,1
+654,1,30,Male,Indian,English,3,9,the left side child was so exited and so angry then right side child was so sad,3,2,3,1,1,4,4,1,4,0,4,0,0,4,1,3,4,0,1,3,4,1,1,3,3,1,3,0,3,1
+654,1,30,Male,Indian,English,4,7, left side was so arrogant and the right side child was so bored ,3,3,3,1,1,4,3,1,3,1,3,4,1,4,3,1,4,1,3,1,3,1,1,4,1,3,4,1,3,1
+593,1,23,Male,American,English,1,11,The children seemed very playful in their movements and their interactions with each other.,1,3,1,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,1,1,1,1,1,1,2,2
+593,1,23,Male,American,English,2,19,The children looked very much as if they were working together on something and seemed to have a good working relationship.,0,4,0,4,0,0,3,3,1,1,2,2,3,3,3,3,0,0,3,3,1,1,1,1,0,0,0,1,0,0
+593,1,23,Male,American,English,3,6,The children seemed as if they were in a classic give and take interaction as they worked on something together.,1,3,0,3,1,1,2,2,1,1,1,1,3,3,2,2,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+593,1,23,Male,American,English,4,4,The child on the left looked very submissive to the child on the right as they worked together.,1,3,1,3,2,0,1,3,1,1,2,2,2,2,2,2,1,3,3,3,1,1,3,2,2,1,0,4,4,0
+448,2,45,Male,American,English,1,18,"It seemed like the boy wanted to play along an participate with what the girl was trying to do, but she kept pushing him out of the way, like she was only interested in doing this task by herself. ",3,0,1,1,1,0,1,3,1,1,2,2,3,3,2,1,0,3,3,4,1,0,1,0,2,1,0,3,3,0
+448,2,45,Male,American,English,2,15,"The child on the left seemed like he wanted to be engaged in the task, but the one on the right seemed to want to do it by himself and began pushing the child on the left out of the way.",3,1,0,1,1,0,1,2,1,1,1,1,3,3,3,1,1,3,3,4,0,0,1,1,1,2,1,3,3,0
+448,2,45,Male,American,English,3,13,The two girls seemed to largely be playing with each other. The girl on the right seemed rather excitable and seemed to turn the play into messing up what ever they were doing. The girl on the left seemed willing to play along though. ,3,3,1,3,0,0,3,3,1,1,1,4,3,0,3,2,0,3,4,4,1,0,1,1,2,2,1,4,3,1
+448,2,45,Male,American,English,4,14,"It seemed like the child on the right wanted to play by himself, but responded to the other child by largely ignoring him. The child on the left kept trying to engage with the other child despite this. ",1,0,3,1,0,2,3,2,1,1,3,1,2,3,3,1,1,2,3,4,1,0,1,2,2,0,1,3,1,2
+685,2,24,Male,Other,Other,1,15,"the children are talking and probably are trying to solve some task on the interactive table. They smile to each other and move their hands across the table.
+",2,2,1,3,1,1,3,3,0,0,3,3,3,3,3,3,0,0,3,4,1,0,1,1,1,1,1,3,1,1
+685,2,24,Male,Other,Other,2,18,"Both kids were trying to play with the table, but the one on the right didn't let the other play very much and continuously removed his hand from the screen. ",1,1,3,1,1,1,2,1,0,3,3,1,1,1,3,1,1,2,2,4,1,0,1,0,3,3,1,4,3,1
+685,2,24,Male,Other,Other,3,3,"Both children were having fun together, smiling and talking to each other. They seemed to be competing, but in a friendly way. ",3,1,1,3,0,0,4,3,0,0,4,3,1,3,3,3,0,0,4,4,0,0,0,1,1,1,1,1,0,1
+685,2,24,Male,Other,Other,4,5,"the children talked a little, but didn't seem to interact in any other way. ",0,1,4,1,2,1,1,3,3,1,0,3,1,3,1,2,1,0,1,3,1,1,4,1,3,1,1,1,1,1
+350,2,35,Male,American,English,1,9,"At times they seemed t not be listening to each other, or they were playing a game and calling out rules",3,2,3,3,0,0,3,3,1,1,3,3,0,3,3,3,3,1,4,3,0,3,0,3,1,3,3,1,1,3
+350,2,35,Male,American,English,2,4,They seemed to be playing well together,3,4,0,4,0,0,4,4,0,0,4,4,1,3,3,3,1,1,4,4,0,0,0,0,0,0,0,0,1,1
+350,2,35,Male,American,English,3,3,They were very excited and playing together,1,3,0,4,0,0,4,4,0,0,4,4,0,0,3,3,3,3,4,4,0,0,0,0,0,0,0,0,1,1
+350,2,35,Male,American,English,4,8,the child on the left wasn't engaged and the child on the right seemed confused,0,0,4,0,2,2,0,0,0,0,0,0,4,4,0,0,0,0,0,3,4,1,4,1,3,3,0,0,4,4
+605,1,29,Female,Indian,Tamil,1,16,The children are playing each other.They are sharing something  with each other.,3,3,0,3,1,1,3,3,1,1,3,1,3,1,3,1,1,3,3,1,1,3,2,3,1,3,3,1,3,0
+605,1,29,Female,Indian,Tamil,2,1,The children are arguing with each other.They are fighting with each other.,3,0,0,0,3,0,0,0,3,3,1,3,0,0,4,1,3,3,1,1,3,3,1,1,3,3,3,3,3,1
+605,1,29,Female,Indian,Tamil,3,10,The child an the right side is arguing with the child an the left side.,3,0,3,1,3,1,0,0,3,4,3,3,1,3,1,0,1,3,1,1,3,3,1,1,1,1,1,4,1,1
+605,1,29,Female,Indian,Tamil,4,18,The two children are learning with each other.,3,3,0,3,3,0,1,3,1,1,3,4,3,0,4,3,0,3,1,3,1,4,1,1,1,3,1,4,1,1
+839,1,25,Female,Other,Other,1,12,they are fighting together and also crying each other. its very unfair ,4,0,0,1,1,3,1,0,3,2,2,3,1,3,1,3,3,2,3,2,3,2,1,2,3,3,4,1,1,1
+839,1,25,Female,Other,Other,2,19,they are looking very friendly and good. they are playing very well.  ,1,4,0,3,1,2,1,4,0,2,3,2,1,4,3,2,1,2,1,2,1,3,1,3,2,3,1,2,2,2
+839,1,25,Female,Other,Other,3,5,they are playing in good manner. they are enjoying the game.  ,1,4,2,3,0,0,4,4,0,1,3,3,1,1,4,4,1,0,1,1,1,0,0,1,1,1,1,0,2,1
+839,1,25,Female,Other,Other,4,2,they are looking somewhat shouting and fighting in bad manner.  ,3,3,1,3,3,2,4,1,3,2,1,2,1,2,1,0,2,3,2,1,3,2,1,1,3,4,3,4,1,1
+890,2,25,Male,Indian,Tamil,1,1,THEY TWO CHILDREN'S ARE PLAY TO DRAWING GAME ,3,3,1,3,1,2,2,3,2,2,3,2,2,1,4,3,2,2,3,3,4,3,2,2,3,2,2,1,2,3
+890,2,25,Male,Indian,Tamil,2,20,THEY TWO CHILDREN'S ARE PLAY TO DRAWING GAME,3,4,3,3,2,1,4,3,2,3,3,4,3,2,3,4,3,2,2,3,2,3,2,3,3,3,1,2,3,3
+890,2,25,Male,Indian,Tamil,3,4,THEY TWO CHILDREN'S PLAY TO DRAWING,3,2,2,3,2,1,3,2,3,4,3,3,2,2,4,4,1,2,3,4,4,2,1,3,3,2,2,1,3,2
+890,2,25,Male,Indian,Tamil,4,2,THEY TWO CHILDREN'S ARE PLAY TO DRAWING GAME,2,1,2,2,3,2,3,4,2,1,4,3,2,1,1,3,3,4,2,3,3,4,1,2,2,1,1,2,3,2
+997,2,26,Male,Indian,Tamil,1,14,The kids are enjoying a game on touch screen table looks like a competitive game and kids enjoying the way the new technology and they interact with each other easily.,3,3,0,4,0,0,3,3,0,0,4,3,1,3,3,3,3,1,4,4,0,0,0,1,1,1,2,2,1,2
+997,2,26,Male,Indian,Tamil,2,19,The kid on right teaching something to the kid on left about touch screen gaming ,1,3,1,3,0,0,3,3,0,0,2,3,3,3,3,3,1,1,3,3,1,1,1,1,0,0,0,2,2,1
+997,2,26,Male,Indian,Tamil,3,12,they are playing game both of them trying to defeat each other .,3,2,1,3,1,1,3,2,1,3,3,2,1,1,2,1,1,3,3,3,1,1,1,1,1,2,1,3,2,1
+997,2,26,Male,Indian,Tamil,4,17,kids drawing something on table they are happy and talking each other.,1,1,2,2,1,2,3,2,1,3,1,3,1,3,3,2,2,2,2,3,3,1,3,1,1,2,1,3,3,1
+889,2,24,Male,Indian,Hindi,1,20,He pressed to colour on a photo and he coloured that.,1,3,0,1,0,0,3,4,0,0,3,3,3,1,3,3,0,0,3,2,0,0,0,0,0,0,2,2,0,0
+889,2,24,Male,Indian,Hindi,2,4,The children are playing a game.,4,4,0,4,0,0,4,4,0,0,3,3,0,0,4,4,0,0,3,3,0,0,0,0,0,0,2,2,0,0
+889,2,24,Male,Indian,Hindi,3,16,Both children are playing a game.,3,3,0,4,2,0,2,2,0,0,3,3,2,0,3,3,0,0,2,2,0,0,0,0,0,0,0,3,0,0
+889,2,24,Male,Indian,Hindi,4,2,Both are playing a game.,2,1,4,2,2,2,3,3,0,0,3,3,2,1,1,2,2,0,0,0,2,2,0,0,0,0,2,2,0,0
+291,1,32,Female,Other,English,1,11,They appear to be taking turns with the touch screen and communicating with each other in between turns.,1,3,3,3,1,1,2,2,0,0,1,1,3,3,3,3,1,1,4,4,1,1,2,1,1,1,2,3,1,1
+291,1,32,Female,Other,English,2,1,The child on the right doesn't seem to want the child on the left to play. Either that or the child on the left is dominant.,4,0,3,0,1,3,2,0,1,3,3,3,2,0,2,1,1,3,3,1,1,2,0,3,0,4,3,2,1,1
+291,1,32,Female,Other,English,3,18,The one on the right gave the one on the left little to no opportunity to play with the screen.,3,1,3,1,3,1,1,3,2,2,2,3,3,1,3,1,0,3,1,4,1,1,4,1,3,3,0,4,3,1
+291,1,32,Female,Other,English,4,3,"Out of all the videos so far, the children in this one seem to be cooperating the best,",2,4,0,4,0,0,3,3,1,1,3,3,4,4,3,3,0,0,4,4,0,0,0,0,1,1,1,1,0,0
+495,1,29,Male,American,English,1,5,The children didn't really interact that much. The one on the left was really calm with their play and seemed less engaged. The one on the right was more active. It seemed like at the end the one on the right started doing something on the other side interrupting the child on the left.,3,1,3,1,3,0,1,3,2,1,1,4,4,1,2,1,0,4,1,4,3,1,3,0,3,0,0,4,2,0
+495,1,29,Male,American,English,2,15,"They seemed to be working together on something. The on the right seemed more interested in taking charge, but still cooperated.",1,3,1,3,1,1,2,3,1,1,1,2,3,2,3,2,1,3,3,4,0,0,1,1,1,1,1,3,2,1
+495,1,29,Male,American,English,3,4,These two seemed to be working together on something. They both seemed to take a somewhat relaxed approach.,1,3,1,3,1,1,2,2,1,2,1,1,3,3,3,2,1,2,3,3,2,2,1,1,1,2,1,1,2,2
+495,1,29,Male,American,English,4,16,"They seemed to be working together on something, but they are disagreeing on it. The one on the right has a more dominant approach and pushes away the other child's hand a few times.",1,3,1,3,2,1,2,1,2,2,1,1,2,1,2,1,3,4,3,4,0,0,0,0,3,3,2,4,1,0
+554,2,30,Male,American,English,1,12,They are having fun playing with each other. At first it looked like the girl in the red/purple was the only person playing the game but then the girl in the yellow/blue started joining in. ,2,2,1,3,1,1,3,3,1,1,3,3,3,3,3,3,0,1,3,4,1,1,1,1,1,1,1,3,1,1
+554,2,30,Male,American,English,2,19,The kid in the purple was teaching the kid in the yellow how to play the game.,1,3,1,3,0,0,3,3,0,0,3,3,3,3,3,3,1,1,4,4,1,1,1,1,1,1,1,1,1,1
+554,2,30,Male,American,English,3,6,"The children didn't interact that much, by either talking to each other or reacting to what the other person did. ",2,2,2,2,2,2,2,2,1,1,1,1,3,3,2,2,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+554,2,30,Male,American,English,4,7,"I can't tell if the girl in the purple was teaching the girl in the yellow how to play it or vice versa. They both seemed to have a muted reaction, not much laughing. ",1,3,1,2,1,1,3,3,1,1,1,3,3,2,3,3,1,1,3,3,1,3,1,3,1,3,1,3,1,1
+347,1,57,Female,American,English,1,12,The child on the left looked like he did not want whatever the child on the right wanted him to have. ,3,1,0,3,1,0,0,1,2,3,0,4,1,1,1,4,0,4,1,4,0,0,1,0,4,2,0,4,3,0
+347,1,57,Female,American,English,2,19,They seemed to be just having a conversation about something. No real expressions going on.,1,4,0,3,0,0,2,2,1,0,1,1,3,4,3,3,1,0,4,3,0,0,0,3,1,0,3,1,0,3
+347,1,57,Female,American,English,3,15,The child on the right seemed to be doing something and he/she didn't want the child on the left doing it also. Or they could be playing separately. Not sure.,1,2,2,2,3,0,1,3,3,0,1,3,3,1,1,3,0,4,1,4,2,0,3,0,3,0,0,4,4,0
+347,1,57,Female,American,English,4,17,Both of the children seemed very upset with one another.,3,0,0,3,1,1,0,0,3,3,3,3,0,0,1,1,3,3,4,4,0,0,0,0,4,4,3,4,0,0
+581,2,19,Male,American,English,1,8,"They didn't seem to get along all that well, from my perspective.
+",1,1,3,1,1,1,1,1,3,1,1,3,1,3,1,1,3,1,1,3,3,1,3,1,3,1,1,3,3,1
+581,2,19,Male,American,English,2,1,"They seemed to get along well, and were having fun.",4,3,0,4,0,0,4,4,0,0,4,4,3,3,3,3,3,3,3,3,1,1,1,1,0,0,1,1,0,0
+581,2,19,Male,American,English,3,2,The one on the left seemed like he wanted to play alone.,3,0,3,1,1,1,1,3,3,1,1,3,3,1,3,1,3,1,1,3,0,0,3,1,3,1,0,3,3,1
+581,2,19,Male,American,English,4,19,"They seemed both engaged, and focusing on a common goal.",1,4,1,4,1,1,3,3,1,1,3,3,4,4,4,4,1,1,4,4,1,1,1,1,1,1,1,1,1,1
+400,1,42,Female,American,English,1,1,I noticed they seemed to move independantly and the from time to time interact touching each other or working in the exact same place,3,3,1,4,2,2,3,3,2,2,3,3,3,3,3,3,1,3,3,3,1,1,1,1,1,1,3,1,1,3
+400,1,42,Female,American,English,2,4,The one on the left seemed to lead the interatction,0,3,3,2,1,1,2,2,1,1,3,1,3,3,3,3,1,1,1,3,3,3,1,1,2,1,4,0,0,3
+400,1,42,Female,American,English,3,20,I think the one on the right was actually laughing at the one on the left,1,3,1,3,0,0,3,4,0,0,2,3,3,3,1,4,0,0,1,3,0,0,1,0,0,0,2,2,1,2
+400,1,42,Female,American,English,4,7,"the one on the right seemed to be directing the one on the left, who didnt seem to understand so the one on the right did whatever they were wanting themselves",2,0,4,1,2,0,1,1,0,0,1,1,3,1,3,2,1,3,4,4,0,0,1,2,2,3,0,4,2,0
+983,1,25,Male,Indian,Tamil,1,15,chase game playing,3,4,3,3,1,2,2,2,2,2,4,3,2,3,2,3,2,4,1,3,3,1,3,1,3,2,3,2,2,3
+983,1,25,Male,Indian,Tamil,2,6,game playing,3,3,3,2,1,4,3,3,2,3,2,3,1,3,1,3,3,1,3,2,1,3,2,3,1,3,3,1,2,3
+983,1,25,Male,Indian,Tamil,3,1,hand games,3,3,4,3,1,3,2,3,2,1,3,2,2,3,3,3,2,3,2,3,1,3,3,4,2,1,1,3,2,3
+983,1,25,Male,Indian,Tamil,4,20,we are sitting in table,3,1,2,3,1,3,3,3,3,4,3,2,2,3,3,4,1,3,4,2,3,2,3,2,2,1,3,1,2,3
+257,2,27,Male,American,English,1,9,well they are have fun and enjoying interacting with each other ,2,3,1,3,0,0,3,2,0,0,3,2,1,2,3,3,1,1,3,3,1,1,1,2,1,1,3,2,1,3
+257,2,27,Male,American,English,2,10,they are playing with the screen and interacting with each other ,1,3,0,3,0,1,3,4,1,1,3,3,2,1,3,3,1,1,3,3,1,1,1,1,1,0,1,3,1,1
+257,2,27,Male,American,English,3,15,well the are somewhat cooperating with each other but one of them is dominant ,2,1,2,2,1,1,3,3,1,1,3,3,3,2,3,2,1,3,1,3,1,1,2,1,2,1,2,3,4,1
+257,2,27,Male,American,English,4,18,the girl on the right is dominant and dont let the other child play with the screen ,2,1,3,1,1,1,2,3,1,1,3,3,1,1,3,2,1,3,1,3,1,1,1,1,3,1,1,3,4,1
+681,1,40,Female,American,English,1,20,They were discussing something. They seemed to not be in agreement about it. ,3,3,1,3,1,1,2,2,1,1,3,1,1,3,3,3,1,1,4,3,1,1,1,1,3,1,3,1,1,3
+681,1,40,Female,American,English,2,6,The one on the left seemed a little flustered or frustrated. The one on the right was very dominant.,3,3,1,3,1,1,1,1,1,3,1,1,1,1,3,1,1,3,3,4,1,1,1,1,4,1,1,3,3,1
+681,1,40,Female,American,English,3,8,The child on the left was bored and looking away. the child on the right was fully engaged and trying to solve something.,1,1,3,1,1,1,1,2,1,1,1,1,3,1,2,2,1,1,1,4,4,1,4,1,1,3,1,3,1,1
+681,1,40,Female,American,English,4,4,They both seemed to be arguing and not very happy. The child on the right was much angrier it seems.,4,1,1,3,1,1,1,1,3,4,1,1,1,1,1,0,1,3,3,3,1,1,1,1,3,4,1,3,3,1
+484,1,26,Male,Indian,Tamil,1,13,The children's sharing something food or product.,3,1,3,3,1,1,1,3,2,1,1,3,1,3,2,3,2,1,3,2,1,3,1,1,2,3,1,3,2,3
+484,1,26,Male,Indian,Tamil,2,18,The right side children not obey the left side children told.,1,2,0,3,3,1,1,2,1,3,1,3,3,3,3,1,1,3,3,1,1,3,1,1,2,2,3,1,3,1
+484,1,26,Male,Indian,Tamil,3,17,children's was speaking something about it.,3,3,0,3,1,3,2,1,2,1,2,2,1,3,1,3,3,1,2,3,1,2,1,1,2,1,2,3,2,2
+484,1,26,Male,Indian,Tamil,4,3,children's were playing like typing,4,3,0,3,1,1,3,3,1,1,3,3,1,1,3,3,1,2,3,3,2,1,1,1,2,2,1,1,2,1
+671,1,65,Male,American,English,1,3,"they were sharing to some extent, but it was very harmonious. They were taking turns, but sometimes a ""kid"" didn't want to give up yet",2,3,0,3,1,1,3,3,3,2,3,3,1,1,1,3,3,1,4,3,1,1,0,0,1,1,3,1,1,1
+671,1,65,Male,American,English,2,17,kid on the right was more dominant and the one of the left was not happy about it,2,3,1,3,3,1,0,3,3,1,3,3,1,1,2,1,0,4,3,3,1,1,1,1,4,1,0,4,3,1
+671,1,65,Male,American,English,3,2,"this was no clear to me at all. It was like there was a  younger brother on the right ""petering"" the one on the left to ""play with me."" A video game wasn't nearly so obvious to me in this clip.",2,1,1,2,1,3,1,1,2,2,1,3,3,1,1,2,1,3,3,3,1,1,2,1,2,4,3,0,1,1
+671,1,65,Male,American,English,4,1,The one on the left was more in control and the one on the right was picking at what the one on the left was trying to do,3,0,1,2,1,2,2,1,2,3,2,3,3,1,1,2,3,3,3,3,1,1,1,1,2,3,3,1,1,1
+417,1,24,Male,American,English,1,15,It seemed that they were holding a mouse with one hand and were using the other hand to press keys on the keyboard. Sometimes they used both hands on the keyboard.,3,1,3,2,2,2,1,2,2,2,1,3,3,1,2,2,1,3,3,3,1,1,2,1,2,1,1,3,1,1
+417,1,24,Male,American,English,2,6,The right one was more relaxed and in control of the game. The body language was showing that he was more confident.,3,1,2,3,1,1,1,2,1,1,3,3,1,3,2,2,1,1,3,3,1,1,1,1,3,1,1,3,3,0
+417,1,24,Male,American,English,3,7,The child on the right seemed to be angry and aggressive. He was acting dominant over the child on the left.,4,2,1,3,3,1,1,0,1,4,1,3,3,0,3,0,0,4,3,3,1,1,1,0,1,4,0,4,4,0
+417,1,24,Male,American,English,4,8,The child on the left was distracted and didn't even care about the game. ,0,0,4,0,1,1,1,1,1,1,0,3,4,1,2,2,0,1,0,3,4,1,4,1,3,1,1,1,1,1
+651,2,32,Male,American,English,1,12,both are  discussion about writing.,2,4,4,3,4,2,4,2,4,2,4,2,3,3,4,3,3,4,3,4,3,3,2,3,3,4,3,2,3,4
+651,2,32,Male,American,English,2,8,Both are taking to some topic descution.,3,4,4,2,3,4,4,2,3,2,4,3,4,4,3,3,2,3,3,4,4,3,2,4,2,3,1,4,4,3
+651,2,32,Male,American,English,3,19,both are playing some fun moments.,1,4,4,2,3,2,3,4,2,3,3,2,4,3,4,4,3,4,2,4,3,3,2,4,3,4,2,3,2,4
+651,2,32,Male,American,English,4,9,Both are speck to some topic in talk.,4,3,4,2,3,4,4,2,4,3,3,4,3,3,4,3,3,4,3,4,3,3,2,4,3,2,4,3,2,4
+744,2,32,Male,Indian,English,1,8,THEY ARE PLAYING AND TALKING TOGETHER THEY ARE HAPPY THEY ARE THINKING ABOUT SOMETHING,3,3,0,4,1,1,2,3,3,0,2,1,3,3,3,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1
+744,2,32,Male,Indian,English,2,17,THE CHILDRENS WERE PLAYING TOGHETHER THEY WERE HAPPY AND THEY WERE DRAWING,1,3,0,4,1,1,3,3,0,1,0,1,3,3,4,4,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+744,2,32,Male,Indian,English,3,12,"THE CHILDRENS WERE PLAYING THEY WERE HAPPY TO PLAY THEY WERE DRWING SOMETHING 
+",1,1,0,3,0,0,4,4,0,0,1,1,2,2,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+744,2,32,Male,Indian,English,4,2,THE CHILDRENS ARE PLAYING TOGHETHER WERE HAPPY THEY ARE INTRESTED TO PLAY THEY WERE TALKING TOGETHER WERE HAPPY ,1,1,0,4,1,1,3,3,1,1,0,1,3,3,4,4,1,1,1,2,1,1,1,1,1,1,3,3,1,1
+364,1,29,Female,Indian,Tamil,1,14,Children playing game with some objects giving something to another child ,4,4,1,4,2,1,2,1,3,1,3,4,3,1,4,3,1,2,2,3,1,3,2,0,2,3,2,1,2,3
+364,1,29,Female,Indian,Tamil,2,8,The right child was playing something and left one was sitting calm and not interacted with each other,1,1,3,0,3,0,1,3,3,1,2,3,4,0,0,3,3,1,1,3,2,3,4,1,3,1,0,4,2,1
+364,1,29,Female,Indian,Tamil,3,16,Both the child was interacting with each other and playing the game very well ,4,4,0,4,0,0,3,4,1,0,2,3,1,0,4,4,0,1,4,3,1,0,1,0,1,2,1,3,3,2
+364,1,29,Female,Indian,Tamil,4,17,the two childrens not playing well they fighted each other right one dominated the left,1,0,3,0,4,0,1,3,3,2,1,3,4,0,4,1,1,4,1,4,3,0,3,0,1,4,0,4,1,3
+468,2,37,Female,American,English,1,8,They kept to themselves and didn't really communicate with eachother at all. ,3,1,3,1,1,1,1,3,2,1,2,1,1,3,1,3,3,1,0,4,4,1,3,1,3,1,4,1,1,3
+468,2,37,Female,American,English,2,16,They seemed somewhat aggressive and competitive with each other especially the boy on the right.,3,1,1,3,1,1,1,0,1,3,1,4,3,0,2,0,1,4,4,4,1,0,1,1,3,4,1,4,1,0
+468,2,37,Female,American,English,3,6,They mostly were playing independently but were able to work together nicely. ,1,3,3,3,1,1,3,3,1,1,1,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,3,3,1
+468,2,37,Female,American,English,4,15,It was a mostly one sided interaction. The boy on the right took charge and didn't want the other boy to touch the board too much. ,2,1,3,1,1,1,1,1,1,1,1,3,1,1,2,1,1,3,3,4,3,1,3,1,1,1,1,4,3,0
+953,2,25,Male,Indian,Tamil,1,8,playing game in the home and the 2 girls are silently play eye interaction in the game,4,3,0,4,0,1,1,4,2,2,2,2,2,3,4,3,1,1,4,3,3,0,2,2,1,1,0,4,3,3
+953,2,25,Male,Indian,Tamil,2,14,two boys are interaction are funny and friendly play this game.,4,3,0,4,0,3,4,0,0,3,0,4,2,2,3,3,3,1,4,3,0,3,0,3,2,3,0,4,2,2
+953,2,25,Male,Indian,Tamil,3,5,two girls are played not friendly in interaction with this game. ,4,3,0,3,4,0,0,4,0,0,0,4,1,3,1,4,0,0,1,3,3,2,4,0,1,3,4,0,2,4
+953,2,25,Male,Indian,Tamil,4,12,two girls are played friendly and play fun with us. and enjoy this game,4,2,0,4,1,1,4,3,0,0,0,4,3,3,4,4,1,1,3,3,2,2,0,0,2,2,0,3,3,3
+967,2,68,Male,American,English,1,17,"having a good time , one in yellow was bothering the red head",2,1,2,2,1,1,3,1,1,3,3,3,1,1,3,1,3,1,3,3,1,1,1,1,1,3,3,1,0,3
+967,2,68,Male,American,English,2,12,playing together ,1,3,1,3,1,1,3,3,1,1,3,3,1,1,3,3,1,3,3,3,1,1,1,1,1,1,2,2,1,1
+967,2,68,Male,American,English,3,15,playing with each other,2,2,2,3,1,1,3,3,1,1,2,1,3,2,3,3,1,3,3,3,1,1,1,1,3,1,1,3,3,1
+967,2,68,Male,American,English,4,2,one was bored,2,2,1,2,2,1,1,3,1,1,1,2,3,2,2,2,1,3,1,3,1,1,3,1,3,1,1,3,3,1
+926,2,28,Male,American,English,1,19,They look very happy. They are conversing with each other to figure out a combined decision on what to do on the game.,1,4,0,4,1,0,3,4,0,0,3,4,3,3,4,4,0,1,4,4,0,0,1,0,1,0,0,4,3,1
+926,2,28,Male,American,English,2,5,They didnt seem to be interacting together very much. The girl on the left does not seem happy.,1,1,3,1,3,0,1,4,3,0,0,4,3,3,1,4,0,0,1,4,1,0,4,0,3,0,1,3,1,0
+926,2,28,Male,American,English,3,9,The girl on the left seems excited while the girl on the right seems to be bossy,1,0,1,3,3,3,3,1,1,3,3,1,3,1,3,1,1,3,3,1,0,3,0,3,3,4,0,4,1,0
+926,2,28,Male,American,English,4,18,The boy is trying to play with the girl but she doesn't seem to want his help,1,0,3,1,1,1,3,3,1,3,4,1,1,3,3,1,1,3,3,4,3,0,1,0,3,3,0,4,1,0
+638,2,41,Male,American,English,1,8,There wasn't very much interaction at all. It almost seems as if they were told not to interact. ,2,2,2,1,2,1,1,2,2,1,1,3,3,3,2,2,1,1,1,3,3,1,3,1,3,1,1,3,3,1
+638,2,41,Male,American,English,2,15,They seemed friendly and working together. The child on the right was much more assertive and dominant. ,2,3,1,3,1,1,3,3,1,1,1,1,3,3,2,2,1,3,3,3,1,1,1,1,1,1,1,3,1,3
+638,2,41,Male,American,English,3,7,They are interacting this time. They seem kind of stand offish. The one on the right clearly wants to be the leader or dominate. The left child is having none of it. ,1,1,1,3,1,1,1,3,3,1,1,3,3,3,2,2,1,3,3,3,1,1,2,2,3,1,1,3,1,1
+638,2,41,Male,American,English,4,9,"Once again, full on interaction this time. Seems as if they are working together towards some goal. Without seeing what the table is not sure. ",1,1,1,3,1,1,1,1,1,1,3,3,3,3,2,2,2,2,1,3,1,3,1,1,3,3,1,1,1,1
+361,1,30,Male,American,English,1,8,It looked as if the one on he right was holding something and the one on the left tried to see what it is.,1,2,1,3,1,1,2,2,1,1,2,2,3,3,3,3,1,2,3,3,2,1,2,1,2,1,1,3,3,1
+361,1,30,Male,American,English,2,14,It looked like they were playing together and got along well.,0,4,0,4,0,0,3,3,0,0,3,3,4,4,3,3,0,0,4,4,0,0,0,0,0,0,1,1,0,0
+361,1,30,Male,American,English,3,11,Two kids having fun playing although the one on the left looked a little frustrated.,2,3,1,3,1,1,2,3,3,1,3,3,1,2,2,3,3,1,3,3,3,1,1,1,3,1,3,2,1,1
+361,1,30,Male,American,English,4,3,It looked like two kids were rolling cars around on the table.,2,3,1,4,0,0,4,4,0,0,4,3,1,1,4,4,3,3,4,4,0,0,0,0,0,0,2,2,1,1
+330,2,30,Male,American,English,1,15,Both of them are having a conversation as they interact.,2,2,3,1,2,1,1,3,2,2,1,3,3,2,2,1,2,2,2,2,3,1,3,2,3,1,1,3,2,2
+330,2,30,Male,American,English,2,3,They are both interacting with each other on the table. Much better than the first set.,0,4,0,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,0,0,0,0,0,0,0,0,0,0
+330,2,30,Male,American,English,3,5,The child on the left was much less engaged than the child on the right.,1,0,4,0,2,1,1,2,3,1,0,2,4,4,1,1,1,1,0,4,3,0,4,0,3,1,1,1,0,0
+330,2,30,Male,American,English,4,19,Both children were playing and interacting with each other. There didn't seem to be any problems.,2,3,1,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,1,1,2,2,2,2,2,2,1,1
+691,1,30,Male,Other,Other,1,3,"I noticed that the two children were interacting with each other, and at one point the children on my left put his hands on his face",3,1,4,1,3,1,1,3,1,2,3,4,3,2,3,3,1,2,2,2,2,1,1,1,3,1,1,3,2,2
+691,1,30,Male,Other,Other,2,1,"I noticed that their hands were touching each other, so I would say that they were collaborating",0,4,1,4,2,1,3,2,1,2,3,2,3,1,3,2,1,1,2,2,3,2,1,1,1,2,1,3,1,2
+691,1,30,Male,Other,Other,3,9,"I thing that they were talking to each other moving their hands, so I suppose they are collaborating",1,4,0,4,1,2,3,2,2,1,2,3,3,2,3,2,1,1,2,3,3,2,1,2,1,2,1,3,3,1
+691,1,30,Male,Other,Other,4,20,"I noticed that the two children were doing separate thing, but they are still collaborating",1,3,0,3,2,1,3,2,2,1,3,2,1,2,3,2,1,2,2,3,1,3,2,1,1,2,3,2,1,2
+951,1,26,Female,American,English,1,4,the children on the left was more quiet,0,4,0,3,2,0,0,3,0,0,2,3,4,0,4,3,0,0,3,3,0,0,0,0,0,0,0,3,2,0
+951,1,26,Female,American,English,2,6,they were playing something with their hands,4,3,0,4,0,0,3,4,0,0,1,2,4,0,4,4,3,0,3,3,0,0,0,0,0,0,0,4,3,0
+951,1,26,Female,American,English,3,14,they were having fun playing with something that was above the table,0,4,0,4,0,0,4,4,0,0,4,4,0,0,4,4,0,0,4,4,3,3,0,0,0,0,0,0,0,0
+951,1,26,Female,American,English,4,1,children were fighting with each other from something above the table,4,0,4,3,0,0,4,0,3,3,0,0,0,0,1,1,0,3,1,0,4,4,0,0,4,4,3,3,0,0
+869,1,38,Male,American,English,1,2,At first I thought they were eating something but I think they're playing with pick up sticks or something on a table.,3,3,1,3,1,1,2,2,1,1,2,2,2,2,2,2,1,1,3,3,1,1,1,1,1,1,2,2,1,1
+869,1,38,Male,American,English,2,18,Again they seem to be playing a game that is laid out on a table.,3,3,1,3,1,1,2,2,1,2,2,2,3,2,3,2,1,3,3,3,1,1,1,1,1,3,1,3,3,1
+869,1,38,Male,American,English,3,20,Playing a game again but I could swear I thought I saw the child on the right hit the other child,3,3,1,3,1,1,2,2,3,1,3,2,1,3,1,2,3,1,3,3,1,1,1,1,3,1,3,1,1,3
+869,1,38,Male,American,English,4,16,The child on the right seems to be controlling the situation here and not letting the other participate.,2,2,1,3,1,1,2,2,2,2,3,2,1,3,3,1,1,3,3,3,1,1,3,1,3,1,1,3,2,1
+436,1,33,Male,American,English,1,20,"The child on the left made action much faster. They did not seem to interact too often, except for a few times when they made a walking motion with their hands. Their legs seemed to be constantly moving.",1,1,3,1,1,2,3,2,2,1,3,1,1,3,2,1,3,1,4,1,1,3,1,3,2,1,3,1,1,3
+436,1,33,Male,American,English,2,11,They interacted together very closely. The child on the right seemed to be more aggressive and dominant. The child on the left watched and followed more often.,1,3,0,3,1,1,2,1,1,3,1,3,3,1,3,2,1,3,2,1,2,2,1,2,1,3,0,4,4,0
+436,1,33,Male,American,English,3,5,The children didn't really seem to be interacting. The child on the right was much more active.,0,0,4,1,3,1,1,3,1,1,1,3,3,1,1,2,0,1,4,1,3,1,4,1,2,1,1,2,1,1
+436,1,33,Male,American,English,4,8,"The child on the left didn't do much and seemed distracted. The child on the right was pretty active, doing something by himself.",1,1,4,1,3,1,2,3,1,1,1,3,3,2,1,2,1,1,0,4,4,1,3,1,1,1,1,1,1,1
+734,1,34,Female,American,English,1,8,"The child on the right seemed to be enjoying themselves playing, however the child on the left watched the child on the right, then kept looking around, almost being bored.",0,3,4,1,2,0,0,3,0,0,0,3,4,1,2,4,0,0,1,4,4,0,4,0,0,1,0,3,4,1
+734,1,34,Female,American,English,2,13,It looks like they were playing with some type of toy together and having a good time.,1,3,0,4,1,0,2,3,2,1,3,4,1,0,3,2,1,3,4,4,0,0,0,0,2,1,1,4,1,0
+734,1,34,Female,American,English,3,20,"It looks like the child on the right was trying to play with the child on the left, though the child on the left kept going back to their own thing",2,4,2,3,0,3,4,1,1,0,3,1,1,3,2,3,1,0,4,3,2,1,0,3,0,1,3,0,0,3
+734,1,34,Female,American,English,4,5,"The child on the left seems bored of what they are doing while the child on the right started off playing by themselves, but tried to play with the child on the left",1,1,4,0,4,0,0,3,1,0,0,3,4,1,1,3,0,1,2,4,4,0,4,1,1,0,0,3,3,0
+985,2,34,Male,American,English,1,13,They seemed to get along well and both were having a good time. They were active. I felt like the girl in the pink jersey was the leader of the two.,1,3,1,4,0,0,3,3,0,0,3,4,1,0,3,2,1,3,4,4,0,0,0,0,1,0,1,4,3,0
+985,2,34,Male,American,English,2,20,They appear to be getting along and both are having fun. The child on the left is dominant.,0,3,0,4,0,0,3,3,0,0,3,4,3,3,2,3,0,0,4,4,0,0,0,0,0,0,4,1,0,4
+985,2,34,Male,American,English,3,11,"They were active, but not to an extreme amount. They were interacting and seemed relatively happy.",1,3,1,3,1,1,2,2,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,1,1,2,2,2,2
+985,2,34,Male,American,English,4,4,The children were getting along and interacting well with each other. I didn't see any noticeable dominance.,1,3,1,3,0,0,3,3,0,0,3,3,3,3,3,3,0,1,3,3,0,0,0,0,1,1,1,2,1,1
+372,1,26,Female,American,English,1,6,They both generally focused on the same area at the same time. The child on the left scratched his head at one point and appeared confused. ,2,3,1,3,3,1,1,3,3,1,3,1,2,4,1,3,2,0,3,4,1,1,1,0,4,1,2,2,1,3
+372,1,26,Female,American,English,2,16,The child on the right was forcibly moving the other child's hand and trying to take over control of the game. The child on the left was confused why the other child was being mean. They both seemed frustrated. ,4,0,2,1,3,1,1,2,4,2,3,4,1,1,3,0,1,4,3,4,0,0,1,0,4,3,0,4,3,0
+372,1,26,Female,American,English,3,14,The child on the left followed the other child's hand around the board. The child on the right didn't seem too distracted by this. ,0,3,1,4,0,1,3,3,0,0,3,2,1,4,2,3,3,0,3,4,1,0,1,1,0,1,2,2,1,1
+372,1,26,Female,American,English,4,13,The children were calm to start and then the child on the right started moving their arms all around. The child on the left responded by doing the same and they both got more aggressive and energized. ,4,2,1,3,0,0,3,3,2,2,4,4,1,1,2,1,4,4,2,2,1,1,0,0,3,3,3,4,0,0
+317,1,33,Male,American,English,1,14,The children are working together on the same project. It looks like they are sharing something,3,4,0,3,2,2,3,3,1,1,1,1,3,3,3,3,1,2,3,3,1,1,1,1,1,1,2,2,1,3
+317,1,33,Male,American,English,2,13,The children do not seem to be getting along. The child on the right seems to be the agitator,1,1,1,3,3,1,1,1,1,4,1,3,3,1,3,0,1,4,3,3,1,1,1,2,1,4,1,3,3,1
+317,1,33,Male,American,English,3,7,The child on the right seems to have taken charge of the situation,1,3,1,3,2,1,2,3,1,1,1,1,3,3,3,2,1,1,3,3,1,3,2,1,1,1,1,3,3,1
+317,1,33,Male,American,English,4,3,It is hard to tell if these children are working together or competing,2,2,2,2,1,1,2,2,1,1,3,1,1,3,2,2,3,1,3,3,1,2,1,2,2,1,3,1,1,3
+224,1,30,Female,American,English,1,17,child on left is not so active when compared to other . child on left is little excited at what he or she is doing.,3,1,1,3,2,1,1,3,1,3,1,3,3,0,3,1,1,3,1,3,3,1,3,0,1,2,1,4,3,1
+224,1,30,Female,American,English,2,6,both the children were appearing to be cooperative with each other. they were interactive with each other.,3,3,1,3,2,1,2,3,1,2,2,3,3,3,3,3,1,2,3,3,3,0,2,1,1,1,1,3,3,1
+224,1,30,Female,American,English,3,12,both appeared to be dominant and competing with each other and they were actively engaged in the game.,3,3,0,3,1,0,2,3,1,1,1,3,3,3,3,2,1,3,3,4,0,0,1,1,1,1,1,3,1,1
+224,1,30,Female,American,English,4,13,they both appeared as if they were quarreling and child on left is always restraining from the quarrel .child on right is always provoking the child on left.  ,3,0,1,1,1,0,1,2,1,3,1,3,3,1,3,0,1,4,3,3,1,1,1,1,2,3,0,4,3,1
+812,2,56,Male,American,English,1,1,they seemed to be in a competition to see who could draw the most,4,1,1,3,1,1,3,3,1,1,3,3,1,1,2,2,2,2,3,3,1,1,1,1,1,1,1,1,1,1
+812,2,56,Male,American,English,2,4,they were happy and played very well together while smiling at each other,1,4,2,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,0,0,0,0,0,0,0,0,0,0
+812,2,56,Male,American,English,3,14,they seemed involved and played together fairly well and occasionally smiled,1,2,2,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+812,2,56,Male,American,English,4,7,one was doing most of the activities on the table while the other was pointing and speaking,1,1,3,2,1,2,2,2,1,2,2,1,3,2,2,2,2,2,3,2,1,3,1,2,1,2,3,2,1,2
+592,2,26,Female,American,English,1,17,The little girl in the yellow vest is very happy and giggly. The girl in the pink vest seems a little more assertive and demanding. I saw her push the girl in the yellow vest's hand away when she tried to draw near her drawing.,3,1,1,1,0,1,4,1,0,3,4,0,4,1,4,0,0,4,1,4,4,4,3,0,0,4,0,4,4,0
+592,2,26,Female,American,English,2,3,They were both very excited to be playing with the drawing board. They cooperated well together and didn't mind drawing over each other.,4,4,0,4,0,0,4,4,0,0,4,4,3,3,4,4,3,1,4,4,1,1,0,0,0,0,4,1,4,4
+592,2,26,Female,American,English,3,10,They were both very friendly with one another. They drew together without any issue. They seemed to be having fun together.,1,4,0,4,0,0,4,4,0,0,4,4,4,4,4,4,0,0,4,4,1,1,0,0,0,0,1,1,3,3
+592,2,26,Female,American,English,4,13,The girl in the pink vest became very aggressive and sort of took control of the drawing board. The girl in the yellow vest was more calm and submissive allowing the other girl to take over. She seemed like she didn't know how to react to the other girl being so aggressive so she just sat back and allowed it to happen.,1,3,1,3,1,0,3,2,0,1,1,4,3,1,4,1,0,4,3,4,3,1,1,3,1,1,0,4,4,0
+354,1,39,Female,American,English,1,18,"The child on the right appeared to be dominating the interaction. They interacted with the touchscreen table more, and also appeared to gesture that the other child should sit back (or perhaps even lightly pushed the other child), limiting the other child's ability to play along.",1,2,1,2,2,1,1,3,2,3,2,4,3,0,3,0,0,4,2,4,0,0,0,0,3,3,0,4,4,0
+354,1,39,Female,American,English,2,2,"The child on the left seems to be playing a more dominant role in the game, but they're allowing the child on the right to participate. They appear to be cooperating well.",1,4,0,4,0,0,4,4,0,0,4,3,1,1,3,3,3,1,4,3,0,1,0,0,0,0,3,1,0,3
+354,1,39,Female,American,English,3,5,"The two children appear to be playing separately and not interacting much. The child on the left appears to be extremely bored, resting their head on their left hand and only playing the game with their right hand. The child on the right is more engaged but still doesn't seem super into it.",1,0,4,0,2,1,0,2,2,1,0,2,3,3,1,1,0,1,0,3,4,1,4,1,3,1,0,1,2,1
+354,1,39,Female,American,English,4,13,"The children appeared to be competing in a friendly manner. The child on the right seemed more dominant, especially when they started smacking(?) the table early on. However, this didn't deter the child on the left. The two appeared to be getting along reasonably well.",4,2,0,3,1,1,3,3,1,1,3,4,2,1,3,3,1,3,4,4,0,0,0,0,3,3,1,3,1,0
+486,1,27,Male,Indian,Tamil,1,19,the child in the left side is giving something to the other child they may interact about their schooling  ,3,3,1,1,1,1,1,1,1,1,1,3,1,3,3,3,3,1,3,3,1,2,1,1,1,1,3,1,3,1
+486,1,27,Male,Indian,Tamil,2,6,child in the left is telling something to the child in the right and the right child is typing or writing something while he listening the left child  ,1,3,1,3,1,1,3,3,1,1,3,3,3,1,1,3,1,1,1,1,3,1,3,1,1,1,1,3,1,1
+486,1,27,Male,Indian,Tamil,3,8,the child in the right was doing or playing while the left side child is trying to interact with the another child but the right child is not listening  ,3,1,3,1,3,1,1,2,2,1,1,1,1,1,3,1,3,3,1,3,3,1,3,1,3,1,1,3,1,3
+486,1,27,Male,Indian,Tamil,4,16,both the child's are playing together while playing the left child is saying something to the right child   ,3,3,1,2,3,1,1,3,3,1,3,3,1,3,3,1,3,1,3,1,3,1,3,1,3,1,3,1,1,1
+389,1,40,Male,American,English,1,6,The children seemed to be respectful of each other and they were calm towards each other.  There was no fighting and they seemed to share the space fairly well.,1,3,1,4,0,0,2,2,0,0,3,3,3,3,3,3,0,0,4,4,0,0,0,0,0,0,1,1,1,1
+389,1,40,Male,American,English,2,1,"Both children were engaged in playing, but it seemed that the child on the right was being a bit aggressive with the child on the left who was resisting their actions.",2,2,0,3,0,0,2,2,1,1,3,4,3,0,2,1,1,4,4,4,0,0,0,0,2,2,1,4,3,0
+389,1,40,Male,American,English,3,2,It seemed like the child on the left was the one leading some sort of game for the two of them to play.  The child on the right was highly engrossed.,1,1,0,4,0,0,3,3,0,0,2,3,4,1,3,3,0,0,4,4,0,0,0,0,0,0,3,1,0,1
+389,1,40,Male,American,English,4,5,"The child on the left seemed to be very bored and disinterested in what the child on the right was doing, despite the attempts by the child on the right to engage with them.",0,0,3,0,3,2,1,2,0,0,0,3,4,1,0,2,0,1,0,4,3,0,4,0,2,2,0,3,3,0
+989,2,31,Female,American,English,1,9,It almost seems like they were having a disagreement on how to do something.,3,1,3,2,0,2,3,2,1,1,3,2,3,3,2,3,3,1,3,1,0,3,0,1,3,3,3,0,0,1
+989,2,31,Female,American,English,2,12,They seemed to be playing nicely together. At first I thought the girl on the right was a bit aggressive but from the smile on the girl on the lefts face I just think they were playing well together.,2,2,1,4,0,0,4,3,0,0,4,3,4,4,4,4,1,3,4,4,0,0,0,0,1,0,1,3,1,1
+989,2,31,Female,American,English,3,2,The child on the left seemed like he wanted to play with himself and the one on the right was a bit aggressive and wanted to play with the other boy.,2,1,3,1,2,1,2,4,1,1,1,4,3,1,1,3,0,4,4,4,0,0,0,0,3,1,1,4,2,0
+989,2,31,Female,American,English,4,7,It almost looks like the child on the right is trying to engage and okay with the child on the left but she is not having it.,0,1,3,1,2,1,1,3,1,1,1,1,3,3,1,4,1,1,4,1,1,3,0,3,1,3,2,1,1,3
+559,2,24,Male,American,English,1,3,the two childrens are playing,4,4,2,3,3,0,3,1,4,0,4,2,3,1,0,2,2,1,2,1,3,4,1,3,2,1,2,0,2,4
+559,2,24,Male,American,English,2,15,two children's drawing on the table,3,0,2,2,1,0,0,2,2,1,1,3,1,3,1,0,3,4,3,4,3,1,2,4,2,4,2,0,1,3
+559,2,24,Male,American,English,3,8,the children are seeing something,2,3,1,3,0,1,0,2,2,0,4,3,2,1,2,4,1,3,3,4,2,4,3,1,3,2,2,3,0,1
+559,2,24,Male,American,English,4,10,one children teaching to another child,1,3,1,3,1,2,2,3,1,0,2,4,2,4,2,4,2,4,2,0,3,0,2,3,0,3,1,3,2,1
+791,1,33,Prefer not to say,American,English,1,18,They seemed to be arguing about something that was happening on the screen.,3,1,1,3,3,1,1,2,1,3,1,3,3,1,2,1,1,3,2,3,3,1,3,1,3,3,1,3,3,1
+791,1,33,Prefer not to say,American,English,2,9,They seemed to be trying to explain something to one another.,3,2,2,1,1,1,3,3,1,3,3,1,3,2,3,1,1,3,3,3,1,1,1,1,1,2,1,2,1,1
+791,1,33,Prefer not to say,American,English,3,16,The child on the right seemed frustrated with the other child and was trying to tell them what to do.,3,1,1,2,3,1,1,2,2,1,1,3,3,2,2,1,4,1,1,4,1,0,2,1,4,3,4,1,3,0
+791,1,33,Prefer not to say,American,English,4,2,They seemed to be in some kind of competition with each other.,4,2,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,0,0,1,1,1,1,2,2,1,1
+245,1,27,Male,American,English,1,9,They interact some personal matters during their conversation. They found fought together.,3,1,2,1,3,1,1,2,3,1,3,2,1,4,3,1,2,1,1,3,3,2,3,2,3,1,3,2,1,3
+245,1,27,Male,American,English,2,20,They are discussing about some Funny moments happens during their conversation.,2,3,3,2,2,1,2,2,1,1,2,3,2,1,3,3,3,2,3,1,2,3,3,2,3,2,3,1,3,1
+245,1,27,Male,American,English,3,1,They are found to be playing together. They were looking very happy.,1,3,1,3,2,1,3,3,3,1,2,3,2,3,2,3,1,2,3,3,2,1,2,1,1,0,2,3,3,2
+245,1,27,Male,American,English,4,11,they are looking like playing together but they are found to be fought in between them.,2,1,2,2,1,3,3,2,3,2,2,3,2,4,2,3,2,3,3,1,1,2,1,0,1,1,3,2,1,3
+906,1,29,Male,Indian,Hindi,1,19,CHILDREN TALKING AND PLAYING KEYBOARD  AND SHAKING THEIR HANDS TOGETHER,3,4,1,4,1,0,3,4,1,0,3,2,4,1,3,4,2,2,4,3,2,3,1,0,1,1,2,3,3,4
+906,1,29,Male,Indian,Hindi,2,16,CHILDREN PLAYING ON THE TABLE SOME INSTRUMENTS THEY ARE PLAYING ALSO,4,3,3,4,2,1,3,4,1,0,3,4,4,1,3,3,1,3,3,4,1,2,1,0,1,0,1,3,0,1
+906,1,29,Male,Indian,Hindi,3,1,CHILDREN WERE FIGHTING EACH OTHER AND QUARRELS.,4,3,1,1,1,1,2,1,3,4,3,4,1,0,2,1,3,3,3,4,3,3,1,0,1,0,3,4,0,0
+906,1,29,Male,Indian,Hindi,4,11,THEY PLAYING TOGETHER AND DANCING  .THEY WERE ENJOYING.,2,4,1,4,1,1,3,4,1,1,3,4,1,3,3,3,2,1,4,3,2,1,2,1,1,0,1,0,1,2
+925,1,58,Female,American,English,1,1,One seems taller and is kneeling so that they are on eye level. They seem to be friendly and playing some sort of game. ,3,3,1,3,1,1,3,3,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,2,2
+925,1,58,Female,American,English,2,19,They were discussing something. The child on the left seems more aggressive and more of the leader. They seemed to have come to an agreement at the end.,1,3,2,1,1,1,2,1,2,1,3,3,1,1,3,3,3,1,3,3,1,1,1,1,1,3,3,1,1,3
+925,1,58,Female,American,English,3,2,They were very animated; playing a game of slap hands. They both seemed aggressive and competitive. ,4,1,1,3,1,1,1,1,3,3,4,4,1,1,2,2,3,3,3,3,1,3,1,1,1,1,1,1,1,1
+925,1,58,Female,American,English,4,18,The child on the right was more engaged and animated. The child on the left wasn't quite as interested.,1,3,3,2,1,1,2,3,1,1,1,3,3,1,2,3,1,3,1,3,3,1,3,1,3,3,1,3,2,1
+615,2,41,Female,American,English,1,18,The girl wouldn't let the boy do anything. Everytime he touched the screen she would push his hand away.,3,0,3,0,3,0,0,3,2,3,2,4,3,1,3,0,0,4,1,4,0,0,3,0,4,0,0,4,3,0
+615,2,41,Female,American,English,2,14,"The children were playing a game together, both were happy.",2,3,0,4,2,0,4,4,0,0,3,3,3,3,4,4,0,0,4,4,0,0,0,0,0,0,0,0,0,0
+615,2,41,Female,American,English,3,19,They were discussing what they were doing and working on it together,0,4,0,4,0,0,3,3,0,0,1,1,4,4,4,4,0,0,4,4,0,0,0,0,0,0,1,3,3,1
+615,2,41,Female,American,English,4,15,The child on the right did not give the child on the left a chance to do anything.,2,1,2,1,3,1,0,3,1,1,1,1,3,3,3,1,1,3,3,3,0,0,1,1,3,2,1,3,3,1
+817,1,28,Female,American,English,1,19,The children seemed to be sorting something out and and exchanging withe each other.,3,3,1,3,2,3,2,2,2,2,2,2,1,3,2,2,3,1,3,3,2,3,1,1,2,1,3,1,3,1
+817,1,28,Female,American,English,2,10,The child on the right seemed more active on the game while the child on the left was sort of calm.,3,3,1,3,2,2,1,3,2,1,2,3,3,1,2,3,3,3,3,3,3,1,2,2,3,1,1,3,3,1
+817,1,28,Female,American,English,3,16,The children seem both active in the game.Both are competing to overdo each other.,4,4,1,3,2,2,2,2,1,1,2,2,1,1,2,2,3,3,3,3,1,1,1,1,1,1,1,1,1,1
+817,1,28,Female,American,English,4,2,The children are distracting one another in the game especially the one on the right,3,1,1,3,3,2,2,1,2,3,1,1,3,1,3,1,2,3,3,3,4,1,2,2,2,3,4,1,3,1
+796,1,25,Male,Indian,Tamil,1,6,sitting on table then playing game,3,3,2,3,3,2,4,3,3,2,3,3,2,4,3,2,3,2,3,1,1,3,3,2,3,2,1,2,2,3
+796,1,25,Male,Indian,Tamil,2,13,we are speeking in table,3,4,2,2,3,1,4,3,3,2,3,2,1,2,2,2,3,2,3,2,2,3,1,3,3,2,2,3,3,2
+796,1,25,Male,Indian,Tamil,3,11,sitting on table,3,3,2,3,2,2,3,2,2,1,3,2,2,4,1,3,3,2,3,2,1,3,2,1,1,2,2,3,4,3
+796,1,25,Male,Indian,Tamil,4,5,typing on table,3,2,3,1,1,2,3,1,2,1,3,2,3,2,3,2,2,3,4,3,1,2,1,3,1,2,1,2,3,2
+323,1,38,Female,American,English,1,10,"They seemed to work together and share with each other.  They are playing well together, whatever they are doing.",2,3,1,3,1,3,3,1,1,1,2,1,2,2,3,3,1,1,3,3,3,1,1,1,1,3,2,1,1,2
+323,1,38,Female,American,English,2,13,They worked exceptionally well together and were both engaged and interacting in the process the entire time,1,3,0,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+323,1,38,Female,American,English,3,19,They both seem rather calm and relaxed.  The one on the left seems like they are explaining something to the one on the right,1,3,1,3,1,1,2,2,1,1,1,1,3,3,3,2,1,1,3,2,1,2,2,2,1,2,3,1,1,3
+323,1,38,Female,American,English,4,11,They seem to be engaged with each other and possibly competing with a game,3,2,1,3,1,1,2,2,2,2,1,1,2,3,2,2,3,1,3,3,3,1,1,1,3,2,3,1,1,2
+708,2,30,Female,American,English,1,10,They seemed to be interacting well and interested in showing the other one what they were doing.,1,3,0,4,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+708,2,30,Female,American,English,2,5,They were playing together but it seemed as the child on the left was less interested in what the child on the right was doing and started playing alone.,1,2,3,1,1,1,2,3,1,1,1,2,3,3,3,3,1,1,1,3,2,1,3,3,1,1,1,3,3,1
+708,2,30,Female,American,English,3,2,They seem to be interacting well and looked like they enjoyed playing together and were both interested in what the other was doing.,1,3,1,3,1,1,3,3,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+708,2,30,Female,American,English,4,3,They were both playing nicely together and also interacting and taking turns with one another.,1,1,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+884,1,46,Female,American,English,1,1,They look like they are very busy clicking something. They are having a good time playing together.,3,3,1,4,1,1,3,3,2,2,3,3,1,1,3,3,1,3,3,3,1,1,1,1,1,1,1,3,1,1
+884,1,46,Female,American,English,2,8,The children seem to be playing separately. There was not much interaction with each other. ,2,2,4,0,3,1,1,2,1,1,1,2,3,3,3,1,1,1,1,3,4,1,3,1,1,1,3,1,2,2
+884,1,46,Female,American,English,3,6,The children look like they are playing a game together and are getting along fine.,3,4,1,4,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,3,2,2
+884,1,46,Female,American,English,4,12,The children are playing a fast-paced game together. They are having a good time.,3,4,0,4,1,1,3,3,1,1,3,3,1,1,3,3,1,1,4,4,1,1,1,1,1,1,2,2,2,2
+718,1,28,Female,American,English,1,12,"One child was more aggressive than the other, reaching over and the other one was more timid until the end. ",3,0,1,1,3,1,1,1,2,4,1,3,3,1,3,0,0,4,1,3,3,1,2,1,3,1,0,4,3,0
+718,1,28,Female,American,English,2,1,"The children did not play well together, the child on the left was not wanting the other child to play. ",4,0,3,0,1,1,0,2,4,2,3,1,0,1,0,1,4,1,0,1,4,4,1,1,3,3,4,1,1,2
+718,1,28,Female,American,English,3,7,"The child on the right was not very interested in the game, he did not interact much with the other child. ",0,0,4,0,1,0,3,3,1,1,3,2,3,1,2,3,0,0,3,0,1,4,1,4,1,3,3,1,3,3
+718,1,28,Female,American,English,4,3,"The children played fairly well together here, neither was aggressive. ",1,4,1,4,1,1,3,3,1,1,3,3,2,1,3,3,0,0,4,4,0,0,1,1,1,0,1,3,3,1
+686,1,39,Male,Indian,Hindi,1,13,they play some kind of games on a laptop or tablet,3,1,1,3,2,1,2,3,1,3,1,3,3,1,2,1,1,3,2,3,2,2,2,1,2,1,1,3,2,1
+686,1,39,Male,Indian,Hindi,2,16,the children was playing some kind of games on the table,3,2,1,3,1,2,3,2,2,2,3,1,1,3,2,3,3,1,3,2,1,2,1,2,1,2,3,2,1,3
+686,1,39,Male,Indian,Hindi,3,1,children ware playing some games and competing with each other,3,2,2,2,2,1,3,2,2,1,3,1,1,3,3,3,3,3,3,2,2,3,2,3,2,2,3,1,1,3
+686,1,39,Male,Indian,Hindi,4,18,children ware making some drawings and competing with each other,3,1,2,2,3,1,1,2,1,3,1,3,3,1,3,1,1,3,1,3,3,1,3,1,2,1,1,3,3,1
+294,2,33,Male,American,English,1,6,They seemed calm and friendly. They were interacting with the device.,4,4,3,2,1,2,4,1,0,3,1,2,1,1,4,0,4,2,4,0,1,2,3,0,0,2,1,1,1,2
+294,2,33,Male,American,English,2,7,They talked to each other quite a lot.,3,1,0,2,1,2,0,2,4,1,1,1,0,0,3,1,3,2,4,1,4,4,4,4,2,4,4,1,3,1
+294,2,33,Male,American,English,3,12,"The kids looked like they were playing some sort of game, maybe a two-player game.",1,3,3,3,2,4,2,2,4,0,2,0,2,1,2,0,3,1,1,4,2,0,3,3,1,0,3,0,0,4
+294,2,33,Male,American,English,4,14,"The kids looked like they were playing some sort of game, maybe a two-player game.",4,2,1,3,0,4,4,2,0,1,4,2,2,2,3,0,1,1,4,3,2,1,3,3,2,3,2,3,4,0
+246,1,49,Female,American,English,1,4,They appear to be sitting on the floor interacting in a joint activity.,2,4,0,4,0,0,2,2,1,0,2,0,4,4,2,3,1,0,4,4,0,0,0,0,1,0,3,0,1,3
+246,1,49,Female,American,English,2,6,They were working together in what seems to be a puzzle or activity where the put things together.,1,4,0,4,0,0,2,2,0,0,0,0,4,4,3,3,0,0,4,4,0,0,0,0,0,0,0,0,1,1
+246,1,49,Female,American,English,3,18,The child on the right was dominant and the child on the left seemed frustrated and fidgety.,1,0,1,3,2,0,2,2,2,3,2,3,2,1,3,0,0,4,3,4,3,0,2,0,4,3,0,4,4,0
+246,1,49,Female,American,English,4,11,The child on the left was fidgety and had a hard time remaining seated.,0,3,0,4,0,0,2,3,1,0,1,0,1,4,3,3,1,0,1,4,3,0,3,0,3,0,0,0,0,0
+289,1,34,Male,American,English,1,3,It looked like they were playing a game together. At one point the one on the left looked astonished.,3,1,0,4,2,2,3,2,1,0,4,2,1,3,3,2,2,2,4,3,1,2,0,2,2,3,3,1,1,3
+289,1,34,Male,American,English,2,9,They were playing with separate objects. The child on the right looked like they wanted whatever the other child had.,2,0,4,1,2,0,1,3,3,1,2,3,1,4,1,1,3,1,1,4,2,2,3,0,4,0,1,4,4,1
+289,1,34,Male,American,English,3,14,The one on the right was trying to do something on the table and the one on the left kept showing him where to go and how to do it,0,3,0,3,0,2,3,1,1,2,4,1,1,4,3,2,3,0,4,2,0,2,0,2,3,0,4,1,0,3
+289,1,34,Male,American,English,4,8,The one on the right was playing with something while the other one watched. The other seemed distracted and kept looking away.,1,1,4,1,3,0,1,3,2,0,0,2,4,3,1,1,0,3,0,4,4,0,4,0,4,0,0,4,4,1
+936,1,29,Male,American,English,1,17,They were interacting with an object between them that was making them laugh.,1,4,1,4,0,0,4,4,1,1,4,4,2,2,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+936,1,29,Male,American,English,2,7,The appeared to be typing on computers that were on a table and having a conversation.,1,4,1,1,1,1,1,1,1,1,1,1,2,2,2,2,1,3,3,3,1,1,1,1,1,1,1,3,3,1
+936,1,29,Male,American,English,3,9,The child on the right was instructing the child on the left to do something.,1,3,1,1,3,1,1,2,1,2,1,2,2,2,2,1,1,3,3,3,1,1,3,1,1,3,1,3,3,1
+936,1,29,Male,American,English,4,18,The child on the right was playing with something on the table and not letting the child on the left to participate.,3,1,3,1,3,1,1,3,1,3,1,3,1,1,2,1,1,3,3,3,1,1,2,1,3,3,0,4,4,0
+759,1,23,Male,Indian,Hindi,1,1,this childrens are playing game with only their hands in the same position,4,2,2,4,0,2,0,0,1,1,3,3,1,1,3,3,1,1,4,4,1,1,1,1,0,1,3,3,3,3
+759,1,23,Male,Indian,Hindi,2,14,they are interacting with full motion of the body and in friendly way,3,2,1,3,1,1,2,2,1,1,2,2,1,1,2,2,1,1,3,3,1,1,1,1,1,1,3,3,3,3
+759,1,23,Male,Indian,Hindi,3,7,this both children are not very talkative with each other and are very busy,3,3,3,1,2,1,1,1,1,1,2,2,3,2,2,1,1,1,3,3,2,1,2,2,1,1,3,3,3,2
+759,1,23,Male,Indian,Hindi,4,17,this both children are looking happy about their work and are friendly playing with each other,3,2,1,3,0,1,1,3,1,1,3,3,3,3,3,4,1,1,3,3,1,1,1,1,1,1,3,3,2,2
+600,2,26,Female,Indian,Tamil,1,5,they are playing with the touch pad.,3,2,3,0,3,1,3,2,2,2,3,2,2,1,3,2,3,2,2,3,2,0,3,1,1,2,1,3,3,2
+600,2,26,Female,Indian,Tamil,2,16,they are discussing with the map.,1,2,2,3,1,1,2,1,2,1,2,2,3,3,3,2,2,1,2,3,0,0,1,2,2,1,2,1,2,3
+600,2,26,Female,Indian,Tamil,3,20,they two guys are playing with the map.,1,3,1,3,2,1,2,2,1,0,3,3,1,2,2,2,2,1,2,1,2,2,0,0,3,2,1,1,2,2
+600,2,26,Female,Indian,Tamil,4,18,they play with the touch pad.,1,2,2,1,3,1,1,4,2,2,2,2,1,1,2,3,1,1,2,3,3,0,3,0,2,2,1,2,2,2
+889,2,41,Male,American,English,1,10,The both seemed very happy and to be getting along very well with each other. They also seemed to like whatever it was that they were doing on the touch screen very much.,2,3,1,3,0,0,4,4,0,0,3,3,1,1,3,3,1,1,4,4,0,0,0,0,0,0,1,1,1,1
+889,2,41,Male,American,English,2,19,Both children seemed to be very interested in what they were doing. They were very focused on the screen/table. They were also very calm.,2,3,1,3,1,1,2,2,1,1,1,1,3,3,3,3,1,1,3,3,1,1,2,2,1,1,1,2,2,1
+889,2,41,Male,American,English,3,11,Both children were very focused on the table/screen. They were in a good mood and seemed to be working together.,2,3,1,3,1,1,3,3,1,1,3,3,3,1,3,3,1,1,4,4,1,1,0,0,1,1,1,1,1,1
+889,2,41,Male,American,English,4,3,"Both children seemed to be very excited about whatever it was that they were doing. It seemed like maybe they were fighting a little bit over what they were doing, but it's hard to tell. They were both very focused on the table/screen and had a lot of energy.",3,1,2,2,1,1,3,2,1,2,3,3,1,1,2,2,3,1,3,3,1,1,1,1,1,3,3,1,1,1
+770,2,32,Male,Indian,Tamil,1,5,An active kid and inactive kid playing an unknown game on the table.,1,1,3,3,3,0,1,3,2,0,0,3,4,0,3,0,1,3,1,3,1,1,3,3,3,1,1,4,3,0
+770,2,32,Male,Indian,Tamil,2,17,Two white kids playing table game and teasing each other. Probably left kid playing well and very active.,3,1,3,1,1,1,3,1,1,3,3,1,1,2,3,1,2,1,3,3,2,1,1,1,0,0,3,1,1,1
+770,2,32,Male,Indian,Tamil,3,13,Two white kids playing a table game and the right kid was very angry with it.,4,0,2,0,0,0,2,1,1,4,1,3,3,0,3,0,0,4,3,1,0,0,1,0,1,4,1,4,2,0
+770,2,32,Male,Indian,Tamil,4,6,Indian and chinese kid playing a table game.They are looking friendly and playing peacefully.,0,4,1,3,1,1,2,2,0,0,1,1,3,3,4,4,0,0,3,3,0,0,1,1,0,0,0,0,2,2
+732,1,22,Male,American,English,1,19,It looks like they were examining something together as it appears as if one of the children passed something over to the other,1,3,0,3,1,1,3,3,1,0,3,3,3,3,3,3,1,1,3,3,1,1,1,0,1,1,2,2,1,1
+732,1,22,Male,American,English,2,3,The children seemed to be cooperating and interacting with each other. They seemed very engaged in what they were doing,1,3,1,3,1,1,3,3,0,0,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,2,2,1,1
+732,1,22,Male,American,English,3,13,The children seemed to be interacting with each other and passing something over to each other,1,0,0,4,1,1,3,3,1,1,3,3,3,3,3,3,1,1,4,4,1,1,1,1,1,1,3,2,1,1
+732,1,22,Male,American,English,4,18,The children seemed to be interacting with an object together. They were looking at and pointing at something in between them,0,3,0,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,4,4,1,1,1,1,1,1,2,2,2,2
+272,1,36,Female,American,English,1,20,they were probably eating and pushing some kind of buttons,1,3,1,3,1,1,3,3,1,1,3,3,3,1,3,3,1,3,3,3,1,1,1,1,1,1,1,1,1,1
+272,1,36,Female,American,English,2,13,they played together then the right one got mad and they started arguing,2,3,1,3,1,1,1,1,3,3,2,2,3,1,3,1,1,3,3,3,1,1,1,1,3,1,2,2,1,1
+272,1,36,Female,American,English,3,16,they argued or competed at the beginning but they resolved the situation and continued to play,3,2,1,3,1,1,2,2,1,1,2,2,2,2,3,3,1,1,3,3,1,1,1,1,2,2,2,2,2,2
+272,1,36,Female,American,English,4,14,the child on the right taught something to the child on the left. or he was pushing some kind of buttons,1,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,3,3,1
+827,2,26,Male,American,English,1,5,One girl is not having fun and the other is.,1,2,3,1,3,1,1,3,1,1,1,3,3,2,2,3,1,1,1,3,2,1,3,1,2,1,1,3,3,1
+827,2,26,Male,American,English,2,3,They are happy and enjoying the game together,1,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,2
+827,2,26,Male,American,English,3,1,"They are both having fun, they are enjoying the game together.",1,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,2,2,1,1
+827,2,26,Male,American,English,4,13,They are playing together and having tons of fun especially at the end,3,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+940,1,61,Female,American,English,1,16,"the child on the right was a little more aggressive than the one on the left, but both worked pretty well together",2,3,3,3,1,1,3,1,1,3,3,3,1,1,3,1,1,3,3,3,1,1,1,1,1,3,1,3,3,1
+940,1,61,Female,American,English,2,12,they seemed to be having a good time playing together with no tension,1,3,1,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,4,4,1,1,1,1,3,3,3,3,1,1
+940,1,61,Female,American,English,3,1,seemed like the child on the left was a ltitle more aggressive than the other child...the left child seemed like they were in charge,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,4,1,3,3,1,1,1,1,3,1,3,1,1,3
+940,1,61,Female,American,English,4,7,"the child on the right seemed to be telling the one on left what to do, he seemed like he was in charge",1,3,1,3,1,1,1,1,1,1,1,1,1,3,3,3,1,1,3,3,1,1,1,1,1,1,1,3,3,1
+508,2,72,Male,American,English,1,14,"It looked like they were tracing something on the table-top with their fingers. The boy on the right seemed more intent with what he was tracing. The boy on the left seemed quite intent upon what the other boy was tracing, and seemed to be either trying to trace the same thing, or perhaps interfere with the other boy's efforts.",2,1,3,1,1,2,3,2,1,1,3,1,1,3,2,2,3,1,1,3,3,1,3,1,2,3,3,1,1,3
+508,2,72,Male,American,English,2,19,The boy on the left seemed less interested in the table. The boy on the right seemed to be giving a lot of instructions and was more interactive with the table.,2,2,1,3,2,1,2,3,1,1,1,3,3,2,3,2,1,3,1,3,3,1,3,1,2,1,1,3,3,1
+508,2,72,Male,American,English,3,18,"The child on the right was very interested in and active on the table. The child on the left seemed interested, but a bit unsure. Each time the child on the left started to make a move toward the table, the child on the right would fend him off.",2,1,2,2,2,1,2,3,1,1,1,3,3,1,3,1,1,4,2,4,2,0,3,0,3,1,0,4,3,0
+508,2,72,Male,American,English,4,10,"They were playing together, seeming to have a lot of fun. The child on the right was a bit more active, but both seemed interested in the table.",3,3,1,3,1,1,3,3,1,1,2,3,3,2,3,3,1,1,3,3,1,1,1,1,1,1,1,2,3,2
+590,2,29,Female,American,English,1,9,"I felt that they had a disagreement about whatever they were working on. They seemed to get along, but they just didn't agree on whatever answer they were looking for.",3,3,0,2,0,0,3,3,0,0,3,3,3,3,3,3,1,1,3,3,0,0,0,0,1,1,3,3,1,1
+590,2,29,Female,American,English,2,12,"The child on the left seemed happier, but they both seemed to get along with whatever they were doing on the table. There didn't seem to be any issues between the two of them.",3,3,1,3,0,0,4,3,0,0,4,3,1,3,3,3,1,1,4,3,0,0,0,0,0,1,3,3,0,2
+590,2,29,Female,American,English,3,20,"They both seemed to get along, and the child on the right was very happy. They seemed like whatever they're doing at that table was a good activity for them both.",2,3,1,4,0,0,3,4,0,0,3,4,3,1,4,4,0,0,4,4,0,0,0,0,0,0,2,2,1,0
+590,2,29,Female,American,English,4,5,I noticed the child on the left seemed disinterested while the child on the right was very interested in what they were doing.,2,2,3,1,2,0,1,4,2,0,0,4,4,1,1,3,1,1,1,4,2,0,4,0,2,0,0,3,2,1
+662,1,35,Male,Other,English,1,3,They are playing on some kind of tabletop. Moving their hands around both tapping buttons as well as swiping.,4,1,1,1,1,1,3,3,1,1,3,3,2,2,3,3,2,2,3,3,1,1,1,1,1,1,2,2,1,1
+662,1,35,Male,Other,English,2,12,In this video the child on the right did appear to be more aggressive and the child on the left appeared more submissive. The game seems slightly different or they are playing it different then previous video.,1,1,2,2,1,1,3,3,2,1,2,3,3,1,3,3,1,3,3,4,1,1,1,1,1,0,1,3,3,1
+662,1,35,Male,Other,English,3,8,These children are not as interested in the game as the others. The child on the left appears to not understand how to play then looses interest. The child on the right likely takes notice of this and also looses interest.,3,1,3,1,2,2,2,2,1,1,1,1,1,3,2,3,0,0,0,1,4,3,4,3,3,3,0,1,2,1
+662,1,35,Male,Other,English,4,9,The child on the right appears to be doing something else at the start of the video. They appear even less to be playing together as well as less interested in the game itself.,0,0,3,0,1,1,1,1,1,1,1,1,3,3,3,2,0,0,3,0,2,4,2,3,2,2,3,0,0,2
+333,1,30,Male,American,English,1,11,It appears that they are playing a board game or possibly even using a tablet together,2,3,0,4,1,1,2,3,2,0,2,3,1,4,2,4,0,3,3,3,0,0,1,1,3,1,1,3,3,1
+333,1,30,Male,American,English,2,7,The child on the right was watching and giving instructions to the one on the left before joining in.,0,4,0,3,2,0,2,2,0,0,1,3,4,4,3,3,1,1,2,4,2,0,1,0,2,1,1,3,4,0
+333,1,30,Male,American,English,3,4,They each got something from off to the side and then interacted with the table in front of them.,0,4,3,4,1,0,3,3,0,0,2,3,4,4,4,4,0,0,4,4,1,1,0,0,0,0,1,1,1,1
+333,1,30,Male,American,English,4,12,It looked like they were doing a puzzle together and helping each other out.,0,4,0,4,0,0,3,3,0,0,3,2,4,4,4,4,1,1,4,4,0,0,0,0,1,1,3,2,1,1
+781,2,37,Male,Indian,Tamil,1,11,they both are playing and chatting very interestingly with the board,3,3,1,3,4,1,3,3,1,0,3,1,3,0,3,3,1,3,3,1,1,2,3,1,1,3,1,2,2,3
+781,2,37,Male,Indian,Tamil,2,18,the right one child was very aggressively playing with that table and not allowing that boy to play,3,1,3,3,3,1,1,4,1,3,1,4,4,1,3,1,1,4,1,1,3,2,3,1,3,3,1,4,3,1
+781,2,37,Male,Indian,Tamil,3,9,both kids are painting each other in the board aggressively,3,3,1,3,3,1,4,4,1,0,3,3,1,1,3,3,1,3,3,1,1,2,3,1,1,3,1,3,3,1
+781,2,37,Male,Indian,Tamil,4,12,both kids are playing separately and the right kid was distracting the left kid,3,1,2,4,4,1,3,3,4,1,3,3,4,1,3,3,1,4,3,2,1,3,3,1,3,1,1,3,2,1
+137,1,28,Male,American,English,1,14,who are interacting as if they were playing or talking about something interesting,2,3,3,2,3,3,1,3,2,3,1,4,3,3,2,2,3,3,2,3,3,1,2,2,2,2,2,2,3,3
+137,1,28,Male,American,English,2,15,something changed compared to the first video here a child tries to explain something to the other if he is teaching something,3,4,2,3,2,2,3,3,2,3,1,2,2,4,3,2,2,3,2,1,2,2,3,3,2,2,2,3,1,4
+137,1,28,Male,American,English,3,20,in my opinion they are repairing something I know that we are working together on something,2,3,2,1,3,2,2,2,3,2,2,2,3,2,2,1,3,3,2,2,3,3,2,2,1,2,4,2,2,3
+137,1,28,Male,American,English,4,18,in my opinion they are repairing something I know that we are working together on something,2,3,2,3,2,3,2,3,3,3,3,2,3,2,2,2,2,2,1,3,2,3,1,2,2,2,3,2,2,2
+588,1,23,Male,Indian,English,1,19,THE ARE SHACKING A LAG AND TRY TO HAND SHAKE ,2,3,1,2,3,3,1,1,2,2,1,1,3,2,3,3,1,3,2,2,3,3,2,3,3,3,3,3,3,3
+588,1,23,Male,Indian,English,2,1,THEIR ARE PLAYING WITH FINGERS ,3,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,2,2,3,3,1,1,1,1,1,1,3,3
+588,1,23,Male,Indian,English,3,12,THEIR ARE TRY TO PLAY A MUSIC,3,1,3,2,2,1,2,2,3,3,3,3,1,1,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+588,1,23,Male,Indian,English,4,13,THEIR ARE WANT TO  COLLECT SOME THING,3,1,3,1,2,2,2,2,3,3,3,3,1,1,1,1,3,3,3,3,3,3,2,2,3,3,3,3,3,3
+751,2,27,Male,American,English,1,6,they both seem to be drawing stuff on a giant size tablet,2,3,1,3,0,0,1,3,0,0,1,2,3,1,1,1,1,0,3,3,0,0,2,0,1,1,1,1,1,1
+751,2,27,Male,American,English,2,8,the one of the left was distracted for the majority portion of the video,2,2,2,2,1,1,0,0,0,0,0,0,1,3,1,1,0,0,1,3,4,0,3,1,2,1,1,2,1,1
+751,2,27,Male,American,English,3,14,both seem to be enjoying work with each other as a team,1,4,0,3,0,0,3,3,0,0,4,3,3,3,3,3,0,0,4,4,0,0,0,0,0,0,3,3,1,1
+751,2,27,Male,American,English,4,11,the child on the left was getting uncomfortable sitting on the floor,2,2,1,2,2,1,1,2,2,1,1,1,1,3,3,3,1,1,1,2,3,1,3,1,3,1,1,1,1,1
+864,1,22,Female,American,English,1,9,the were both playing on the table. The one on the right looks more fierce and angry than the one one the left,0,1,0,4,2,3,2,1,1,3,1,1,4,1,4,0,2,4,3,3,2,2,2,3,2,3,1,3,3,0
+864,1,22,Female,American,English,2,13,This time they were both angry and ready to challenge each other in the game. They were both on same mood this time,3,1,0,1,3,3,0,1,3,3,1,1,1,1,1,1,3,3,3,3,2,2,1,1,1,3,3,3,1,1
+864,1,22,Female,American,English,3,18,This time the one on the right was very troublesome. He was always going to the side of the other to play his game and that got the other angry.,4,1,1,3,2,2,1,1,3,4,1,1,3,1,2,0,0,4,3,3,2,2,2,2,3,2,1,3,3,1
+864,1,22,Female,American,English,4,2,"Just like before, the on on the right was still troublesome and this time, the one on the left tried to avoid him",3,3,1,3,3,1,1,1,3,3,1,1,3,1,3,1,1,4,3,3,2,2,2,2,3,3,0,3,3,1
+798,2,40,Prefer not to say,American,English,1,17,"They mostly seem to be doing their own things, alongside each other. There's a little chat, and there was that moment with the color palette, that I don't quite understand, but they're not really collaborating or interfering; they're just sort of coexisting. ",1,1,3,1,1,1,3,3,1,1,3,2,2,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+798,2,40,Prefer not to say,American,English,2,8,"They didn't much interact either, really, aside from that one strange moment when the girl on the left fiddled with the work of the girl on the right. The girl on the left wasn't too engaged with the whole situation. The one on the right was pretty focused, though.",1,1,3,1,2,2,2,2,1,1,1,1,2,3,2,2,1,1,1,3,4,1,3,1,1,1,1,1,1,1
+798,2,40,Prefer not to say,American,English,3,9,"Well, here they were discussing plans for whatever the project was they were working on. So, they were technically playing together. Though they looked sort of bored while they did it.",1,3,1,3,1,1,2,2,1,1,2,2,2,3,2,2,1,1,3,3,3,1,2,1,1,1,1,1,1,1
+798,2,40,Prefer not to say,American,English,4,3,"These two are interacting more than any of the previous kids. They seem to just be jamming with each other, really.",1,3,1,4,0,0,3,3,1,1,4,4,1,1,3,3,1,1,4,4,0,0,0,0,1,1,1,1,1,1
+845,1,31,Female,American,English,1,3,They seemed to be fighting over something and being a bit aggressive with one another.,4,1,0,2,3,3,1,1,3,3,1,1,1,1,1,1,3,3,3,3,1,1,1,1,3,3,2,2,1,1
+845,1,31,Female,American,English,2,9,They seem to be playing cooperatively and working on a task together. ,1,4,1,4,1,1,3,3,1,1,1,1,3,3,3,3,0,0,3,4,1,1,1,1,1,1,1,1,1,1
+845,1,31,Female,American,English,3,18,They seem to be working together but the child on the right is the leader of the two.,1,3,1,3,1,1,2,3,1,1,1,3,3,1,3,3,1,2,2,3,1,1,1,0,1,1,1,3,3,1
+845,1,31,Female,American,English,4,6,They didn't seem to be interacting very much. They seem to be working on separate tasks calmly.,2,3,3,1,0,1,2,2,1,1,1,1,4,4,2,3,0,0,3,3,1,1,1,1,1,1,1,1,1,1
+458,2,32,Female,American,English,1,16,They were coodinating well but the boy on the right was domineering.,3,3,1,3,3,1,1,3,1,3,3,2,3,1,3,2,0,3,3,3,3,2,3,1,3,1,1,3,4,1
+458,2,32,Female,American,English,2,20,the children were happy playing together,1,1,3,1,2,0,2,4,1,1,1,3,3,1,3,4,2,1,3,1,1,3,1,3,1,3,3,1,1,3
+458,2,32,Female,American,English,3,15,They were playing together but the boy on the right was dominating.,1,3,1,3,2,1,3,3,1,3,3,3,3,1,3,1,1,3,3,3,1,1,2,1,3,1,1,3,3,1
+458,2,32,Female,American,English,4,7,"the children are playin but the one on the left is doing most of the playing
+",0,3,3,1,2,2,3,3,2,2,2,3,1,3,3,3,3,1,4,2,2,2,1,3,1,1,4,1,1,3
+575,1,28,Male,American,English,1,10,i noticed that the were close to each other,3,3,1,3,2,2,3,3,1,1,3,3,1,3,1,3,1,1,2,1,2,2,1,1,2,2,2,2,2,1
+575,1,28,Male,American,English,2,20,they seemed like they werent getting along well,3,2,3,3,3,2,2,2,3,2,1,2,2,2,3,1,2,2,3,3,2,3,2,3,3,2,3,2,2,3
+575,1,28,Male,American,English,3,7,they seemed like they were getting along,3,3,2,2,2,2,2,3,3,2,2,3,3,2,2,3,3,2,2,3,3,2,3,2,3,3,2,3,3,2
+575,1,28,Male,American,English,4,16,the children seemed to like interacting with each other,2,2,3,2,2,2,1,2,2,1,1,2,2,3,2,3,3,2,2,1,2,3,2,1,2,3,2,2,2,1
+228,2,41,Male,American,English,1,8,"The dark-haired girl was focused on the interactive tablet-top.  Fully engrossed, but still talking to the blonde girl.  The blonde girl tried to interact with the tablet-top but the other girl was using it.  The blonde girl looked around the room and occupied herself until it was probably her turn to try the tablet-top.",1,1,4,1,2,1,2,3,2,1,1,3,3,3,3,3,1,2,1,4,4,0,4,0,3,1,1,3,3,1
+228,2,41,Male,American,English,2,15,"They played together, goofing off a bit.  One in yellow was more aggressive than the one in red.",3,3,0,4,1,1,3,3,1,1,3,3,1,1,3,3,1,3,3,3,1,1,1,1,1,1,1,3,3,1
+228,2,41,Male,American,English,3,6,"They played together, and also talked with each other.  Very friendly and nice to each other.",1,4,0,4,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,3,3
+228,2,41,Male,American,English,4,2,"They competed with each other, the one in yellow was trying to keep the red boy away from a section of the table.  They were goofing and just making a mess on the table, not really drawing.",4,1,3,1,1,1,1,1,1,1,3,3,3,1,3,3,3,3,3,3,1,1,3,1,3,1,3,3,1,1
+942,2,57,Female,American,English,1,13,they were getting along and having fun and cooperating with each other,1,3,1,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,1,1,2,2,1,1,1,1
+942,2,57,Female,American,English,2,10,they were again playing together and experimenting with the table,1,3,1,3,1,1,3,3,1,1,3,3,2,2,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+942,2,57,Female,American,English,3,2,they were playing together with the table. The boy on the left was protective of a section for a bit but then stopped,1,3,1,3,1,1,2,3,2,1,2,3,2,2,2,3,1,1,3,3,1,1,1,1,2,2,1,1,1,1
+942,2,57,Female,American,English,4,6,they were playing somewhat independently with the table but were cooperating ,1,3,3,3,1,1,2,2,1,1,1,1,3,3,2,2,1,1,3,3,1,1,1,1,2,2,1,1,2,2
+950,1,28,Male,Indian,Tamil,1,20,THE TWO CHILDREN ARE SHAKEN THE VIDEO.ONE CHILD IS WILLING TO SHAKEN THEN ANOTHER CHILD IS A SHY.,3,3,1,4,3,0,1,4,1,0,3,2,3,0,4,2,2,1,2,3,1,2,3,1,3,0,1,2,3,1
+950,1,28,Male,Indian,Tamil,2,18,THE RIGHT CHILD IS VERY ANGRY AND LEFT CHILD IS ALSO ANGRY,1,3,1,3,3,2,3,1,1,4,3,4,3,1,1,2,2,3,4,2,0,2,2,1,3,4,2,0,4,2
+950,1,28,Male,Indian,Tamil,3,13,THE TOW CHILD IS ALSO COMM ON THE SPEAKING,1,3,4,3,2,0,3,2,1,2,3,1,3,4,3,2,4,2,0,0,4,2,0,3,3,1,2,1,3,4
+950,1,28,Male,Indian,Tamil,4,7,TOW CHILD IS SPEAKING TO SILENT ,4,3,4,2,3,2,3,2,3,4,0,3,1,2,3,1,2,3,1,3,1,1,1,0,2,1,2,3,4,1
+870,1,55,Male,American,English,1,14,One on the right seemed to be more relaxed then the one on the left. ,3,2,2,3,2,0,1,3,3,1,4,1,0,4,1,4,3,1,2,3,1,3,0,1,3,1,3,1,0,3
+870,1,55,Male,American,English,2,16,Seemed like they where helping each other and they both where calm.,0,4,1,4,1,1,3,3,0,0,0,0,3,3,3,3,1,1,3,3,0,1,1,1,1,1,1,3,1,1
+870,1,55,Male,American,English,3,4,Looks like they where calmly playing together.  Both seemed interested in what was going on. ,2,4,1,4,1,1,2,3,0,0,2,2,3,3,3,3,1,1,4,4,0,0,1,1,1,1,1,1,1,1
+870,1,55,Male,American,English,4,12,They seem to get along and are having a fun time playing together.,3,4,0,4,1,1,3,3,1,1,1,2,3,3,3,3,1,1,3,3,0,0,1,3,1,3,1,3,1,1
+230,1,50,Female,American,English,1,14,They appear to be doing something with their hands. Perhaps it is some sort of dance? It is difficult to know because of their actions.,4,3,0,4,0,0,2,2,1,1,4,4,1,1,2,2,3,3,4,4,2,2,0,0,3,3,3,1,0,0
+230,1,50,Female,American,English,2,17,"They were moving quite a bit, sometimes lowering their heads. It was very difficult to understand what activity, if any, they were engaged in.",3,2,1,3,1,1,2,2,2,2,3,3,1,1,2,2,2,2,3,3,2,2,1,1,2,2,2,2,1,1
+230,1,50,Female,American,English,3,15,"They appear to be doing some type of activity, possibly using blocks or some other toy. ",2,3,1,3,1,1,2,2,1,1,3,4,3,1,3,3,0,0,3,4,1,1,1,1,3,1,1,3,3,1
+230,1,50,Female,American,English,4,1,"They seemed quite excited, perhaps even agitated, and extremely active. ",2,2,1,3,1,1,2,2,2,2,4,4,0,0,1,1,3,4,4,4,2,1,0,0,3,3,1,3,1,0
+894,1,22,Male,American,English,1,1,"Looked like they were interfering with each other, almost moving each others hands. The kept touching what looked like the same two spots.",3,2,0,2,1,3,2,2,1,3,1,1,1,2,1,2,3,1,3,3,1,1,1,3,2,3,3,3,1,2
+894,1,22,Male,American,English,2,12,"These children looked like they were playing with each other, more than competing against one another. It seems they were both engaged and working together",2,3,1,3,1,1,3,3,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,2,2,2
+894,1,22,Male,American,English,3,5,"Looks like playing against eachother, both look somewhat bored and uninterested",3,2,2,3,3,2,1,1,2,2,1,1,3,3,2,2,1,1,1,2,3,2,3,3,1,1,1,1,2,2
+894,1,22,Male,American,English,4,6,"both look interested, right one is more dominant in playing than the left.",2,2,2,3,3,2,2,2,2,2,2,2,3,2,3,2,1,1,3,3,2,1,3,2,2,2,1,3,3,1
+279,1,30,Female,American,English,1,3,"They mostly seemed to be doing something separately while talking, but in the middle they began to do something together (maybe petting a dog).",2,3,3,3,1,1,3,3,1,1,3,3,3,2,3,3,3,2,4,4,2,2,1,1,1,1,3,1,1,3
+279,1,30,Female,American,English,2,12,They appear to be seated at a table and doing an activity together.,1,3,0,4,1,1,2,3,1,1,2,3,3,1,3,2,1,3,4,4,1,1,1,1,2,3,1,3,3,1
+279,1,30,Female,American,English,3,14,"It looks like the two children are doing some kind of pretend play, perhaps with action figures.",3,3,1,3,1,1,2,3,1,1,1,3,4,4,3,2,1,1,3,3,2,1,2,1,1,1,1,1,1,1
+279,1,30,Female,American,English,4,7,"The children were playing separately, but the child on the right appears to criticize the child on the left about something.",2,1,4,1,3,1,2,2,1,3,1,3,3,1,2,1,1,4,3,3,1,1,2,1,1,3,1,3,3,1
+249,1,32,Male,American,English,1,14,They seem to be sharing something back and forth between each other.,1,4,0,4,1,1,2,2,1,1,3,2,1,3,3,3,3,1,3,3,0,1,0,0,1,1,3,1,1,1
+249,1,32,Male,American,English,2,9,The children appear to be playing separately and the one on the right doesn't appear to be too fond of the child on the left.,1,1,3,1,0,0,3,2,1,3,3,2,1,3,3,1,1,3,4,4,1,1,1,1,1,3,1,2,1,1
+249,1,32,Male,American,English,3,18,Though the children are playing together the one on the right seems to be more dominate.,1,3,1,3,1,1,2,2,1,1,2,2,3,2,3,1,1,3,3,3,1,1,0,0,1,3,1,3,3,1
+249,1,32,Male,American,English,4,1,The kids started off playing together nicely but then they started to bicker with each other.,4,0,0,3,1,1,2,2,3,3,2,2,1,1,1,1,3,3,3,3,0,0,0,0,3,3,3,3,0,0
+788,1,51,Male,American,English,1,17,appear to be eating and talking as best I can tell,2,3,1,3,1,3,3,2,3,1,4,3,0,1,2,2,3,1,4,3,0,0,0,0,3,1,4,0,1,3
+788,1,51,Male,American,English,2,20,they both seemed to be interacting and talking to each other,1,4,0,4,0,0,3,3,1,1,1,3,3,1,3,3,1,1,4,3,1,3,0,0,1,1,1,3,2,2
+788,1,51,Male,American,English,3,14,the child on the left appeared to be upset and a bit aggressive,3,1,3,2,1,3,1,2,3,1,4,3,1,2,1,2,4,0,3,2,0,0,1,1,3,1,4,0,0,4
+788,1,51,Male,American,English,4,12,both children appeared to be interacting and getting a long with each other,0,4,0,4,0,0,4,4,0,0,3,1,1,3,4,4,1,1,4,4,0,0,1,1,0,0,1,1,2,2
+623,2,26,Male,Indian,Tamil,1,17,"they two girls are play with the touch board, one girl i do of some think . ",0,1,1,3,1,0,3,4,0,0,3,1,3,2,2,2,1,2,3,4,0,2,0,0,2,3,2,2,2,3
+623,2,26,Male,Indian,Tamil,2,19,they are conversation about the map.,3,3,0,4,1,0,3,3,1,2,1,1,1,2,2,2,1,2,2,2,1,0,2,0,2,3,2,2,2,0
+623,2,26,Male,Indian,Tamil,3,10,they are laying with touch pad.,1,3,1,3,0,0,3,3,0,0,3,3,0,0,3,3,1,2,2,2,1,2,3,0,3,2,1,2,2,2
+623,2,26,Male,Indian,Tamil,4,2,they are playing the touch pad of some game.,2,1,3,1,1,0,2,3,0,0,2,1,1,1,2,1,3,0,2,2,1,0,1,0,2,2,2,2,2,1
+955,2,28,Male,American,English,1,7,They were talking a lot and pointing to things on the screen a lot ,3,3,1,3,1,1,2,2,1,1,3,3,3,2,3,3,1,2,3,3,1,1,1,1,1,1,1,3,2,2
+955,2,28,Male,American,English,2,9,"It seemed to be similar to the last interaction, they were both playing a game together on the screen. ",2,2,2,3,1,1,2,1,3,1,2,2,2,2,3,3,1,3,3,3,1,1,2,1,1,1,1,3,3,1
+955,2,28,Male,American,English,3,4,The both seem to be enjoying the interaction. They look they are having a good time. ,2,2,1,3,3,3,3,3,1,1,3,3,1,2,2,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+955,2,28,Male,American,English,4,13,They both seemed to be having a lot of fun playing the game. ,1,1,1,2,1,1,3,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,1,3,1,1,3,3,1,1
+794,1,41,Male,Other,Other,1,20,The children on the left were very active moving very fast ad constantly. The children on the right were observing and pointing at the same place for a long period. After some time left children starts to follow right one. ,1,1,3,1,0,0,3,3,1,1,3,1,0,3,2,4,0,0,3,3,1,1,0,0,2,1,0,3,3,0
+794,1,41,Male,Other,Other,2,16,"Both children were cooperating, one observing the other actions and doing following actions based on this observation.",0,4,0,4,0,0,3,3,0,0,3,3,3,3,4,4,0,0,4,4,0,0,0,0,1,1,1,1,0,0
+794,1,41,Male,Other,Other,3,5,The children on the right was playing alone and children on the left is really bored just waiting the time to finish. ,0,0,3,0,0,0,0,3,2,0,0,3,3,1,0,2,0,0,0,4,4,0,4,0,3,1,0,0,0,0
+794,1,41,Male,Other,Other,4,7,The children on the right took a bossy attitude trying to control the actions of the children on the right.,3,3,0,3,2,1,2,2,1,2,1,3,4,1,3,1,0,3,4,4,0,0,1,1,1,1,0,4,3,0
+125,2,25,Male,Indian,Tamil,1,11,They are playing a game by using the touch screen board. both are very happy and fresh mind.,2,3,1,3,0,1,4,2,1,1,3,1,1,3,4,3,3,1,3,2,1,1,1,1,0,1,2,2,1,1
+125,2,25,Male,Indian,Tamil,2,5,The childrens are playing use touch board.one children is looking bored.,2,1,3,1,4,2,0,1,0,0,1,1,4,3,2,2,1,1,1,1,3,1,4,2,4,3,2,2,3,2
+125,2,25,Male,Indian,Tamil,3,19,They are very intrest in playing in touch board. both are fully involved in the game.,1,4,0,3,1,1,3,3,0,0,2,1,1,1,3,3,1,1,4,4,1,1,1,1,1,1,2,2,1,1
+125,2,25,Male,Indian,Tamil,4,10,both childrens are very happy and involved in playing.,1,3,2,1,0,1,3,2,1,1,3,2,1,1,3,3,1,1,2,3,1,1,1,2,1,2,2,2,1,2
+179,2,27,Female,American,English,1,15,They seemed to be very excitable and almost competitive in whatever game they were playing.,4,1,0,4,1,1,3,3,0,0,4,4,1,1,3,3,3,3,4,4,1,1,1,1,1,1,1,3,3,1
+179,2,27,Female,American,English,2,8,The child on the left did not care much for what was going on on the table.,0,0,3,0,0,0,3,3,0,0,1,1,3,3,3,3,0,0,0,4,4,0,4,1,0,0,1,1,1,1
+179,2,27,Female,American,English,3,20,"They seemed to be doing different things regarding the table, but were both having a really good time",1,3,3,3,0,0,3,4,0,0,3,4,1,1,3,3,3,1,4,4,0,0,0,0,0,0,4,1,0,3
+179,2,27,Female,American,English,4,10,They both seemed to be partaking in the same objective judging from their cooperation and similar hand motions,0,4,0,3,0,0,3,3,0,0,3,3,3,3,3,3,1,1,4,4,0,0,0,0,0,0,1,1,3,1
+221,1,31,Female,American,English,1,14,"The children appeared to be playing together, from opposite sides of the table. Their fingers got close to each other so I assume they were interacting together.",2,3,0,4,1,1,3,3,1,1,2,3,3,3,3,3,1,1,3,4,1,1,1,0,1,1,1,2,1,1
+221,1,31,Female,American,English,2,12,They both looked frustrated at times. I couldn't tell this time if they were actively playing together. It almost looked like a card game?,4,2,1,2,3,2,1,1,3,2,1,1,3,3,1,1,1,3,1,2,3,1,3,2,4,3,2,3,1,1
+221,1,31,Female,American,English,3,13,"The one on the right seemed dominant at some parts, and it looked like the one on the left was shocked. But then they went on playing together.",3,2,0,3,1,1,2,1,1,3,1,3,2,0,3,1,1,4,3,3,0,0,0,0,2,3,1,4,3,0
+221,1,31,Female,American,English,4,17,the one on the left appeared to be laughing and having a good time. I think they were playing together.,1,3,0,3,0,0,4,3,0,0,4,3,0,3,3,4,0,0,3,3,0,0,0,1,1,2,1,1,0,0
+836,2,39,Male,American,English,1,13,The girl in the pink seems to take it more seriously and appears to be bossy.  The girl in the yellow vest seems to be having a lot of fun.,3,3,1,3,0,0,4,3,0,3,3,3,1,1,4,3,1,4,4,4,0,0,0,0,0,3,0,4,3,0
+836,2,39,Male,American,English,2,3,"The children played well together, and seemed to be cooperating.  Both were happy, and focused on the task.",0,4,1,4,0,0,4,4,0,0,3,3,1,1,4,4,1,1,4,4,0,0,0,0,0,0,0,0,0,0
+836,2,39,Male,American,English,3,8,The girl in the yellow was very distracted and didn't interact much.  The girl in the pink vest was very calm.,0,2,3,1,0,0,2,3,0,0,0,0,4,4,3,3,0,0,0,4,4,0,4,1,0,0,0,4,3,0
+836,2,39,Male,American,English,4,4,They were highly distracted by some pieces of paper.  They appeared to cooperate when they did work at the table.,1,4,0,4,0,0,4,4,0,0,1,3,3,3,4,4,0,1,1,1,3,4,0,0,0,0,0,3,3,0
+733,2,47,Female,American,English,1,14,"The child in yellow was very assertive, almost aggressive. He kept moving into the pink's space",3,1,1,3,0,2,4,3,0,0,4,3,1,4,3,4,3,0,3,3,0,0,1,3,1,3,4,0,0,3
+733,2,47,Female,American,English,2,18,The child on the right was unwilling o let the child on the left play with the table,3,0,4,0,3,1,3,1,1,3,3,4,3,1,4,1,0,4,3,4,0,0,1,0,3,3,0,4,4,0
+733,2,47,Female,American,English,3,12,"they were both dominant but played together well, they seemed to be willing to share and play together",1,3,1,3,0,0,4,3,0,0,4,4,3,3,3,3,1,3,4,4,1,1,0,0,0,1,3,3,0,0
+733,2,47,Female,American,English,4,8,"They played seperetly, the child on the left lost interest in the table, the child on the right enjoyed the table",0,3,4,0,1,0,1,3,0,0,0,0,3,3,3,3,0,0,0,3,4,1,4,1,0,0,0,0,2,2
+440,2,39,Female,American,English,1,12,They seem enthusiastic and excited about the game but independent in how they play.,2,1,4,2,0,1,3,3,0,0,3,3,1,2,3,2,1,1,4,4,0,0,0,0,1,1,1,1,1,0
+440,2,39,Female,American,English,2,15,One of the children seemed to be controlling the situation but neither seemed especially unhappy.,2,1,1,2,1,1,3,3,1,1,2,3,3,2,3,2,0,3,3,4,1,0,1,0,2,1,0,4,3,0
+440,2,39,Female,American,English,3,13,"They seemed mostly excited but also a bit frantic, as though they were pressed for time or occasionally a bit frustrated.",2,1,3,1,1,1,3,2,1,2,3,4,2,0,3,2,1,3,3,3,1,2,1,1,1,3,1,4,1,0
+440,2,39,Female,American,English,4,3,"They appear to be happy, excited, and even surprised by what's on the screen. They mostly but not entirely seem to be working together.",2,2,2,3,0,1,3,3,0,1,4,4,1,1,2,3,3,1,4,4,1,1,0,0,1,1,3,1,0,1
+927,1,35,Male,American,English,1,5,one of the children was extending his hand to the other child,2,3,1,3,2,1,2,3,2,1,2,3,3,3,2,3,2,2,2,2,2,2,2,1,2,2,1,3,3,1
+927,1,35,Male,American,English,2,11,The two children seemed to be playing a board game,3,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,2,2,1,1
+927,1,35,Male,American,English,3,2,"the child on the right was moving his hands on the table alot, almost like he was playing with a toy car",2,2,2,3,1,1,2,3,1,1,2,3,3,2,3,3,1,2,2,3,2,1,1,1,1,1,1,3,2,1
+927,1,35,Male,American,English,4,18,the child on the right seemed to be giving something to the child on the left,2,3,1,3,1,1,3,3,1,1,2,3,3,2,3,3,1,1,3,3,2,1,1,1,1,1,1,3,2,1
+767,1,43,Female,American,English,1,6,"They didn't seem to interact with each other too much. Occasionally, their hands touched. They interacted with the touch screen more than each other though.",3,2,3,1,2,2,2,2,1,1,2,3,2,2,2,2,1,2,3,4,1,1,1,1,2,1,1,3,1,1
+767,1,43,Female,American,English,2,9,At first it seemed like the child on the right was distracted by something else. It seemed like the children were interacting a bit with each other.,1,1,1,3,2,2,3,3,1,1,2,2,3,3,3,3,1,1,3,2,1,3,2,2,1,3,1,1,1,1
+767,1,43,Female,American,English,3,1,They had their hands in pretty much the same spot most of the time. It seemed like they were competing with each other.,4,2,1,3,1,1,2,2,2,2,3,3,1,1,2,2,3,3,4,4,1,1,1,1,1,1,2,2,1,1
+767,1,43,Female,American,English,4,5,They were playing separately. The child on the left was watching the child on the right.,1,2,3,2,3,1,1,3,1,1,1,3,3,1,2,2,1,2,2,3,2,1,3,1,2,1,1,3,3,1
+849,2,21,Female,American,English,1,16,The boy was rather demanding or in control. The girl was more submissive but did not seem like she had any sort of reaction to him shooing her hand away. ,4,1,1,3,3,1,1,1,0,3,1,3,3,1,4,1,0,4,4,4,0,0,3,0,3,3,0,4,4,0
+849,2,21,Female,American,English,2,20,They look like they are having fun. Each one is cooperating with the other. They are both happy. They look like they are friends.,0,4,1,4,0,0,4,4,0,0,4,4,0,0,4,4,0,0,4,4,0,0,0,0,0,0,4,1,0,3
+849,2,21,Female,American,English,3,4,They both looked happy. Both of the children were distracted from the table. They wanted to converse with each other more than what was going on at the table. They finally settled at the very end by concentrating on the table.,0,4,4,3,0,0,4,4,0,0,4,4,1,3,4,4,0,0,0,0,4,4,4,0,0,0,4,1,0,3
+849,2,21,Female,American,English,4,2,"The child on the left was not fully cooperating with the other child and kept him from doing something on his side of the table by covering it with his hand. They were both concentrating on what was going on at the table, but the child on the left looked like he was bored and the child on the right looked excited about what he was doing.",4,1,4,0,3,0,1,4,1,1,0,4,1,0,1,4,4,0,4,4,0,0,4,0,4,0,4,4,0,4
+151,2,33,Female,Indian,Tamil,1,19,It looks like they are playing a game or studying a map. They look calm and cooperative.,2,3,1,3,1,1,3,3,1,1,2,2,3,3,4,4,1,1,4,4,0,0,1,1,1,1,2,2,1,1
+151,2,33,Female,Indian,Tamil,2,9,It looked like both were playing separately. One is excited and the other one looks kind of bored.,2,2,3,1,1,2,1,1,2,2,3,2,1,2,2,2,2,2,3,1,1,3,1,3,3,3,3,2,1,2
+151,2,33,Female,Indian,Tamil,3,4,It looks like they were enjoying with each other. They were cooperative.,2,3,1,4,1,1,4,4,1,1,3,3,1,1,4,4,1,1,4,4,1,1,1,1,1,1,2,2,1,1
+151,2,33,Female,Indian,Tamil,4,6,It looks like they were playing calmly with each other. They are working with each other.,1,3,1,3,1,1,2,2,1,1,1,2,3,2,3,3,1,1,4,4,0,0,1,1,1,1,1,2,2,1
+150,2,28,Male,American,English,1,10,"They acted very excited about the interaction, the girl on the right freaked out a bit about something the girl on the left may have done. ",3,2,2,3,2,1,3,3,2,2,4,3,1,3,2,3,4,1,4,4,1,1,1,1,3,1,2,3,2,3
+150,2,28,Male,American,English,2,3,"The boy in the yellow shirt was very dominant and he was taking over the game they were playing, the girl was very surprised and felt she was being left out. ",4,1,2,3,0,3,4,2,2,2,4,1,1,3,1,3,4,0,4,3,0,1,0,3,1,4,4,0,0,4
+150,2,28,Male,American,English,3,4,"The boys seemed uninterested in the touchscreen for the majority of the video, they seemed to be interacting with some sort of cards. ",2,3,2,3,0,0,3,3,0,0,3,1,3,3,3,3,1,0,3,3,4,3,2,2,2,1,3,1,2,2
+150,2,28,Male,American,English,4,11,"The girl on the left was very dominant, the girl on the right felt distracted easily and was probably bored. ",2,3,2,3,0,2,3,2,1,1,4,1,3,3,3,3,3,1,4,1,0,3,0,3,1,3,4,0,0,4
+652,2,48,Female,American,English,1,1,The two young girls are having fun in this interaction.  They are smiling and interacting with one another happily.,1,3,1,4,0,0,3,3,1,1,3,3,1,0,4,4,3,3,3,3,1,1,1,1,1,1,2,2,0,0
+652,2,48,Female,American,English,2,4,They are talking with one another and smiling.  They are happily playing together. ,1,3,1,3,1,1,3,3,1,1,1,1,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+652,2,48,Female,American,English,3,20,The child on the right is mostly observing the child on the left.  The child on the left is doing his own thing and not really paying attention to the child on the right.,2,1,3,1,1,1,2,2,1,1,1,3,3,3,1,3,1,1,3,3,1,1,1,1,1,1,3,1,1,3
+652,2,48,Female,American,English,4,2,The child on the left is trying to just play by himself but the child on the right keeps interfering.  The child on the left looks like he would prefer to be alone.,2,1,3,1,3,1,1,3,2,1,1,3,3,1,1,2,2,2,3,3,1,1,2,1,3,1,1,3,2,1
+855,1,28,Male,American,English,1,12,The children seemed to be cooperating with each other by pointing out something to help the other,0,4,0,4,0,0,3,3,0,0,2,2,3,3,4,4,0,0,4,4,0,0,0,0,2,2,0,0,0,0
+855,1,28,Male,American,English,2,19,The child on the left seems to be more submissive than the one on the right,1,1,3,1,2,2,2,1,1,2,0,0,3,1,2,1,0,3,3,4,1,1,3,1,2,3,0,4,4,0
+855,1,28,Male,American,English,3,20,The child on the left was way more engaged in the game and the one on the right may have made a mistake,2,4,1,3,0,0,4,2,0,2,4,3,0,3,2,2,4,1,4,1,0,3,0,3,0,3,4,0,0,3
+855,1,28,Male,American,English,4,14,It's hard to tell if the children are competing or cooperating. It seems like the one on the right is a little more dominant. Both are very engaged in the game.,2,2,1,3,2,2,2,2,0,0,2,2,3,3,3,3,1,3,4,4,0,0,0,0,0,0,1,3,3,1
+408,2,30,Female,American,English,1,12,the girl in pink was very quick to use the girl in yellows side of the table and the girl in yellow was submissive and content with it,1,4,1,4,0,0,4,3,0,0,4,4,4,0,4,4,0,4,4,4,0,0,0,0,0,0,0,4,4,1
+408,2,30,Female,American,English,2,13,there was frustration and you could tell the girl in pink got upset,2,0,0,3,0,3,3,1,3,4,3,3,4,0,4,0,1,4,4,1,0,0,1,3,4,4,0,4,3,0
+408,2,30,Female,American,English,3,18,child on the right was very agressive and didnt let the other child play,2,0,2,2,4,1,0,1,3,3,1,4,1,0,3,0,1,4,3,3,0,0,4,1,4,3,1,4,4,0
+408,2,30,Female,American,English,4,11,they were communicating together and discussing strtegies they seemed happy,0,4,1,4,0,0,4,4,0,0,4,4,4,4,4,4,1,1,4,4,0,0,0,0,0,0,2,2,2,2
+314,1,29,Male,American,English,1,3,The two children was playing interesting.And both are excited.,3,3,3,3,1,0,3,3,1,1,3,3,1,1,3,3,1,1,3,3,1,1,1,1,2,2,3,2,2,2
+314,1,29,Male,American,English,2,4,The two children fighting with each other.Both are not mingle.,3,1,3,1,3,3,1,2,2,3,1,1,1,1,0,1,2,3,3,3,3,2,0,1,3,3,3,3,2,2
+314,1,29,Male,American,English,3,1,The two children play compete ting with each other.,0,3,2,3,1,1,3,3,1,1,3,3,2,3,3,3,1,1,3,3,1,1,1,1,1,1,3,3,2,2
+314,1,29,Male,American,English,4,14,the two children playing seriously with in the table.,2,3,2,2,0,1,3,3,1,1,3,3,3,3,3,3,3,2,3,3,1,1,1,1,1,1,3,3,1,1
+684,2,24,Female,Indian,Tamil,1,20,we are playing the game and it both of them enjoy to play the games,2,1,1,3,1,1,3,3,2,1,2,3,2,2,3,3,1,1,3,2,1,3,1,1,2,2,3,3,3,3
+684,2,24,Female,Indian,Tamil,2,4,now both of them happy to play and it enjoy at these moment,2,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,2,2,2,3,1,1
+684,2,24,Female,Indian,Tamil,3,1,we are playing together to play the game and it enjoyed on them,3,3,3,3,1,1,3,3,1,1,3,3,3,3,3,3,3,3,3,3,1,1,2,2,2,2,3,3,3,3
+684,2,24,Female,Indian,Tamil,4,2, we are playing both of them to enjoy the game,2,2,1,3,3,2,3,3,1,1,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3
+182,1,31,Male,American,English,1,11,The were cooperating and communicating to each about what was on the touchscreen.,2,4,1,3,1,0,1,2,2,2,2,2,1,3,2,3,1,2,4,4,0,0,1,0,3,2,1,3,3,1
+182,1,31,Male,American,English,2,10,The child on the right was showing the other child how to play. The child on the left watched and waited before interacting with the touchscreen. ,2,2,1,3,2,1,2,1,0,2,1,2,3,3,0,3,0,1,2,4,0,0,2,0,0,3,0,3,3,0
+182,1,31,Male,American,English,3,7,The child on the right carefully watched the other child's actions before gesturing and questioning the actions of the child on the left.,0,4,0,4,0,0,2,2,0,0,2,2,4,4,4,4,0,0,4,4,0,1,0,0,0,0,0,0,0,0
+182,1,31,Male,American,English,4,1,The were both very aggressive with one another. They seem to dislike the actions each of them took so they fought to correct each other.,4,0,0,0,2,2,0,0,3,3,2,2,0,0,0,0,4,4,4,4,0,0,0,0,4,4,4,4,0,0
+827,2,35,Female,American,English,1,8,They didn't interact with each other. The one in yellow wasn't very interested and didn't seem sure about what she should be doing.,1,1,4,1,1,0,2,3,0,0,1,1,3,4,3,2,0,0,0,4,4,0,4,1,1,1,0,3,1,3
+827,2,35,Female,American,English,2,2,The child on the left seemed to try to be dominate. The one on the left seemed happy.,3,0,2,2,1,0,1,3,1,1,1,3,1,1,0,4,4,0,3,3,0,0,0,0,1,1,4,0,0,0
+827,2,35,Female,American,English,3,7,They seemed to be working together and being friendly with each other.,1,4,0,4,0,1,3,3,0,0,1,1,4,4,4,4,0,0,3,3,0,1,1,0,1,1,1,1,1,3
+827,2,35,Female,American,English,4,6,The seemed to like playing together and neither one dominated the other.,1,4,1,4,1,0,4,4,0,0,1,1,4,4,4,4,0,0,4,4,0,0,1,1,0,0,1,1,1,3
+201,1,36,Male,Indian,Hindi,1,13,one is giving something and other is collecting given by first child,3,3,0,4,1,0,2,4,1,0,3,4,1,0,2,3,1,1,3,4,1,1,1,0,1,0,1,3,1,1
+201,1,36,Male,Indian,Hindi,2,1,they were counting something and left was head there,3,1,0,3,1,3,1,1,3,1,3,3,0,1,0,2,4,1,4,4,1,1,1,1,4,1,4,1,3,2
+201,1,36,Male,Indian,Hindi,3,15,although they are working seprately but in between they are interacting with each other,3,1,2,3,1,1,1,1,1,3,1,3,3,1,3,1,1,3,3,3,1,1,1,1,1,3,1,3,2,2
+201,1,36,Male,Indian,Hindi,4,19,they both are working together and doing good coperation with each other,1,3,1,3,1,1,3,3,1,1,3,3,3,3,3,3,0,0,3,3,0,0,1,1,1,1,1,1,1,1
+691,2,44,Male,American,English,1,15,"waiting for their turns, team play playing a game",2,4,0,3,2,1,4,3,0,0,3,3,4,4,3,2,0,0,4,4,0,0,1,1,0,0,1,3,2,0
+691,2,44,Male,American,English,2,11,Friendly equal team play,2,2,3,4,2,2,2,2,1,1,1,0,4,3,3,3,0,1,4,4,0,0,1,1,3,1,0,0,1,1
+691,2,44,Male,American,English,3,5,Bored to death. Killing time. REally not interested,1,2,3,1,1,1,3,2,1,1,1,0,2,3,2,2,0,1,3,2,3,2,4,4,3,2,1,1,0,0
+691,2,44,Male,American,English,4,12,Having a lot of fun interacting and playing with each other,0,2,2,3,0,1,4,2,1,0,4,2,1,1,2,2,1,1,4,4,0,0,0,3,0,2,0,0,0,0
+430,1,30,Male,Indian,Tamil,1,1,The children are actively playing with each other. They are very happy.,4,3,0,4,0,0,3,3,0,1,3,4,1,1,3,1,1,4,4,4,0,0,1,0,1,0,1,1,1,1
+430,1,30,Male,Indian,Tamil,2,20,The children are playing very interestingly. The child on the left side plays actively.,4,3,1,4,1,0,3,1,1,1,3,0,0,3,3,3,4,1,3,3,0,1,0,1,1,1,3,0,1,3
+430,1,30,Male,Indian,Tamil,3,2,Both the children are playing well. The child on the right side plays actively.,4,3,1,4,1,0,3,4,1,1,3,4,3,1,3,3,1,3,3,4,1,1,1,1,0,1,0,4,3,0
+430,1,30,Male,Indian,Tamil,4,17,I think both the children are arguing with each other. The child on the left side is unhappy.,1,3,0,4,3,0,1,3,3,0,1,4,1,1,3,0,1,4,4,4,3,0,1,1,3,1,0,4,3,0
+974,2,52,Female,American,English,1,16,The children seem to be drawing but not completely agreeing on how it should be drawn. The boy did not approve of something the girl did to his area of board.,1,2,2,2,1,1,2,2,1,2,1,3,3,1,3,2,1,3,3,3,1,1,1,1,1,3,2,1,1,1
+974,2,52,Female,American,English,2,1,They seemed to be playing together with a little friendly competition. They seemed excited and happy with a little physical hand play.,3,3,1,3,1,1,3,3,1,1,2,3,3,1,3,3,1,3,3,3,1,1,1,1,1,1,1,3,1,1
+974,2,52,Female,American,English,3,2,They are playing a game together but with separate objectives at times.It all seems friendly and they seem focused.,3,3,3,3,1,1,3,3,1,1,1,3,3,1,3,3,1,1,3,3,1,1,1,1,1,1,1,3,1,1
+974,2,52,Female,American,English,4,20,The boys seemed like they were playing separately at first but then together near end of clip. They seemed happy as boy on right was laughing.  ,2,3,3,2,1,1,3,4,1,0,1,4,3,2,3,3,1,2,2,2,1,1,1,1,1,1,3,1,2,1
+613,1,30,Male,American,English,1,14,they are playful,4,4,3,1,1,1,4,4,1,2,3,4,1,2,4,4,3,3,3,4,2,2,1,1,1,2,3,4,3,4
+613,1,30,Male,American,English,2,7,was good,4,4,1,4,3,2,4,4,4,3,3,3,2,2,4,4,4,4,4,4,1,2,2,1,1,2,4,4,2,1
+613,1,30,Male,American,English,3,13,they seem happy,3,4,4,2,4,3,3,2,3,4,4,2,3,4,2,3,3,3,3,3,4,3,3,3,3,2,4,3,2,3
+613,1,30,Male,American,English,4,11,hey enjoy playing together,4,4,3,3,4,4,3,4,4,4,3,3,4,4,3,2,3,3,3,3,2,4,2,3,4,3,2,3,2,3
+830,1,38,Female,American,English,1,11,They were both playing with the same toy/object. They seemed to interact well and communicated with words. They both seemed to be getting along.,1,3,2,3,1,1,3,3,1,1,3,2,1,3,3,3,1,1,3,3,1,1,1,1,1,1,2,2,2,2
+830,1,38,Female,American,English,2,4,"They seemed to be playing independently for the most part. The child on the right seemed to be doing her own thing, while the child on the left was doing something different. It looked like parallel play more than anything else.",2,1,4,1,2,2,2,2,2,1,2,1,1,3,2,2,3,1,1,3,3,1,1,1,3,1,2,2,1,1
+830,1,38,Female,American,English,3,9,"At first they seemed to be playing independently, but as the video progressed, they seemed to be playing with the same object. There was communication between them.",1,3,1,3,2,2,2,2,1,1,2,2,3,3,3,3,1,1,3,3,2,1,2,1,1,1,2,2,2,2
+830,1,38,Female,American,English,4,18,They didn't seem to be playing well. The child on the right was aggressive in dealing with the one on the left.,2,1,3,1,3,1,1,1,3,3,2,2,3,1,2,1,1,4,2,3,2,2,3,1,3,2,1,3,3,1
+944,2,28,Male,Indian,Tamil,1,5,The Children's playing in smart screen with latest upgrade devices.they are talking something about display on the screen. ,3,3,2,3,3,1,1,3,1,1,1,3,3,1,2,3,1,3,1,1,1,1,3,1,2,2,1,3,1,3
+944,2,28,Male,Indian,Tamil,2,11,The children's are minimum excitement to play game.they are talking something about this table.,4,2,0,3,3,3,3,2,1,1,1,1,1,1,3,3,3,3,4,4,1,1,3,3,1,1,1,3,1,1
+944,2,28,Male,Indian,Tamil,3,4,The boys play and pick a bit of paper and shown one to another.,4,4,1,4,1,0,3,4,1,1,4,4,3,1,4,4,1,3,3,3,4,4,0,0,1,1,3,2,1,1
+944,2,28,Male,Indian,Tamil,4,15,"The boys are engaged in the table,Right child more dominate in this video.",4,1,0,4,1,1,3,3,1,3,3,3,1,1,4,3,3,3,4,4,3,3,1,1,3,1,1,4,1,1
+155,2,23,Male,American,English,1,17,"It appeared one of them was rather bossy, as she kept pushing the other away, while the one girl laughed. It appeared one of them didn't want to share. ",3,0,3,1,0,0,4,3,0,3,4,1,0,1,4,0,0,4,4,4,1,0,0,0,1,4,0,4,3,0
+155,2,23,Male,American,English,2,6,"They were both calm, but happy seeming. They seemed to be working together. ",0,4,1,4,0,0,3,3,0,0,1,1,4,4,3,3,0,0,4,4,0,0,0,0,0,0,0,0,0,0
+155,2,23,Male,American,English,3,15,"They seemed to be playing well together, but then the boy on the right came through as the clearly dominate one and pushed the other boys hand away. They seemed happy though. ",3,3,1,3,0,0,3,3,0,1,3,3,3,3,3,3,0,3,4,4,0,0,0,0,1,3,0,4,4,0
+155,2,23,Male,American,English,4,14,"They seemed to be getting along and cooperating. They seemed happy playing together, and appeared to be working together. ",0,4,0,4,0,0,4,4,0,0,4,4,3,3,4,4,0,0,4,4,0,0,0,0,0,0,0,3,1,0
+268,2,27,Male,Indian,Malayalam,1,17,They were doing drawing of pictures by shading colors to pictures.,3,3,3,3,1,2,4,3,1,1,4,1,1,3,3,3,2,2,4,3,4,1,1,1,1,1,1,3,3,3
+268,2,27,Male,Indian,Malayalam,2,8,They were about to start playing each other with painting board,2,1,3,1,2,0,1,3,1,2,0,2,1,3,2,3,1,3,0,4,4,0,3,1,3,1,1,3,1,3
+268,2,27,Male,Indian,Malayalam,3,16,They were doing landscape painting with painting board together in school.,2,4,0,4,1,1,4,4,0,0,1,1,4,4,4,4,1,1,3,3,1,1,0,0,0,0,1,1,1,1
+268,2,27,Male,Indian,Malayalam,4,7,They were doing coloring with the paining learning board in school.,3,3,3,1,1,1,1,3,3,1,1,1,1,3,2,3,3,1,3,3,3,3,3,1,1,1,1,3,1,1
+893,2,30,Male,Indian,Tamil,1,1,PLAYING TOGETHER TO TOCHING GAME. VERY INTERESTING,2,3,2,3,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,2,3,3,2,2,3,3,2
+893,2,30,Male,Indian,Tamil,2,9,VERY INTERESTING TO PLAY . TOUCHING THE TABLE TO PLAY.,3,3,2,3,2,2,3,3,3,2,3,4,2,3,3,4,3,3,3,3,3,3,2,2,3,4,3,3,4,3
+893,2,30,Male,Indian,Tamil,3,14,TO PLAYING INTERESTING TOGETHER.,3,3,2,3,2,2,4,3,2,2,3,4,2,3,3,3,3,4,3,3,3,3,2,2,3,3,3,3,3,4
+893,2,30,Male,Indian,Tamil,4,11,VERY ENJOYABLE TO MOVEMENT PLAYING TOGETHER,3,3,2,3,2,2,3,4,2,2,4,3,2,2,3,4,3,3,4,3,3,3,2,2,3,3,4,3,3,3
+903,1,25,Female,American,English,1,10,"I didn't notice anything about them, I couldn't figure out what they're supposed to be doing. All I know is one brought their hands up to their face momentarily. ",2,3,0,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,3,3,2,2,2,2,2,2,2,2,2,2
+903,1,25,Female,American,English,2,5,The left one appeared to be typing something and the one the right was cleaning,1,3,3,2,2,2,2,2,1,1,1,2,3,2,2,2,0,1,1,3,2,2,3,2,2,1,2,2,2,2
+903,1,25,Female,American,English,3,2,I can't really tell what they're supposed to be doing at all.,2,3,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+903,1,25,Female,American,English,4,17,"I can't figure out what they are supposed to be doing, it looks random to me.",2,2,2,2,2,1,2,2,2,2,2,2,1,1,2,2,2,2,3,3,2,2,2,2,2,2,2,2,2,2
+667,2,57,Male,American,English,1,11,They seemed to take turns and one did what the other did and then they kind of just did their own things,1,3,2,3,0,0,3,3,1,1,2,2,2,2,3,3,3,1,3,2,2,1,1,1,1,1,3,1,1,3
+667,2,57,Male,American,English,2,9,then one on the right seemed to be giving direction to the other and the other did not like it at the end,3,2,3,2,1,1,2,2,3,1,1,1,1,2,1,2,2,3,1,3,1,1,1,1,3,2,1,3,1,1
+667,2,57,Male,American,English,3,12,"they seemed to be quiet, no one giving instruction. I think they were cooperating but hard to say",2,3,2,3,1,1,2,2,1,1,2,2,1,1,2,2,2,2,3,3,0,0,1,1,1,1,1,1,1,1
+667,2,57,Male,American,English,4,13,They both seem very happy and are having fun playing together,1,3,1,3,0,0,3,3,1,1,3,3,1,1,3,3,3,3,3,3,0,0,0,0,1,1,1,1,1,1
+622,1,38,Female,American,English,1,19,It seemed like they were playing with a keyboard.,2,3,3,3,2,2,2,2,2,2,2,2,2,3,2,2,2,2,3,3,2,2,2,2,2,3,3,1,2,3
+622,1,38,Female,American,English,2,10,They were also playing with a keyboard or something together.,2,3,1,3,2,2,2,2,2,2,3,3,1,3,2,2,2,2,3,3,2,2,2,2,2,2,1,3,1,1
+622,1,38,Female,American,English,3,5,they seemed to be interacting independently although they are across from each other,2,2,3,2,3,1,1,3,2,1,1,3,3,3,1,3,1,1,2,3,2,2,3,1,2,2,1,3,3,1
+622,1,38,Female,American,English,4,16,they seemed to be interacting with each other and playing a game ,2,3,1,3,2,2,2,2,2,2,3,1,1,3,2,2,3,1,3,3,2,2,1,1,2,2,3,1,1,3
+571,2,21,Male,Indian,Tamil,1,3,"THE CHILDREN WAS TOUCHING IN SCREEN AND PLAYING BOTH,AND THEY ARE VERY ENJOY THIS MOMENT AND VERY HAPPY.THE GIRL IS VERY BEAUTIFUL,BOY WAS VERY HANDSOME",2,3,3,2,1,1,2,3,2,1,2,1,1,1,3,2,3,2,3,2,3,3,2,1,2,2,2,3,3,3
+571,2,21,Male,Indian,Tamil,2,14,THE TWO CHILDREN ARE PLAYING IN TOUCH SCREEN THEY ARE VERY ENJOYED,4,3,0,1,3,0,2,4,0,1,4,1,4,3,1,4,3,0,0,4,1,0,1,0,3,0,3,2,3,2
+571,2,21,Male,Indian,Tamil,3,13,THE CHILDREN ARE PLAYING IN TOUCH SCREEN VERY WELL BUT SOMETIMES ANGRY TO ANOTHER CHILD,1,0,2,0,0,4,3,2,3,3,3,4,1,2,4,0,2,2,4,0,0,2,4,3,3,1,0,1,1,1
+571,2,21,Male,Indian,Tamil,4,7,THE CHILDREN ARE PLAYING AND SPEAKING VERY WELL AND THEY ARE  ENJOYED THIS GAME,0,1,3,1,2,4,0,1,0,0,0,1,4,0,0,0,4,0,1,1,1,4,0,0,2,0,0,1,1,1
+490,1,36,Female,American,English,1,2,It looked like they were coloring and sharing crayons. They looked like they were getting a long and sharing quite well. ,1,3,0,4,2,2,3,3,0,1,2,2,1,1,3,3,0,0,4,4,1,1,1,1,1,2,2,2,2,2
+490,1,36,Female,American,English,2,11,I noticed the child on the left stood up and maybe was a little frustrated. The child on the right stayed seated the whole time. ,2,2,1,4,2,2,2,3,3,1,2,2,1,3,2,2,3,1,2,3,1,1,2,1,3,1,3,1,1,3
+490,1,36,Female,American,English,3,3,The children both seemed content with whatever activity they were participating in. ,2,3,1,4,1,1,3,3,1,1,3,3,1,1,3,3,1,1,4,4,0,0,0,0,3,1,2,2,2,2
+490,1,36,Female,American,English,4,14,It seemed the child on the right was more dominant in whatever activity the children were partaking in. ,2,3,1,2,2,2,2,3,1,1,1,3,3,2,2,2,1,1,2,4,3,0,3,1,1,1,1,3,2,3
+703,2,34,Female,American,English,1,18,Video has no audio and the children are erase the word on the glass table,1,2,2,2,2,2,4,2,3,2,4,2,3,1,3,3,3,2,3,3,2,3,1,2,4,2,3,4,3,2
+703,2,34,Female,American,English,2,17,That video has no audio and the children are play in the screen,2,2,1,2,2,2,2,3,1,3,1,3,4,2,2,3,2,2,3,3,3,3,1,3,1,3,4,3,2,4
+703,2,34,Female,American,English,3,19,The children are play in the drawing table,2,1,1,1,2,2,3,2,3,1,1,3,3,2,3,2,2,3,3,3,3,3,2,1,1,3,2,3,2,3
+703,2,34,Female,American,English,4,9,The children are play in the drawing table,2,3,2,1,2,4,3,2,2,2,1,3,3,4,1,3,2,3,2,3,3,2,2,3,1,3,2,1,2,4
+483,2,46,Female,American,English,1,15,The boy in yellow did not want the boy in red to participate in the activity. He pushed his hand away when he tried to help.,1,1,3,1,3,1,3,1,1,1,3,3,3,3,3,1,1,2,1,3,1,1,3,1,3,3,1,3,3,1
+483,2,46,Female,American,English,2,2,The boy in yellow was trying to block his area from the boy in red. The boy in red continued trying to get to the boy in yellow's area anyway.,3,1,3,1,1,1,1,3,3,1,1,3,3,3,1,2,1,1,3,3,1,1,1,1,3,3,2,3,3,1
+483,2,46,Female,American,English,3,16,"They worked together to a certain extent. The boy was very excited and pushed the girl's hand away, but he did let her finish what she was doing.",1,3,1,3,1,1,2,2,1,1,1,3,3,1,3,3,1,3,3,3,1,1,2,1,2,3,1,2,1,1
+483,2,46,Female,American,English,4,7,They talked more than any of the other sets. They seemed to be working independently.,1,3,3,1,1,1,1,1,1,1,1,1,3,3,3,3,1,1,3,3,1,3,1,1,1,1,3,2,1,1
+620,2,38,Male,American,English,1,1,they are very compeating and active,4,0,0,4,1,1,4,4,1,1,4,4,2,2,4,4,3,3,4,4,3,3,1,1,1,1,3,3,3,3
+620,2,38,Male,American,English,2,2,they are not cooperating but they are active and happy,0,0,4,0,1,1,3,3,1,1,3,3,3,1,2,2,3,3,3,3,3,1,1,1,1,1,3,3,2,2
+620,2,38,Male,American,English,3,4,they are active and are cooperating well,1,4,0,4,0,0,4,4,0,0,4,4,3,3,4,4,3,3,3,3,3,3,0,0,0,0,3,3,3,3
+620,2,38,Male,American,English,4,20,they are active and lively,1,3,1,3,2,0,1,4,0,0,3,4,3,4,3,4,3,4,3,3,3,4,2,0,1,1,3,4,3,4
+224,2,58,Male,American,English,1,20,One child was drawing something on the screen and the second child was laughing at what was being done.,1,3,2,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,3,1,1,3
+224,2,58,Male,American,English,2,3,Both children were active and a little aggressive in handling the screen but were very interested in what they were doing.,3,3,1,3,1,1,3,3,1,1,3,3,1,3,3,3,3,3,3,3,1,1,1,1,1,2,3,3,1,1
+224,2,58,Male,American,English,3,17,Both children were happy but doing their own thing. The girl on the right was a little aggressive.,3,3,3,3,1,1,3,3,1,2,3,3,3,3,3,3,1,3,3,3,1,1,1,1,1,2,2,3,1,1
+224,2,58,Male,American,English,4,13,"Both children were very active with the screen and used it together, but both were aggressive but used it together. Little annoyance but cooperative.",3,3,3,3,1,1,3,3,1,1,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,3,3,1,1
+351,1,42,Male,American,English,1,4,I noticed them first reaching into a box and placing something in the table in front of them.  Then I noticed them interacting with the item on the table they took from the box.,2,2,1,3,2,2,2,2,1,1,2,2,2,2,2,2,1,1,3,3,1,1,1,1,1,1,2,2,1,1
+351,1,42,Male,American,English,2,17,I noticed the one was laughing on the left while the right one only laughed one time.,1,2,1,3,1,1,3,3,1,1,1,1,2,2,3,3,1,1,3,3,1,1,1,1,1,1,1,2,1,1
+351,1,42,Male,American,English,3,5,I noticed the child on the right was playing with something on the table while the child on the left seemed bored.,1,1,3,1,1,1,1,3,1,1,1,1,1,1,2,2,2,2,1,3,1,3,3,1,1,1,1,3,1,1
+351,1,42,Male,American,English,4,3,I noticed that they both seemed to be enjoying the time and were interacting with each other.,1,3,1,3,1,1,3,3,1,1,3,2,1,1,3,3,1,1,3,3,3,3,1,1,1,1,1,1,2,2
+367,2,28,Male,American,English,1,5,The girl in pink seemed as though she was enjoying herself. She actively played the game on the table top. The girl in yellow seemed as though she was very bored and uninterested.,0,0,4,0,2,0,0,4,3,0,0,4,1,4,1,4,1,0,0,4,1,0,4,0,2,0,0,4,1,1
+367,2,28,Male,American,English,2,12,They were both very active in playing the game on the tabletop. The girl in pink seemed a tad more serious in her playing than the girl in yellow.,3,4,0,4,0,0,4,4,0,0,4,4,4,3,4,4,0,1,4,4,0,0,0,0,0,0,0,4,4,0
+367,2,28,Male,American,English,3,13,"They are the same girls from before but this time, they seem to be interacting with each other more. They both seem happy and enjoying the game.",4,4,0,4,0,0,4,4,0,0,4,4,4,3,4,4,0,1,4,4,0,0,0,0,0,0,0,4,4,0
+367,2,28,Male,American,English,4,15,They both seemed to be working together to solve problems on the tabletop. Both seem to be cooperating and working together.,3,4,0,4,0,0,4,4,0,0,3,3,4,4,4,4,0,0,4,4,0,0,0,0,0,0,0,0,0,0
+931,2,24,Female,Indian,Tamil,1,12,"BOTH OF THEM PLAYING TOUCHPAD GAMES,I THINK IT IS MOST OF THE GIRLS PLAYING GAME.",3,4,2,4,1,2,4,4,1,1,4,4,3,3,4,4,3,3,4,4,1,1,1,1,2,3,2,2,3,3
+931,2,24,Female,Indian,Tamil,2,1,"
+BOTH OF THEM PLAYING SOME INTERESTING VIDEOGAMES FOR OUR TOUCHPAD,PALYED VERY INTERESTINGLY",3,1,2,4,1,3,1,2,4,1,3,3,1,3,1,3,4,3,4,4,1,3,2,2,1,3,3,1,2,3
+931,2,24,Female,Indian,Tamil,3,16,"BOTH OF THEM PLAYING SOME DRAWING GAMES FOR OUR TOUCHPAD,THEY ARE PLAYING VERY WELL AND INTERESTED.",3,3,1,4,3,1,1,4,1,3,3,3,4,2,3,1,1,3,4,4,1,1,2,2,3,1,1,4,3,3
+931,2,24,Female,Indian,Tamil,4,17,"BOTH OF THEM PLAYING SOME CREATING CIRCLE VIDEO GAME FOR OUR TOUCHPAD,THEY ARE VERY INTERESTED AND PLAYED VERY WELL.",3,4,3,3,1,3,4,1,2,4,3,3,1,4,1,4,4,4,4,4,3,1,3,2,2,4,1,4,2,3
+584,1,35,Male,American,English,1,2,It seems like they were doing something together.  It seemed they were both kind of into the activity. ,3,3,2,3,2,1,3,3,1,2,2,3,3,1,3,2,2,3,3,3,1,1,2,1,2,3,1,3,3,1
+584,1,35,Male,American,English,2,17,They seemed like they were picking over items on a table.  It's really hard to say though. ,1,3,1,3,2,2,2,2,1,1,2,2,3,3,3,3,1,1,4,4,2,2,2,2,2,2,2,2,2,2
+584,1,35,Male,American,English,3,15,The guy on the right was being a pick.  He was trying to keep the guy on the left off what he was doing. ,1,2,3,1,3,2,1,2,2,2,2,2,1,2,2,0,2,4,2,4,2,2,3,1,4,2,0,4,4,1
+584,1,35,Male,American,English,4,4,They seemed to have a toybox.  They were pulling items out of it and looking at stuff. ,2,3,2,3,2,2,2,2,1,1,3,2,2,2,3,3,2,2,3,3,2,2,2,3,2,2,2,2,2,2
+215,1,28,Female,American,English,1,4,it looks like they are building something together or playing with a toy together because they are both looking at something that is placed between them,1,4,0,4,1,1,4,4,0,0,2,2,3,2,3,3,1,0,3,4,0,1,2,0,1,0,0,3,3,0
+215,1,28,Female,American,English,2,6,the children look like the are cooperating well and working together on something,0,4,0,4,1,0,3,3,0,0,2,2,3,3,3,4,0,0,4,4,0,0,0,0,0,1,0,0,1,1
+215,1,28,Female,American,English,3,7,the child on the right looked like they were instructing the child on the left on what to do ,0,3,1,3,1,0,2,3,0,0,2,1,3,2,3,2,1,1,4,3,1,1,2,1,1,0,0,4,4,0
+215,1,28,Female,American,English,4,8,the child on the left was distracted and not being helpful to the child on the right. they were looking around a lot,1,1,1,2,2,1,2,3,0,0,0,1,3,3,2,2,0,0,0,4,4,0,3,0,2,0,1,1,2,3
+647,2,28,Male,Indian,Tamil,1,18,they interested to draw something in the table Glass,3,1,3,1,1,1,3,1,1,1,1,3,3,3,3,1,2,3,3,3,3,1,1,1,1,1,2,2,3,1
+647,2,28,Male,Indian,Tamil,2,17,The Left was try to do some on table. but the right side was heavily involved in drawing some.,1,3,1,3,1,1,3,3,1,1,3,3,1,3,3,4,3,1,3,3,3,3,1,1,1,1,1,1,1,3
+647,2,28,Male,Indian,Tamil,3,20,they are try to draw something,1,3,3,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+647,2,28,Male,Indian,Tamil,4,14,Two children try to draw something,3,3,3,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+746,1,26,Male,American,English,1,20,They were just doing stuff with their hands and not much else.,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+746,1,26,Male,American,English,2,17,They were doing more stuff with their hands and moving a bit more.,3,3,3,1,2,2,2,2,3,3,2,2,1,3,2,2,2,2,3,3,1,3,1,3,1,1,2,2,2,2
+746,1,26,Male,American,English,3,8,The one on the right seemed to be showing something to the one on the left.,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+746,1,26,Male,American,English,4,19,The one on the right seemed to be a performance or something for the one on the left.,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+222,2,35,Male,Indian,English,1,7,I think they were interacting about some scribbling done by one of the child.,3,3,1,3,1,3,3,3,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1
+222,2,35,Male,Indian,English,2,5,they are talking about the colors I think .,1,1,3,1,3,1,1,3,0,0,0,1,3,3,1,1,1,1,3,4,1,1,0,0,1,1,1,1,1,1
+222,2,35,Male,Indian,English,3,19,Both are perfectly engaged in the game.They found to be very interactive throughout the game.,3,4,1,4,0,0,3,3,0,0,3,3,3,3,3,3,0,0,4,4,0,0,0,0,0,0,0,0,1,1
+222,2,35,Male,Indian,English,4,18,Right side kid dominating the left kid and could found no proper cooperation given to the left side kid.,3,1,1,3,0,3,3,1,1,3,3,1,3,1,4,1,1,3,3,3,1,1,1,1,1,3,1,3,1,3
+171,1,22,Female,American,English,1,13,The kids tended to try and take over each other's spot and at one point had a small fight. ,2,1,3,2,1,1,2,2,1,3,3,1,3,1,2,1,0,3,3,2,1,1,1,2,1,3,0,4,4,0
+171,1,22,Female,American,English,2,5,They  didn't really interact with each other and one of them seemed bored compared to the other.,0,0,4,0,2,0,1,4,1,0,0,3,3,2,1,1,0,0,0,4,3,0,4,0,1,0,2,2,2,2
+171,1,22,Female,American,English,3,6,They looked like they were trying to accomplish something together and were playing together.,1,3,1,4,1,1,2,2,0,0,2,2,4,4,3,3,1,1,4,4,0,0,1,1,3,1,2,2,2,2
+171,1,22,Female,American,English,4,18,The kid on the right wanted to play but the kid on the left wouldn't let the kid on the right play.,1,0,4,0,2,1,2,2,2,1,0,1,3,0,3,0,0,4,2,3,2,1,3,0,3,1,0,4,4,0
+670,2,28,Male,Indian,Tamil,1,19,The children's play game on a table.The boys competent one to another.,4,3,1,4,1,1,3,3,1,1,4,3,1,3,3,3,3,3,4,4,1,1,1,1,3,1,1,3,1,1
+670,2,28,Male,Indian,Tamil,2,5,The children's play the game.The left girl get bored doing this.,3,3,1,4,3,1,1,3,1,1,1,3,3,1,1,3,1,3,3,4,3,1,4,1,1,1,1,3,1,1
+670,2,28,Male,Indian,Tamil,3,18,The children's engaged in the table right child more dominate this video.,4,1,1,4,1,1,3,3,3,3,3,1,1,1,3,3,3,3,4,4,1,1,1,1,3,3,1,4,1,1
+670,2,28,Male,Indian,Tamil,4,7,The children's talk something about this game.The right girl get bored about doing this.,4,3,1,4,1,3,4,1,1,1,3,1,1,3,3,3,3,1,4,1,1,4,1,4,3,1,4,1,1,1
+119,1,29,Male,American,English,1,13,"Two children playing game using hands, likely the game is hand cricket.",3,3,0,3,1,1,2,2,2,1,2,2,1,1,2,2,2,2,2,2,1,2,1,1,1,1,1,2,1,1
+119,1,29,Male,American,English,2,9,Two children playing the game. right one excited about his game. Left cooperating with him,2,3,1,3,2,1,2,2,2,2,1,3,3,1,3,1,1,3,1,1,1,1,1,1,2,2,1,3,3,1
+119,1,29,Male,American,English,3,16,Two children playing the game together. right one was excited and playing curiously ,2,3,1,3,2,1,2,2,1,1,1,3,3,1,3,1,1,3,2,2,2,2,1,1,2,2,1,3,2,1
+119,1,29,Male,American,English,4,7,Two children playing the game together. right one was asking something from left ,3,3,1,3,1,1,3,3,1,1,2,2,2,2,2,2,2,1,1,1,1,1,1,1,2,2,1,3,1,2
+606,2,30,Female,American,English,1,12,this children interacting about sketch the drawing and both are very interesting to draw the paint  ,3,2,3,3,1,2,1,0,2,2,2,3,1,1,4,3,2,3,2,3,3,4,3,4,3,2,2,3,3,4
+606,2,30,Female,American,English,2,14,this children was writing something on the writing board at home both are happy to see the write ,3,2,3,3,3,2,2,3,4,3,2,3,3,4,4,3,2,1,2,1,3,2,2,3,2,3,2,3,2,3
+606,2,30,Female,American,English,3,3,both children are very happy to write on the glass plate  ,3,2,2,3,1,2,2,3,2,3,3,4,1,2,2,3,3,2,2,1,3,4,2,3,3,2,1,3,3,1
+606,2,30,Female,American,English,4,4,this children are playing on the home with paper. then both are happy moment of this day,4,3,3,4,2,1,1,3,3,2,1,2,2,3,3,4,2,1,3,2,2,3,3,2,3,4,3,2,3,2
+440,2,27,Male,Indian,English,1,9,they doing some work in the table of some working lab,3,3,1,3,1,1,2,3,1,1,1,3,2,3,3,3,2,3,3,2,2,1,1,2,3,3,3,3,2,3
+440,2,27,Male,Indian,English,2,2,the children cleaning the table to part some area,2,3,1,3,2,1,1,2,2,3,3,2,2,3,3,3,3,2,3,2,3,1,1,2,1,2,3,2,2,3
+440,2,27,Male,Indian,English,3,13,the children are playing together with some parts of area,3,3,2,3,3,2,1,3,3,3,2,3,2,1,2,3,3,2,2,3,1,1,1,2,1,3,3,2,3,2
+440,2,27,Male,Indian,English,4,11,the children are playing in the table with one another,2,3,1,3,3,2,1,3,1,2,2,2,3,2,3,3,2,3,1,2,3,3,2,2,2,1,3,2,2,3
+327,2,25,Male,Indian,Tamil,1,15,Both the children are playing the game in touch pad very interestingly.,4,4,2,4,1,0,4,4,0,0,2,3,3,3,4,4,3,3,4,4,1,1,0,0,0,0,3,4,2,2
+327,2,25,Male,Indian,Tamil,2,6,Two children are doing something very sincerely in the touch pad. And they interact each other.,3,3,2,3,1,1,4,4,0,0,2,3,2,4,3,3,1,1,3,3,1,1,0,0,1,1,3,3,2,2
+327,2,25,Male,Indian,Tamil,3,1,Both the girl children are playing game very competitively and happily.,3,3,0,3,0,0,4,4,0,0,3,3,2,2,4,4,1,1,3,3,0,0,0,0,1,1,4,4,1,1
+327,2,25,Male,Indian,Tamil,4,14,Both the children are playing in touch pad with little amount of their interaction.,3,3,2,3,0,0,3,3,0,0,1,1,2,2,3,3,0,0,3,3,1,1,0,0,1,1,3,3,2,2
+408,2,35,Male,Indian,Tamil,1,5,Both are interacted with large size of display some unit..Hope both are play with some games or studies  ,1,1,3,2,4,1,1,3,2,1,0,3,2,3,0,3,1,2,2,3,2,0,4,0,4,1,1,3,3,2
+408,2,35,Male,Indian,Tamil,2,19,Both are interacted with the same large display ..hope both are seeing & discussing about world map ,1,4,1,4,1,2,3,3,0,1,3,2,3,3,3,3,1,1,3,3,1,3,1,1,0,0,1,1,2,1
+408,2,35,Male,Indian,Tamil,3,17,Both are painting with help of large display & Enjoying with painting ,4,3,1,3,1,1,4,3,0,1,4,1,1,2,3,3,2,1,1,3,4,1,0,1,1,2,3,2,1,2
+408,2,35,Male,Indian,Tamil,4,9,Both are coloring some objects with help of large display unit.. ,1,3,1,3,1,1,2,3,1,1,1,3,3,2,2,3,1,1,3,2,0,3,2,0,1,1,3,1,2,3
+760,2,26,Male,Indian,Tamil,1,4,They are playing a game.Elder one is guiding the younger one.,2,3,0,3,0,0,2,3,0,0,2,3,4,2,3,3,1,1,0,3,1,1,3,1,0,0,1,3,4,0
+760,2,26,Male,Indian,Tamil,2,8,Two kids were playing table game.One kid seems uninterested.,2,2,0,3,1,1,2,1,1,1,4,1,0,3,2,3,3,1,1,3,4,1,3,1,0,0,3,1,1,3
+760,2,26,Male,Indian,Tamil,3,6,Two kids were playing table game.These two seems very interested playing this.,1,4,1,4,0,0,2,0,0,0,1,3,4,1,3,4,1,1,3,4,0,0,0,0,0,0,1,3,3,1
+760,2,26,Male,Indian,Tamil,4,11,two kids enjoying table game.Seems like they are competing each other.,4,1,0,1,0,0,3,3,0,0,3,2,1,3,3,3,0,0,3,3,2,0,3,1,0,0,1,1,1,1
+793,2,21,Male,American,English,1,13,they were having fun doing something together so they synchronized and did the same action,2,3,0,4,1,1,3,2,0,3,3,3,4,2,4,3,1,3,3,3,2,1,1,1,1,3,0,4,4,1
+793,2,21,Male,American,English,2,3,they were both having fun together and looked surprised when they did a certain action,1,4,1,4,0,0,4,4,0,0,3,3,3,3,3,3,0,0,4,3,1,2,1,2,1,1,3,1,0,3
+793,2,21,Male,American,English,3,10,the girl on the right was hogging up all the space and the girl on the left was sitting there not doing much,3,1,4,1,4,0,1,3,2,1,1,3,3,1,3,1,1,3,1,3,3,1,3,1,3,0,0,4,4,0
+793,2,21,Male,American,English,4,19,the boy on the right was guiding the boy on the left telling him what to do,1,3,1,4,0,0,3,3,1,1,2,2,3,3,3,3,1,1,3,3,1,1,1,1,1,1,0,4,4,0
+877,2,38,Female,American,English,1,17,it seemed like where having a really good time playing with each other ,1,3,3,4,0,0,3,3,0,0,4,2,1,3,3,3,1,1,4,4,0,1,2,2,1,1,4,2,1,3
+877,2,38,Female,American,English,2,1,they was engaging with each other over the game table they lookedlike they was having fun,0,3,0,4,0,0,3,3,0,0,3,3,3,3,4,4,0,0,4,4,0,0,0,0,0,0,0,0,1,1
+877,2,38,Female,American,English,3,7,it seems like they was annoyed with each other with the one on the right over talking the other one ,2,1,3,1,2,2,0,0,3,2,1,1,1,1,1,1,3,1,1,3,3,1,3,1,3,3,2,2,1,1
+877,2,38,Female,American,English,4,6,they seemed to both be playing with each other doing something on the table ,0,4,0,4,0,0,3,3,0,0,1,1,3,3,4,4,2,1,4,4,4,0,0,0,0,0,0,0,0,0
+763,1,45,Male,Other,Other,1,2,I think this childrens played tailoring class.,3,2,3,3,2,1,2,3,1,2,2,2,3,1,2,4,3,2,3,2,2,2,3,3,1,1,3,3,1,4
+763,1,45,Male,Other,Other,2,10,i did't understand.,3,2,1,3,3,1,3,2,2,1,4,3,4,3,1,1,4,1,3,3,3,2,4,1,3,1,3,2,2,4
+763,1,45,Male,Other,Other,3,13,the childrens played,3,1,3,0,3,2,1,3,2,0,3,1,1,2,2,4,2,3,4,4,4,1,1,2,2,2,1,2,2,3
+763,1,45,Male,Other,Other,4,11,The childrens was playing,3,3,1,1,2,1,2,4,1,2,3,1,2,3,2,4,1,3,3,1,3,3,3,1,3,2,4,3,1,3
+495,2,34,Male,American,English,1,19,I noticed they seemed interested and that they were working together to get a task done on the touch screen. They paid attention to it while communicating to each other.,1,4,1,3,1,1,3,3,1,1,3,3,3,3,3,3,1,1,3,3,1,1,1,1,0,0,1,3,2,2
+495,2,34,Male,American,English,2,1,They looked like they were having a lot fun. Truly playing with each other and having fun. I enjoyed seeing the smiles.,3,3,0,4,0,0,4,4,0,0,3,3,3,3,4,4,1,1,4,4,0,0,0,0,1,1,1,1,1,1
+495,2,34,Male,American,English,3,8,Not much interaction between the two girls. The girl on the right seemed to want to complete the task. ,1,2,3,1,1,1,3,3,1,1,1,3,3,3,3,3,1,1,0,3,4,1,4,1,1,1,1,2,1,1
+495,2,34,Male,American,English,4,12,"Good interaction, I noticed no direct eye contact but they were having fun with each other. They were very involved in the ask at hand.",2,4,1,4,0,0,4,3,0,1,4,3,1,3,4,3,1,1,4,4,0,0,1,1,0,0,1,1,1,1
